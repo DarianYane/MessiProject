@@ -57,16 +57,19 @@ def update_csv():
     df = df.drop('Competition', axis=1)
     
     # Dividir los goles del resultado en 2 columnas
-    df[['Result_H', 'Result_A']] = df['Result'].str.split('-', expand=True)
+    df[['Goals_H', 'Goals_A']] = df['Result'].str.split('-', expand=True)
     # Convertir los "result" en int
-    df["Result_H"] = df["Result_H"].astype("int")
-    df["Result_A"] = df["Result_A"].astype("int")
+    df["Goals_H"] = df["Goals_H"].astype("int")
+    df["Goals_A"] = df["Goals_A"].astype("int")
     # Eliminar la columna "column_name"
     df = df.drop('Result', axis=1)
     
+    # Crear una nueva columna "Result" que contenga los valores "Home", "Away" o "Draw" dependiendo de los valores de "Goals_H" y "Goals_A"
+    df['Result'] = df.apply(lambda number: 'Home' if number['Goals_H'] > number['Goals_A'] else 'Away' if number['Goals_H'] < number['Goals_A'] else 'Draw', axis=1)
+    
     # Calcular la edad de Leo en cada gol
     from dateutil.relativedelta import relativedelta
-    df["leo_age"] = df['Date'].apply(lambda x: relativedelta(x.date(), leo_birthday.date()).years)
+    df["Leo_age"] = df['Date'].apply(lambda goal: relativedelta(goal.date(), leo_birthday.date()).years)
     
     #Guardar el DataFrame en un archivo CSV utilizando la función df.to_csv(), y en un archivo XLSX utilizando la función df.to_excel().
     df.to_csv("messi_goals.csv", index=False)

@@ -1,804 +1,804 @@
-#_of_Goal,Date,Home team,Away team,Minute,Partial_Score,What,How,Jersey,Competition_abb,Competition_name,Result_h,Result_a,leo_age
-803,2023-03-28,Argentina,Curaçao,37,5-0,Field goal,Left foot,10,FRN,International friendly,7,0,35
-802,2023-03-28,Argentina,Curaçao,33,3-0,Field goal,Left foot,10,FRN,International friendly,7,0,35
-801,2023-03-28,Argentina,Curaçao,20,1-0,Field goal,Right foot,10,FRN,International friendly,7,0,35
-800,2023-03-24,Argentina,Panama,89,2-0,Free kick,Left foot,10,FRN,International friendly,2,0,35
-799,2023-03-04,Paris Saint-Germain,FC Nantes,12,1-0,Field goal,Left foot,30,PRM,Ligue 1,4,2,35
-798,2023-02-26,Olympique Marseille,Paris Saint-Germain,29,0-2,Field goal,Right foot,30,PRM,Ligue 1,0,3,35
-797,2023-02-19,Paris Saint-Germain,Lille OSC,90+4,4-3,Free kick,Left foot,30,PRM,Ligue 1,4,3,35
-796,2023-02-04,Paris Saint-Germain,Toulouse FC,58,2-1,Field goal,Left foot,30,PRM,Ligue 1,2,1,35
-795,2023-02-01,Montpellier Hérault SC,Paris Saint-Germain,72,0-2,Field goal,Left foot,30,PRM,Ligue 1,1,3,35
-794,2023-01-11,Paris Saint-Germain,Angers SCO,72,2-0,Field goal,Right foot,30,PRM,Ligue 1,2,0,35
-793,2022-12-18,Argentina,France,23,1-0,Penalty,Left foot,10,WCP,World Cup 2022,3,3,35
-792,2022-12-18,Argentina,France,109,3-2,Rebound,Right foot,10,WCP,World Cup 2022,3,3,35
-791,2022-12-13,Argentina,Croatia,34,1-0,Penalty,Left foot,10,WCP,World Cup 2022,3,0,35
-790,2022-12-09,Netherlands,Argentina,73,0-2,Penalty,Left foot,10,WCP,World Cup 2022,2,2,35
-789,2022-12-03,Argentina,Australia,35,1-0,Field goal,Left foot,10,WCP,World Cup 2022,2,1,35
-788,2022-11-26,Argentina,Mexico,64,1-0,Field goal,Left foot,10,WCP,World Cup 2022,2,0,35
-787,2022-11-22,Argentina,Saudi Arabia,10,1-0,Penalty,Left foot,10,WCP,World Cup 2022,1,2,35
-786,2022-11-16,United Arab Emirates,Argentina,44,0-4,Field goal,Right foot,10,FRN,International friendly,0,5,35
-785,2022-10-29,Paris Saint-Germain,ES Troyes AC,55,2-2,Field goal,Left foot,30,PRM,Ligue 1,4,3,35
-784,2022-10-25,Paris Saint-Germain,Maccabi Haifa,44,4-1,Field goal,Left foot,30,EUR,UEFA Champions League,7,2,35
-783,2022-10-25,Paris Saint-Germain,Maccabi Haifa,19,1-0,Field goal,Left foot,30,EUR,UEFA Champions League,7,2,35
-782,2022-10-21,AC Ajaccio,Paris Saint-Germain,78,0-2,Field goal,Left foot,30,PRM,Ligue 1,0,3,35
-781,2022-10-05,Benfica,Paris Saint-Germain,22,0-1,Field goal,Left foot,30,EUR,UEFA Champions League,1,1,35
-780,2022-10-01,Paris Saint-Germain,OGC Nice,29,1-0,Free kick,Left foot,30,PRM,Ligue 1,2,1,35
-779,2022-09-27,Argentina,Jamaica,89,3-0,Free kick,Left foot,10,FRN,International friendly,3,0,35
-778,2022-09-27,Argentina,Jamaica,87,2-0,Field goal,Left foot,10,FRN,International friendly,3,0,35
-777,2022-09-23,Argentina,Honduras,69,3-0,Field goal,Left foot,10,FRN,International friendly,3,0,35
-776,2022-09-23,Argentina,Honduras,45+2,2-0,Penalty,Left foot,10,FRN,International friendly,3,0,35
-775,2022-09-18,Olympique Lyonnais,Paris Saint-Germain,5,0-1,Field goal,Left foot,30,PRM,Ligue 1,0,1,35
-774,2022-09-14,Maccabi Haifa,Paris Saint-Germain,37,1-1,Rebound,Left foot,30,EUR,UEFA Champions League,1,3,35
-773,2022-08-21,Lille OSC,Paris Saint-Germain,28,0-2,Field goal,Right foot,30,PRM,Ligue 1,1,7,35
-772,2022-08-06,Clermont Foot 63,Paris Saint-Germain,86,0-5,Field goal,Left foot,30,PRM,Ligue 1,0,5,35
-771,2022-08-06,Clermont Foot 63,Paris Saint-Germain,80,0-4,Field goal,Left foot,30,PRM,Ligue 1,0,5,35
-770,2022-07-31,Paris Saint-Germain,FC Nantes,22,1-0,Field goal,Right foot,30,SUP,Trophée des Champions,4,0,35
-769,2022-06-05,Argentina,Estonia,76,5-0,Rebound,Left foot,10,FRN,International friendly,5,0,34
-768,2022-06-05,Argentina,Estonia,71,4-0,Field goal,Right foot,10,FRN,International friendly,5,0,34
-767,2022-06-05,Argentina,Estonia,47,3-0,Field goal,Left foot,10,FRN,International friendly,5,0,34
-766,2022-06-05,Argentina,Estonia,45,2-0,Field goal,Left foot,10,FRN,International friendly,5,0,34
-765,2022-06-05,Argentina,Estonia,8,1-0,Penalty,Left foot,10,FRN,International friendly,5,0,34
-764,2022-05-14,Montpellier Hérault SC,Paris Saint-Germain,20,0-2,Field goal,Left foot,30,PRM,Ligue 1,0,4,34
-763,2022-05-14,Montpellier Hérault SC,Paris Saint-Germain,6,0-1,Field goal,Left foot,30,PRM,Ligue 1,0,4,34
-762,2022-04-23,Paris Saint-Germain,RC Lens,68,1-0,Field goal,Left foot,30,PRM,Ligue 1,1,1,34
-761,2022-04-03,Paris Saint-Germain,FC Lorient,73,4-1,Field goal,Left foot,30,PRM,Ligue 1,5,1,34
-760,2022-03-26,Argentina,Venezuela,82,3-0,Field goal,Right foot,10,WCQ,World Cup 2022 Qualification,3,0,34
-759,2022-02-06,Lille OSC,Paris Saint-Germain,38,1-3,Field goal,Left foot,30,PRM,Ligue 1,1,5,34
-758,2021-12-07,Paris Saint-Germain,Club Brugge,76,4-1,Penalty,Left foot,30,EUR,UEFA Champions League,4,1,34
-757,2021-12-07,Paris Saint-Germain,Club Brugge,38,3-0,Field goal,Left foot,30,EUR,UEFA Champions League,4,1,34
-756,2021-11-20,Paris Saint-Germain,FC Nantes,87,3-1,Field goal,Left foot,30,PRM,Ligue 1,3,1,34
-755,2021-10-19,Paris Saint-Germain,RB Leipzig,74,3-2,Penalty,Left foot,30,EUR,UEFA Champions League,3,2,34
-754,2021-10-19,Paris Saint-Germain,RB Leipzig,67,2-2,Rebound,Left foot,30,EUR,UEFA Champions League,3,2,34
-753,2021-10-10,Argentina,Uruguay,38,1-0,Field goal,Left foot,10,WCQ,World Cup 2022 Qualification,3,0,34
-752,2021-09-28,Paris Saint-Germain,Manchester City,74,2-0,Field goal,Left foot,30,EUR,UEFA Champions League,2,0,34
-751,2021-09-09,Argentina,Bolivia,88,3-0,Rebound,Left foot,10,WCQ,World Cup 2022 Qualification,3,0,34
-750,2021-09-09,Argentina,Bolivia,64,2-0,Field goal,Right foot,10,WCQ,World Cup 2022 Qualification,3,0,34
-749,2021-09-09,Argentina,Bolivia,14,1-0,Field goal,Left foot,10,WCQ,World Cup 2022 Qualification,3,0,34
-748,2021-07-03,Argentina,Ecuador,90+3,3-0,Free kick,Left foot,10,CPA,Copa América 2021,3,0,34
-747,2021-06-28,Bolivia,Argentina,42,0-3,Field goal,Left foot,10,CPA,Copa América 2021,1,4,34
-746,2021-06-28,Bolivia,Argentina,33,0-2,Penalty,Left foot,10,CPA,Copa América 2021,1,4,34
-745,2021-06-14,Argentina,Chile,33,1-0,Free kick,Left foot,10,CPA,Copa América 2021,1,1,33
-744,2021-06-04,Argentina,Chile,23,1-0,Penalty,Left foot,10,WCQ,World Cup 2022 Qualification,1,1,33
-743,2021-05-16,FC Barcelona,Celta de Vigo,28,1-0,Field goal,Head,10,PRM,La Liga,1,2,33
-742,2021-05-11,Levante,FC Barcelona,25,0-1,Field goal,Left foot,10,PRM,La Liga,3,3,33
-741,2021-05-02,Valencia,FC Barcelona,69,1-3,Free kick,Left foot,10,PRM,La Liga,2,3,33
-740,2021-05-02,Valencia,FC Barcelona,57,1-1,Rebound,Left foot,10,PRM,La Liga,2,3,33
-739,2021-04-29,FC Barcelona,Granada,23,1-0,Field goal,Left foot,10,PRM,La Liga,1,2,33
-738,2021-04-22,FC Barcelona,Getafe,33,3-1,Rebound,Left foot,10,PRM,La Liga,5,2,33
-737,2021-04-22,FC Barcelona,Getafe,8,1-0,Field goal,Left foot,10,PRM,La Liga,5,2,33
-736,2021-04-17,Athletic de Bilbao,FC Barcelona,72,0-4,Field goal,Left foot,10,CUP,Copa del Rey,0,4,33
-735,2021-04-17,Athletic de Bilbao,FC Barcelona,68,0-3,Field goal,Left foot,10,CUP,Copa del Rey,0,4,33
-734,2021-03-21,Real Sociedad,FC Barcelona,89,1-6,Field goal,Left foot,10,PRM,La Liga,1,6,33
-733,2021-03-21,Real Sociedad,FC Barcelona,57,0-4,Field goal,Left foot,10,PRM,La Liga,1,6,33
-732,2021-03-15,FC Barcelona,Huesca,90,4-1,Field goal,Left foot,10,PRM,La Liga,4,1,33
-731,2021-03-15,FC Barcelona,Huesca,13,1-0,Field goal,Left foot,10,PRM,La Liga,4,1,33
-730,2021-03-10,Paris Saint-Germain,FC Barcelona,37,1-1,Field goal,Left foot,10,EUR,UEFA Champions League,1,1,33
-729,2021-02-27,Sevilla,FC Barcelona,85,0-2,Rebound,Right foot,10,PRM,La Liga,0,2,33
-728,2021-02-24,FC Barcelona,Elche,68,2-0,Field goal,Left foot,10,PRM,La Liga,3,0,33
-727,2021-02-24,FC Barcelona,Elche,48,1-0,Field goal,Left foot,10,PRM,La Liga,3,0,33
-726,2021-02-21,FC Barcelona,Cádiz,32,1-0,Penalty,Left foot,10,PRM,La Liga,1,1,33
-725,2021-02-16,FC Barcelona,Paris Saint-Germain,28,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,1,4,33
-724,2021-02-13,FC Barcelona,Alavés,75,4-1,Field goal,Left foot,10,PRM,La Liga,5,1,33
-723,2021-02-13,FC Barcelona,Alavés,45+1,2-0,Field goal,Left foot,10,PRM,La Liga,5,1,33
-722,2021-02-07,Real Betis,FC Barcelona,60,1-1,Field goal,Left foot,10,PRM,La Liga,2,3,33
-721,2021-01-31,FC Barcelona,Athletic de Bilbao,20,1-0,Free kick,Left foot,10,PRM,La Liga,2,1,33
-720,2021-01-27,Rayo Vallecano,FC Barcelona,70,1-1,Field goal,Left foot,10,CUP,Copa del Rey,1,2,33
-719,2021-01-09,Granada,FC Barcelona,42,0-3,Free kick,Left foot,10,PRM,La Liga,0,4,33
-718,2021-01-09,Granada,FC Barcelona,35,0-2,Field goal,Left foot,10,PRM,La Liga,0,4,33
-717,2021-01-06,Athletic de Bilbao,FC Barcelona,62,1-3,Field goal,Left foot,10,PRM,La Liga,2,3,33
-716,2021-01-06,Athletic de Bilbao,FC Barcelona,38,1-2,Field goal,Left foot,10,PRM,La Liga,2,3,33
-715,2020-12-22,Real Valladolid,FC Barcelona,65,0-3,Field goal,Left foot,10,PRM,La Liga,0,3,33
-714,2020-12-19,FC Barcelona,Valencia,45+4,1-1,Field goal,Head,10,PRM,La Liga,2,2,33
-713,2020-12-13,FC Barcelona,Levante,76,1-0,Field goal,Left foot,10,PRM,La Liga,1,0,33
-712,2020-11-29,FC Barcelona,Osasuna,73,4-0,Field goal,Left foot,10,PRM,La Liga,4,0,33
-711,2020-11-07,FC Barcelona,Real Betis,82,4-2,Field goal,Left foot,10,PRM,La Liga,5,2,33
-710,2020-11-07,FC Barcelona,Real Betis,61,3-1,Penalty,Left foot,10,PRM,La Liga,5,2,33
-709,2020-11-04,FC Barcelona,Dynamo Kyiv,5,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,2,1,33
-708,2020-10-28,Juventus,FC Barcelona,90+1,0-2,Penalty,Left foot,10,EUR,UEFA Champions League,0,2,33
-707,2020-10-20,FC Barcelona,Ferencváros,27,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,5,1,33
-706,2020-10-09,Argentina,Ecuador,13,1-0,Penalty,Left foot,10,WCQ,World Cup 2022 Qualification,1,0,33
-705,2020-09-27,FC Barcelona,Villarreal,35,3-0,Penalty,Left foot,10,PRM,La Liga,4,0,33
-704,2020-08-08,FC Barcelona,Napoli,23,2-0,Rebound,Left foot,10,EUR,UEFA Champions League,3,1,33
-703,2020-07-19,Alavés,FC Barcelona,75,0-5,Field goal,Left foot,10,PRM,La Liga,0,5,33
-702,2020-07-19,Alavés,FC Barcelona,34,0-2,Field goal,Left foot,10,PRM,La Liga,0,5,33
-701,2020-07-16,FC Barcelona,Osasuna,62,1-1,Free kick,Left foot,10,PRM,La Liga,1,2,33
-700,2020-06-30,FC Barcelona,Atlético Madrid,50,2-1,Penalty,Left foot,10,PRM,La Liga,2,2,33
-699,2020-06-16,FC Barcelona,Leganés,69,2-0,Penalty,Left foot,10,PRM,La Liga,2,0,32
-698,2020-06-13,Real Mallorca,FC Barcelona,90+3,0-4,Field goal,Right foot,10,PRM,La Liga,0,4,32
-697,2020-03-07,FC Barcelona,Real Sociedad,81,1-0,Penalty,Left foot,10,PRM,La Liga,1,0,32
-696,2020-02-22,FC Barcelona,Eibar,87,4-0,Rebound,Left foot,10,PRM,La Liga,5,0,32
-695,2020-02-22,FC Barcelona,Eibar,40,3-0,Rebound,Left foot,10,PRM,La Liga,5,0,32
-694,2020-02-22,FC Barcelona,Eibar,37,2-0,Field goal,Left foot,10,PRM,La Liga,5,0,32
-693,2020-02-22,FC Barcelona,Eibar,14,1-0,Field goal,Left foot,10,PRM,La Liga,5,0,32
-692,2020-01-30,FC Barcelona,Leganés,89,5-0,Field goal,Left foot,10,CUP,Copa del Rey,5,0,32
-691,2020-01-30,FC Barcelona,Leganés,59,3-0,Field goal,Left foot,10,CUP,Copa del Rey,5,0,32
-690,2020-01-19,FC Barcelona,Granada,76,1-0,Field goal,Right foot,10,PRM,La Liga,1,0,32
-689,2020-01-09,FC Barcelona,Atlético Madrid,51,1-1,Field goal,Right foot,10,SUP,Spanish Super Cup,2,3,32
-688,2019-12-21,FC Barcelona,Alavés,69,3-1,Field goal,Left foot,10,PRM,La Liga,4,1,32
-687,2019-12-07,FC Barcelona,Real Mallorca,83,5-2,Field goal,Left foot,10,PRM,La Liga,5,2,32
-686,2019-12-07,FC Barcelona,Real Mallorca,41,3-1,Field goal,Left foot,10,PRM,La Liga,5,2,32
-685,2019-12-07,FC Barcelona,Real Mallorca,17,2-0,Field goal,Left foot,10,PRM,La Liga,5,2,32
-684,2019-12-01,Atlético Madrid,FC Barcelona,86,0-1,Field goal,Left foot,10,PRM,La Liga,0,1,32
-683,2019-11-27,FC Barcelona,Borussia Dortmund,33,2-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,1,32
-682,2019-11-18,Argentina,Uruguay,90+2,2-2,Penalty,Left foot,10,FRN,International friendly,2,2,32
-681,2019-11-15,Brazil,Argentina,13,0-1,Rebound,Left foot,10,FRN,International friendly,0,1,32
-680,2019-11-09,FC Barcelona,Celta de Vigo,48,3-1,Free kick,Left foot,10,PRM,La Liga,4,1,32
-679,2019-11-09,FC Barcelona,Celta de Vigo,45,2-1,Free kick,Left foot,10,PRM,La Liga,4,1,32
-678,2019-11-09,FC Barcelona,Celta de Vigo,23,1-0,Penalty,Left foot,10,PRM,La Liga,4,1,32
-677,2019-11-02,Levante,FC Barcelona,38,0-1,Penalty,Left foot,10,PRM,La Liga,3,1,32
-676,2019-10-29,FC Barcelona,Real Valladolid,75,4-1,Field goal,Left foot,10,PRM,La Liga,5,1,32
-675,2019-10-29,FC Barcelona,Real Valladolid,34,3-1,Free kick,Left foot,10,PRM,La Liga,5,1,32
-674,2019-10-23,Slavia Prague,FC Barcelona,3,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,1,2,32
-673,2019-10-19,Eibar,FC Barcelona,58,0-2,Field goal,Left foot,10,PRM,La Liga,0,3,32
-672,2019-10-06,FC Barcelona,Sevilla,78,4-0,Free kick,Left foot,10,PRM,La Liga,4,0,32
-671,2019-06-19,Argentina,Paraguay,57,1-1,Penalty,Left foot,10,CPA,Copa América 2019,1,1,31
-670,2019-06-08,Argentina,Nicaragua,38,2-0,Rebound,Left foot,10,FRN,International friendly,5,1,31
-669,2019-06-08,Argentina,Nicaragua,37,1-0,Field goal,Left foot,10,FRN,International friendly,5,1,31
-668,2019-05-25,FC Barcelona,Valencia,73,1-2,Rebound,Left foot,10,CUP,Copa del Rey,1,2,31
-667,2019-05-19,Eibar,FC Barcelona,32,0-2,Field goal,Left foot,10,PRM,La Liga,2,2,31
-666,2019-05-19,Eibar,FC Barcelona,31,0-1,Field goal,Left foot,10,PRM,La Liga,2,2,31
-665,2019-05-01,FC Barcelona,Liverpool,82,3-0,Free kick,Left foot,10,EUR,UEFA Champions League,3,0,31
-664,2019-05-01,FC Barcelona,Liverpool,75,2-0,Rebound,Left foot,10,EUR,UEFA Champions League,3,0,31
-663,2019-04-27,FC Barcelona,Levante,62,1-0,Field goal,Left foot,10,PRM,La Liga,1,0,31
-662,2019-04-16,FC Barcelona,Manchester United,20,2-0,Field goal,Right foot,10,EUR,UEFA Champions League,3,0,31
-661,2019-04-16,FC Barcelona,Manchester United,16,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,0,31
-660,2019-04-06,FC Barcelona,Atlético Madrid,87,2-0,Field goal,Left foot,10,PRM,La Liga,2,0,31
-659,2019-04-02,Villarreal,FC Barcelona,90+1,4-3,Free kick,Left foot,10,PRM,La Liga,4,4,31
-658,2019-03-30,FC Barcelona,Espanyol,89,2-0,Field goal,Left foot,10,PRM,La Liga,2,0,31
-657,2019-03-30,FC Barcelona,Espanyol,71,1-0,Free kick,Left foot,10,PRM,La Liga,2,0,31
-656,2019-03-17,Real Betis,FC Barcelona,85,1-4,Field goal,Left foot,10,PRM,La Liga,1,4,31
-655,2019-03-17,Real Betis,FC Barcelona,45+2,0-2,Field goal,Left foot,10,PRM,La Liga,1,4,31
-654,2019-03-17,Real Betis,FC Barcelona,18,0-1,Free kick,Left foot,10,PRM,La Liga,1,4,31
-653,2019-03-13,FC Barcelona,Olympique Lyonnais,78,3-1,Field goal,Right foot,10,EUR,UEFA Champions League,5,1,31
-652,2019-03-13,FC Barcelona,Olympique Lyonnais,18,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,5,1,31
-651,2019-03-09,FC Barcelona,Rayo Vallecano,51,2-1,Penalty,Left foot,10,PRM,La Liga,3,1,31
-650,2019-02-23,Sevilla,FC Barcelona,85,2-3,Field goal,Left foot,10,PRM,La Liga,2,4,31
-649,2019-02-23,Sevilla,FC Barcelona,67,2-2,Field goal,Right foot,10,PRM,La Liga,2,4,31
-648,2019-02-23,Sevilla,FC Barcelona,26,1-1,Field goal,Left foot,10,PRM,La Liga,2,4,31
-647,2019-02-16,FC Barcelona,Real Valladolid,43,1-0,Penalty,Left foot,10,PRM,La Liga,1,0,31
-646,2019-02-02,FC Barcelona,Valencia,64,2-2,Field goal,Left foot,10,PRM,La Liga,2,2,31
-645,2019-02-02,FC Barcelona,Valencia,39,1-2,Penalty,Left foot,10,PRM,La Liga,2,2,31
-644,2019-01-30,FC Barcelona,Sevilla,90+2,6-1,Field goal,Left foot,10,CUP,Copa del Rey,6,1,31
-643,2019-01-27,Girona,FC Barcelona,68,0-2,Field goal,Left foot,10,PRM,La Liga,0,2,31
-642,2019-01-20,FC Barcelona,Leganés,90+2,3-1,Field goal,Right foot,10,PRM,La Liga,3,1,31
-641,2019-01-17,FC Barcelona,Levante,54,3-0,Field goal,Left foot,10,CUP,Copa del Rey,3,0,31
-640,2019-01-13,FC Barcelona,Eibar,53,2-0,Field goal,Left foot,10,PRM,La Liga,3,0,31
-639,2019-01-06,Getafe,FC Barcelona,20,0-1,Field goal,Left foot,10,PRM,La Liga,1,2,31
-638,2018-12-22,FC Barcelona,Celta de Vigo,45,2-0,Field goal,Left foot,10,PRM,La Liga,2,0,31
-637,2018-12-16,Levante,FC Barcelona,60,0-4,Field goal,Left foot,10,PRM,La Liga,0,5,31
-636,2018-12-16,Levante,FC Barcelona,47,0-3,Field goal,Left foot,10,PRM,La Liga,0,5,31
-635,2018-12-16,Levante,FC Barcelona,43,0-2,Field goal,Right foot,10,PRM,La Liga,0,5,31
-634,2018-12-08,Espanyol,FC Barcelona,65,0-4,Free kick,Left foot,10,PRM,La Liga,0,4,31
-633,2018-12-08,Espanyol,FC Barcelona,18,0-1,Free kick,Left foot,10,PRM,La Liga,0,4,31
-632,2018-11-28,PSV Eindhoven,FC Barcelona,61,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,1,2,31
-631,2018-11-11,FC Barcelona,Real Betis,90+2,3-4,Field goal,Left foot,10,PRM,La Liga,3,4,31
-630,2018-11-11,FC Barcelona,Real Betis,68,1-2,Penalty,Left foot,10,PRM,La Liga,3,4,31
-629,2018-10-20,FC Barcelona,Sevilla,12,2-0,Field goal,Left foot,10,PRM,La Liga,4,2,31
-628,2018-10-07,Valencia,FC Barcelona,23,1-1,Field goal,Left foot,10,PRM,La Liga,1,1,31
-627,2018-10-03,Tottenham Hotspur F.C.,FC Barcelona,90,2-4,Field goal,Left foot,10,EUR,UEFA Champions League,2,4,31
-626,2018-10-03,Tottenham Hotspur F.C.,FC Barcelona,56,1-3,Field goal,Left foot,10,EUR,UEFA Champions League,2,4,31
-625,2018-09-23,FC Barcelona,Girona,19,1-0,Field goal,Left foot,10,PRM,La Liga,2,2,31
-624,2018-09-18,FC Barcelona,PSV Eindhoven,87,4-0,Field goal,Right foot,10,EUR,UEFA Champions League,4,0,31
-623,2018-09-18,FC Barcelona,PSV Eindhoven,77,3-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,31
-622,2018-09-18,FC Barcelona,PSV Eindhoven,32,1-0,Free kick,Left foot,10,EUR,UEFA Champions League,4,0,31
-621,2018-09-02,FC Barcelona,Huesca,61,6-2,Field goal,Left foot,10,PRM,La Liga,8,2,31
-620,2018-09-02,FC Barcelona,Huesca,16,1-1,Field goal,Right foot,10,PRM,La Liga,8,2,31
-619,2018-08-18,FC Barcelona,Alavés,90+2,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,31
-618,2018-08-18,FC Barcelona,Alavés,64,1-0,Free kick,Left foot,10,PRM,La Liga,3,0,31
-617,2018-06-26,Nigeria,Argentina,14,0-1,Field goal,Right foot,10,WCP,World Cup 2018,1,2,31
-616,2018-05-29,Argentina,Haiti,66,3-0,Field goal,Left foot,10,FRN,International friendly,4,0,30
-615,2018-05-29,Argentina,Haiti,58,2-0,Rebound,Right foot,10,FRN,International friendly,4,0,30
-614,2018-05-29,Argentina,Haiti,17,1-0,Penalty,Left foot,10,FRN,International friendly,4,0,30
-613,2018-05-09,FC Barcelona,Villarreal,45,3-0,Field goal,Left foot,10,PRM,La Liga,5,1,30
-612,2018-05-06,FC Barcelona,Real Madrid,52,2-1,Field goal,Left foot,10,PRM,La Liga,2,2,30
-611,2018-04-29,Deportivo La Coruña,FC Barcelona,85,2-4,Field goal,Left foot,10,PRM,La Liga,2,4,30
-610,2018-04-29,Deportivo La Coruña,FC Barcelona,82,2-3,Field goal,Right foot,10,PRM,La Liga,2,4,30
-609,2018-04-29,Deportivo La Coruña,FC Barcelona,38,0-2,Field goal,Left foot,10,PRM,La Liga,2,4,30
-608,2018-04-21,Sevilla,FC Barcelona,31,0-2,Field goal,Left foot,10,CUP,Copa del Rey,0,5,30
-607,2018-04-07,FC Barcelona,Leganés,87,3-1,Field goal,Left foot,10,PRM,La Liga,3,1,30
-606,2018-04-07,FC Barcelona,Leganés,32,2-0,Field goal,Left foot,10,PRM,La Liga,3,1,30
-605,2018-04-07,FC Barcelona,Leganés,27,1-0,Free kick,Left foot,10,PRM,La Liga,3,1,30
-604,2018-03-31,Sevilla,FC Barcelona,89,2-2,Field goal,Left foot,10,PRM,La Liga,2,2,30
-603,2018-03-18,FC Barcelona,Athletic de Bilbao,30,2-0,Field goal,Left foot,10,PRM,La Liga,2,0,30
-602,2018-03-14,FC Barcelona,Chelsea,63,3-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,0,30
-601,2018-03-14,FC Barcelona,Chelsea,3,1-0,Field goal,Right foot,10,EUR,UEFA Champions League,3,0,30
-600,2018-03-04,FC Barcelona,Atlético Madrid,26,1-0,Free kick,Left foot,10,PRM,La Liga,1,0,30
-599,2018-03-01,Las Palmas,FC Barcelona,21,0-1,Free kick,Left foot,10,PRM,La Liga,1,1,30
-598,2018-02-24,FC Barcelona,Girona,36,3-1,Free kick,Left foot,10,PRM,La Liga,6,1,30
-597,2018-02-24,FC Barcelona,Girona,30,2-1,Field goal,Left foot,10,PRM,La Liga,6,1,30
-596,2018-02-20,Chelsea,FC Barcelona,75,1-1,Field goal,Left foot,10,EUR,UEFA Champions League,1,1,30
-595,2018-01-28,FC Barcelona,Alavés,84,2-1,Free kick,Left foot,10,PRM,La Liga,2,1,30
-594,2018-01-25,FC Barcelona,Espanyol,25,2-0,Field goal,Left foot,10,CUP,Copa del Rey,2,0,30
-593,2018-01-21,Real Betis,FC Barcelona,80,0-4,Solo run,Left foot,10,PRM,La Liga,0,5,30
-592,2018-01-21,Real Betis,FC Barcelona,64,0-2,Field goal,Left foot,10,PRM,La Liga,0,5,30
-591,2018-01-14,Real Sociedad,FC Barcelona,85,2-4,Free kick,Left foot,10,PRM,La Liga,2,4,30
-590,2018-01-11,FC Barcelona,Celta de Vigo,15,2-0,Field goal,Left foot,10,CUP,Copa del Rey,5,0,30
-589,2018-01-11,FC Barcelona,Celta de Vigo,13,1-0,Field goal,Left foot,10,CUP,Copa del Rey,5,0,30
-588,2018-01-07,FC Barcelona,Levante,12,1-0,Field goal,Left foot,10,PRM,La Liga,3,0,30
-587,2017-12-23,Real Madrid,FC Barcelona,64,0-2,Penalty,Left foot,10,PRM,La Liga,0,3,30
-586,2017-12-10,Villarreal,FC Barcelona,83,0-2,Field goal,Left foot,10,PRM,La Liga,0,2,30
-585,2017-12-02,FC Barcelona,Celta de Vigo,22,1-1,Field goal,Left foot,10,PRM,La Liga,2,2,30
-584,2017-10-28,Athletic de Bilbao,FC Barcelona,36,0-1,Field goal,Left foot,10,PRM,La Liga,0,2,30
-583,2017-10-18,FC Barcelona,Olympiacos,61,2-0,Free kick,Left foot,10,EUR,UEFA Champions League,3,1,30
-582,2017-10-10,Ecuador,Argentina,63,1-3,Field goal,Left foot,10,WCQ,World Cup 2018 Qualification,1,3,30
-581,2017-10-10,Ecuador,Argentina,20,1-2,Field goal,Left foot,10,WCQ,World Cup 2018 Qualification,1,3,30
-580,2017-10-10,Ecuador,Argentina,12,1-1,Field goal,Left foot,10,WCQ,World Cup 2018 Qualification,1,3,30
-579,2017-10-01,FC Barcelona,Las Palmas,77,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,30
-578,2017-10-01,FC Barcelona,Las Palmas,71,2-0,Field goal,Left foot,10,PRM,La Liga,3,0,30
-577,2017-09-19,FC Barcelona,Eibar,87,6-1,Field goal,Left foot,10,PRM,La Liga,6,1,30
-576,2017-09-19,FC Barcelona,Eibar,62,5-1,Field goal,Left foot,10,PRM,La Liga,6,1,30
-575,2017-09-19,FC Barcelona,Eibar,59,4-1,Field goal,Left foot,10,PRM,La Liga,6,1,30
-574,2017-09-19,FC Barcelona,Eibar,20,1-0,Penalty,Left foot,10,PRM,La Liga,6,1,30
-573,2017-09-12,FC Barcelona,Juventus,69,3-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,0,30
-572,2017-09-12,FC Barcelona,Juventus,45,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,0,30
-571,2017-09-09,FC Barcelona,Espanyol,67,3-0,Field goal,Left foot,10,PRM,La Liga,5,0,30
-570,2017-09-09,FC Barcelona,Espanyol,35,2-0,Field goal,Right foot,10,PRM,La Liga,5,0,30
-569,2017-09-09,FC Barcelona,Espanyol,26,1-0,Field goal,Left foot,10,PRM,La Liga,5,0,30
-568,2017-08-26,Alavés,FC Barcelona,66,0-2,Field goal,Left foot,10,PRM,La Liga,0,2,30
-567,2017-08-26,Alavés,FC Barcelona,55,0-1,Field goal,Left foot,10,PRM,La Liga,0,2,30
-566,2017-08-13,FC Barcelona,Real Madrid,76,1-1,Penalty,Left foot,10,SUP,Spanish Super Cup,1,3,30
-565,2017-05-27,FC Barcelona,Alavés,30,1-0,Field goal,Left foot,10,CUP,Copa del Rey,3,1,29
-564,2017-05-21,FC Barcelona,Eibar,90+2,4-2,Solo run,Right foot,10,PRM,La Liga,4,2,29
-563,2017-05-21,FC Barcelona,Eibar,76,3-2,Penalty,Left foot,10,PRM,La Liga,4,2,29
-562,2017-05-06,FC Barcelona,Villarreal,82,4-1,Penalty,Left foot,10,PRM,La Liga,4,1,29
-561,2017-05-06,FC Barcelona,Villarreal,45,2-1,Field goal,Left foot,10,PRM,La Liga,4,1,29
-560,2017-04-26,FC Barcelona,Osasuna,61,4-1,Field goal,Left foot,10,PRM,La Liga,7,1,29
-559,2017-04-26,FC Barcelona,Osasuna,12,1-0,Field goal,Left foot,10,PRM,La Liga,7,1,29
-558,2017-04-23,Real Madrid,FC Barcelona,90+2,2-3,Field goal,Left foot,10,PRM,La Liga,2,3,29
-557,2017-04-23,Real Madrid,FC Barcelona,33,1-1,Field goal,Left foot,10,PRM,La Liga,2,3,29
-556,2017-04-15,FC Barcelona,Real Sociedad,37,2-0,Rebound,Left foot,10,PRM,La Liga,3,2,29
-555,2017-04-15,FC Barcelona,Real Sociedad,17,1-0,Field goal,Left foot,10,PRM,La Liga,3,2,29
-554,2017-04-05,FC Barcelona,Sevilla,33,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,29
-553,2017-04-05,FC Barcelona,Sevilla,28,2-0,Field goal,Right foot,10,PRM,La Liga,3,0,29
-552,2017-03-23,Argentina,Chile,16,1-0,Penalty,Left foot,10,WCQ,World Cup 2018 Qualification,1,0,29
-551,2017-03-19,FC Barcelona,Valencia,53,3-2,Field goal,Right foot,10,PRM,La Liga,4,2,29
-550,2017-03-19,FC Barcelona,Valencia,45,2-1,Penalty,Left foot,10,PRM,La Liga,4,2,29
-549,2017-03-08,FC Barcelona,Paris Saint-Germain,50,3-0,Penalty,Left foot,10,EUR,UEFA Champions League,6,1,29
-548,2017-03-04,FC Barcelona,Celta de Vigo,64,5-0,Solo run,Left foot,10,PRM,La Liga,5,0,29
-547,2017-03-04,FC Barcelona,Celta de Vigo,24,1-0,Solo run,Left foot,10,PRM,La Liga,5,0,29
-546,2017-03-01,FC Barcelona,Sporting Gijón,9,1-0,Field goal,Head,10,PRM,La Liga,6,1,29
-545,2017-02-26,Atlético Madrid,FC Barcelona,87,1-2,Rebound,Left foot,10,PRM,La Liga,1,2,29
-544,2017-02-19,FC Barcelona,Leganés,89,2-1,Penalty,Left foot,10,PRM,La Liga,2,1,29
-543,2017-02-19,FC Barcelona,Leganés,4,1-0,Field goal,Right foot,10,PRM,La Liga,2,1,29
-542,2017-02-11,Alavés,FC Barcelona,59,0-3,Field goal,Left foot,10,PRM,La Liga,0,6,29
-541,2017-02-04,FC Barcelona,Athletic de Bilbao,40,2-0,Free kick,Left foot,10,PRM,La Liga,3,0,29
-540,2017-02-01,Atlético Madrid,FC Barcelona,33,0-2,Field goal,Left foot,10,CUP,Copa del Rey,1,2,29
-539,2017-01-26,FC Barcelona,Real Sociedad,55,2-0,Penalty,Left foot,10,CUP,Copa del Rey,5,2,29
-538,2017-01-22,Eibar,FC Barcelona,50,0-2,Field goal,Left foot,10,PRM,La Liga,0,4,29
-537,2017-01-14,FC Barcelona,Las Palmas,52,2-0,Rebound,Right foot,10,PRM,La Liga,5,0,29
-536,2017-01-11,FC Barcelona,Athletic de Bilbao,78,3-1,Free kick,Left foot,10,CUP,Copa del Rey,3,1,29
-535,2017-01-08,Villarreal,FC Barcelona,90,1-1,Free kick,Left foot,10,PRM,La Liga,1,1,29
-534,2017-01-05,Athletic de Bilbao,FC Barcelona,52,2-1,Free kick,Left foot,10,CUP,Copa del Rey,2,1,29
-533,2016-12-18,FC Barcelona,Espanyol,90,4-1,Field goal,Left foot,10,PRM,La Liga,4,1,29
-532,2016-12-10,Osasuna,FC Barcelona,90+2,0-3,Solo run,Left foot,10,PRM,La Liga,0,3,29
-531,2016-12-10,Osasuna,FC Barcelona,72,0-2,Field goal,Left foot,10,PRM,La Liga,0,3,29
-530,2016-12-06,FC Barcelona,Borussia Mönchengladbach,16,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,29
-529,2016-11-27,Real Sociedad,FC Barcelona,59,1-1,Field goal,Left foot,10,PRM,La Liga,1,1,29
-528,2016-11-23,Celtic,FC Barcelona,55,0-2,Penalty,Left foot,10,EUR,UEFA Champions League,0,2,29
-527,2016-11-23,Celtic,FC Barcelona,24,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,0,2,29
-526,2016-11-15,Argentina,Colombia,10,1-0,Free kick,Left foot,10,WCQ,World Cup 2018 Qualification,3,0,29
-525,2016-11-06,Sevilla,FC Barcelona,43,1-1,Field goal,Left foot,10,PRM,La Liga,1,2,29
-524,2016-11-01,Manchester City,FC Barcelona,21,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,3,1,29
-523,2016-10-22,Valencia,FC Barcelona,90+4,2-3,Penalty,Left foot,10,PRM,La Liga,2,3,29
-522,2016-10-22,Valencia,FC Barcelona,22,0-1,Field goal,Left foot,10,PRM,La Liga,2,3,29
-521,2016-10-19,FC Barcelona,Manchester City,69,3-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,29
-520,2016-10-19,FC Barcelona,Manchester City,61,2-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,29
-519,2016-10-19,FC Barcelona,Manchester City,17,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,29
-518,2016-10-15,FC Barcelona,Deportivo La Coruña,58,4-0,Field goal,Left foot,10,PRM,La Liga,4,0,29
-517,2016-09-17,Leganés,FC Barcelona,55,0-4,Penalty,Left foot,10,PRM,La Liga,1,5,29
-516,2016-09-17,Leganés,FC Barcelona,15,0-1,Field goal,Left foot,10,PRM,La Liga,1,5,29
-515,2016-09-13,FC Barcelona,Celtic,60,5-0,Field goal,Left foot,10,EUR,UEFA Champions League,7,0,29
-514,2016-09-13,FC Barcelona,Celtic,27,2-0,Field goal,Left foot,10,EUR,UEFA Champions League,7,0,29
-513,2016-09-13,FC Barcelona,Celtic,3,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,7,0,29
-512,2016-09-01,Argentina,Uruguay,43,1-0,Field goal,Left foot,10,WCQ,World Cup 2018 Qualification,1,0,29
-511,2016-08-20,FC Barcelona,Real Betis,57,5-1,Field goal,Left foot,10,PRM,La Liga,6,2,29
-510,2016-08-20,FC Barcelona,Real Betis,37,2-1,Field goal,Left foot,10,PRM,La Liga,6,2,29
-509,2016-08-17,FC Barcelona,Sevilla,55,3-0,Field goal,Head,10,SUP,Spanish Super Cup,3,0,29
-508,2016-06-21,United States,Argentina,32,0-2,Free kick,Left foot,10,CPA,Copa América Centenario,0,4,28
-507,2016-06-18,Argentina,Venezuela,60,3-0,Field goal,Left foot,10,CPA,Copa América Centenario,4,1,28
-506,2016-06-10,Argentina,Panama,87,4-0,Field goal,Left foot,10,CPA,Copa América Centenario,5,0,28
-505,2016-06-10,Argentina,Panama,78,3-0,Free kick,Left foot,10,CPA,Copa América Centenario,5,0,28
-504,2016-06-10,Argentina,Panama,68,2-0,Field goal,Left foot,10,CPA,Copa América Centenario,5,0,28
-503,2016-05-08,FC Barcelona,Espanyol,8,1-0,Free kick,Left foot,10,PRM,La Liga,5,0,28
-502,2016-04-23,FC Barcelona,Sporting Gijón,12,1-0,Rebound,Head,10,PRM,La Liga,6,0,28
-501,2016-04-20,Deportivo La Coruña,FC Barcelona,73,0-6,Field goal,Left foot,10,PRM,La Liga,0,8,28
-500,2016-04-17,FC Barcelona,Valencia,63,1-2,Field goal,Right foot,10,PRM,La Liga,1,2,28
-499,2016-03-29,Argentina,Bolivia,30,2-0,Penalty,Left foot,10,WCQ,World Cup 2018 Qualification,2,0,28
-498,2016-03-16,FC Barcelona,Arsenal,88,3-1,Field goal,Left foot,10,EUR,UEFA Champions League,3,1,28
-497,2016-03-12,FC Barcelona,Getafe,40,4-0,Field goal,Left foot,10,PRM,La Liga,6,0,28
-496,2016-03-06,Eibar,FC Barcelona,76,0-3,Penalty,Left foot,10,PRM,La Liga,0,4,28
-495,2016-03-06,Eibar,FC Barcelona,41,0-2,Field goal,Left foot,10,PRM,La Liga,0,4,28
-494,2016-03-03,Rayo Vallecano,FC Barcelona,72,1-4,Field goal,Left foot,10,PRM,La Liga,1,5,28
-493,2016-03-03,Rayo Vallecano,FC Barcelona,54,0-3,Rebound,Left foot,10,PRM,La Liga,1,5,28
-492,2016-03-03,Rayo Vallecano,FC Barcelona,23,0-2,Field goal,Left foot,10,PRM,La Liga,1,5,28
-491,2016-02-28,FC Barcelona,Sevilla,31,1-1,Free kick,Left foot,10,PRM,La Liga,2,1,28
-490,2016-02-23,Arsenal,FC Barcelona,83,0-2,Penalty,Left foot,10,EUR,UEFA Champions League,0,2,28
-489,2016-02-23,Arsenal,FC Barcelona,71,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,0,2,28
-488,2016-02-17,Sporting Gijón,FC Barcelona,31,1-2,Field goal,Left foot,10,PRM,La Liga,1,3,28
-487,2016-02-17,Sporting Gijón,FC Barcelona,25,0-1,Field goal,Left foot,10,PRM,La Liga,1,3,28
-486,2016-02-14,FC Barcelona,Celta de Vigo,28,1-0,Free kick,Left foot,10,PRM,La Liga,6,1,28
-485,2016-02-03,FC Barcelona,Valencia,74,5-0,Field goal,Left foot,10,CUP,Copa del Rey,7,0,28
-484,2016-02-03,FC Barcelona,Valencia,58,4-0,Field goal,Left foot,10,CUP,Copa del Rey,7,0,28
-483,2016-02-03,FC Barcelona,Valencia,29,3-0,Field goal,Left foot,10,CUP,Copa del Rey,7,0,28
-482,2016-01-30,FC Barcelona,Atlético Madrid,30,1-1,Field goal,Left foot,10,PRM,La Liga,2,1,28
-481,2016-01-23,Málaga,FC Barcelona,51,1-2,Field goal,Left foot,10,PRM,La Liga,1,2,28
-480,2016-01-17,FC Barcelona,Athletic de Bilbao,7,1-0,Penalty,Left foot,10,PRM,La Liga,6,0,28
-479,2016-01-09,FC Barcelona,Granada,58,3-0,Rebound,Left foot,10,PRM,La Liga,4,0,28
-478,2016-01-09,FC Barcelona,Granada,14,2-0,Field goal,Left foot,10,PRM,La Liga,4,0,28
-477,2016-01-09,FC Barcelona,Granada,8,1-0,Field goal,Left foot,10,PRM,La Liga,4,0,28
-476,2016-01-06,FC Barcelona,Espanyol,44,2-1,Free kick,Left foot,10,CUP,Copa del Rey,4,1,28
-475,2016-01-06,FC Barcelona,Espanyol,13,1-1,Field goal,Left foot,10,CUP,Copa del Rey,4,1,28
-474,2015-12-30,FC Barcelona,Real Betis,33,2-0,Field goal,Right foot,10,PRM,La Liga,4,0,28
-473,2015-12-20,CA River Plate,FC Barcelona,36,0-1,Field goal,Left foot,10,WCT,FIFA Club World Cup,0,3,28
-472,2015-12-12,FC Barcelona,Deportivo La Coruña,39,1-0,Free kick,Left foot,10,PRM,La Liga,2,2,28
-471,2015-12-09,Bayer Leverkusen,FC Barcelona,20,0-1,Field goal,Right foot,10,EUR,UEFA Champions League,1,1,28
-470,2015-11-28,FC Barcelona,Real Sociedad,90+1,4-0,Field goal,Left foot,10,PRM,La Liga,4,0,28
-469,2015-11-24,FC Barcelona,AS Roma,59,5-0,Rebound,Left foot,10,EUR,UEFA Champions League,6,1,28
-468,2015-11-24,FC Barcelona,AS Roma,18,2-0,Field goal,Left foot,10,EUR,UEFA Champions League,6,1,28
-467,2015-09-20,FC Barcelona,Levante,90,4-1,Solo run,Left foot,10,PRM,La Liga,4,1,28
-466,2015-09-20,FC Barcelona,Levante,61,3-0,Penalty,Left foot,10,PRM,La Liga,4,1,28
-465,2015-09-12,Atlético Madrid,FC Barcelona,77,1-2,Field goal,Left foot,10,PRM,La Liga,1,2,28
-464,2015-09-08,Argentina,Mexico,88,2-2,Field goal,Left foot,10,FRN,International friendly,2,2,28
-463,2015-09-04,Argentina,Bolivia,74,6-0,Field goal,Left foot,10,FRN,International friendly,7,0,28
-462,2015-09-04,Argentina,Bolivia,66,5-0,Field goal,Head,10,FRN,International friendly,7,0,28
-461,2015-08-17,FC Barcelona,Athletic de Bilbao,43,1-0,Field goal,Left foot,10,SUP,Spanish Super Cup,1,1,28
-460,2015-08-11,FC Barcelona,Sevilla,15,2-1,Free kick,Left foot,10,IUP,UEFA European Super Cup,5,4,28
-459,2015-08-11,FC Barcelona,Sevilla,7,1-1,Free kick,Left foot,10,IUP,UEFA European Super Cup,5,4,28
-458,2015-06-13,Argentina,Paraguay,35,2-0,Penalty,Left foot,10,CPA,Copa América 2015,2,2,27
-457,2015-05-30,Athletic de Bilbao,FC Barcelona,74,0-3,,Left foot,10,CUP,Copa del Rey,1,3,27
-456,2015-05-30,Athletic de Bilbao,FC Barcelona,20,0-1,Solo run,Left foot,10,CUP,Copa del Rey,1,3,27
-455,2015-05-23,FC Barcelona,Deportivo La Coruña,59,2-0,,Right foot,10,PRM,La Liga,2,2,27
-454,2015-05-23,FC Barcelona,Deportivo La Coruña,5,1-0,,Head,10,PRM,La Liga,2,2,27
-453,2015-05-17,Atlético Madrid,FC Barcelona,65,0-1,,Left foot,10,PRM,La Liga,0,1,27
-452,2015-05-06,FC Barcelona,Bayern München,80,2-0,,Right foot,10,EUR,UEFA Champions League,3,0,27
-451,2015-05-06,FC Barcelona,Bayern München,77,1-0,,Left foot,10,EUR,UEFA Champions League,3,0,27
-450,2015-05-02,Córdoba,FC Barcelona,80,0-6,Rebound,Left foot,10,PRM,La Liga,0,8,27
-449,2015-05-02,Córdoba,FC Barcelona,46,0-3,,Head,10,PRM,La Liga,0,8,27
-448,2015-04-28,FC Barcelona,Getafe,47,6-0,Field goal,Left foot,10,PRM,La Liga,6,0,27
-447,2015-04-28,FC Barcelona,Getafe,9,1-0,Penalty,Left foot,10,PRM,La Liga,6,0,27
-446,2015-04-25,Espanyol,FC Barcelona,25,0-2,,Left foot,10,PRM,La Liga,0,2,27
-445,2015-04-18,FC Barcelona,Valencia,90+4,2-0,Rebound,Left foot,10,PRM,La Liga,2,0,27
-444,2015-04-11,Sevilla,FC Barcelona,14,0-1,,Left foot,10,PRM,La Liga,2,2,27
-443,2015-04-08,FC Barcelona,UD Almería,33,1-0,Solo run,Left foot,10,PRM,La Liga,4,0,27
-442,2015-03-14,Eibar,FC Barcelona,55,0-2,,Head,10,PRM,La Liga,0,2,27
-441,2015-03-14,Eibar,FC Barcelona,31,0-1,Penalty,Left foot,10,PRM,La Liga,0,2,27
-440,2015-03-08,FC Barcelona,Rayo Vallecano,68,5-0,,Left foot,10,PRM,La Liga,6,1,27
-439,2015-03-08,FC Barcelona,Rayo Vallecano,63,4-0,Rebound,Left foot,10,PRM,La Liga,6,1,27
-438,2015-03-08,FC Barcelona,Rayo Vallecano,56,3-0,Penalty,Left foot,10,PRM,La Liga,6,1,27
-437,2015-02-28,Granada,FC Barcelona,70,1-3,,Right foot,10,PRM,La Liga,1,3,27
-436,2015-02-15,FC Barcelona,Levante,65,4-0,Penalty,Left foot,10,PRM,La Liga,5,0,27
-435,2015-02-15,FC Barcelona,Levante,59,3-0,Field goal,Right foot,10,PRM,La Liga,5,0,27
-434,2015-02-15,FC Barcelona,Levante,38,2-0,Field goal,Right foot,10,PRM,La Liga,5,0,27
-433,2015-02-11,FC Barcelona,Villarreal,41,1-0,,Left foot,10,CUP,Copa del Rey,3,1,27
-432,2015-02-08,Athletic de Bilbao,FC Barcelona,15,0-1,Free kick,Left foot,10,PRM,La Liga,2,5,27
-431,2015-02-01,FC Barcelona,Villarreal,55,3-2,Field goal,Right foot,10,PRM,La Liga,3,2,27
-430,2015-01-24,Elche,FC Barcelona,88,0-5,Field goal,Left foot,10,PRM,La Liga,0,6,27
-429,2015-01-24,Elche,FC Barcelona,55,0-2,Penalty,Left foot,10,PRM,La Liga,0,6,27
-428,2015-01-21,FC Barcelona,Atlético Madrid,85,1-0,Rebound,Left foot,10,CUP,Copa del Rey,1,0,27
-427,2015-01-18,Deportivo La Coruña,FC Barcelona,62,0-3,Field goal,Left foot,10,PRM,La Liga,0,4,27
-426,2015-01-18,Deportivo La Coruña,FC Barcelona,33,0-2,Field goal,Left foot,10,PRM,La Liga,0,4,27
-425,2015-01-18,Deportivo La Coruña,FC Barcelona,10,0-1,Field goal,Head,10,PRM,La Liga,0,4,27
-424,2015-01-11,FC Barcelona,Atlético Madrid,87,3-1,Field goal,Left foot,10,PRM,La Liga,3,1,27
-423,2015-01-08,FC Barcelona,Elche,45,3-0,Penalty,Left foot,10,CUP,Copa del Rey,5,0,27
-422,2014-12-20,FC Barcelona,Córdoba,90+1,5-0,Field goal,Right foot,10,PRM,La Liga,5,0,27
-421,2014-12-20,FC Barcelona,Córdoba,82,4-0,Field goal,Right foot,10,PRM,La Liga,5,0,27
-420,2014-12-10,FC Barcelona,Paris Saint-Germain,19,1-1,,Right foot,10,EUR,UEFA Champions League,3,1,27
-419,2014-12-07,FC Barcelona,Espanyol,81,5-1,Field goal,Right foot,10,PRM,La Liga,5,1,27
-418,2014-12-07,FC Barcelona,Espanyol,50,2-1,Field goal,Right foot,10,PRM,La Liga,5,1,27
-417,2014-12-07,FC Barcelona,Espanyol,45,1-1,Field goal,Left foot,10,PRM,La Liga,5,1,27
-416,2014-11-25,APOEL FC,FC Barcelona,87,0-4,,Right foot,10,EUR,UEFA Champions League,0,4,27
-415,2014-11-25,APOEL FC,FC Barcelona,58,0-3,,Right foot,10,EUR,UEFA Champions League,0,4,27
-414,2014-11-25,APOEL FC,FC Barcelona,38,0-2,,Right foot,10,EUR,UEFA Champions League,0,4,27
-413,2014-11-22,FC Barcelona,Sevilla,78,5-1,Field goal,Left foot,10,PRM,La Liga,5,1,27
-412,2014-11-22,FC Barcelona,Sevilla,72,4-1,Field goal,Right foot,10,PRM,La Liga,5,1,27
-411,2014-11-22,FC Barcelona,Sevilla,21,1-0,Free kick,Left foot,10,PRM,La Liga,5,1,27
-410,2014-11-12,Argentina,Croatia,57,2-1,Penalty,Left foot,10,FRN,International friendly,2,1,27
-409,2014-11-05,Ajax,FC Barcelona,76,0-2,,Left foot,10,EUR,UEFA Champions League,0,2,27
-408,2014-11-05,Ajax,FC Barcelona,36,0-1,,Head,10,EUR,UEFA Champions League,0,2,27
-407,2014-10-21,FC Barcelona,Ajax,24,2-0,,Left foot,10,EUR,UEFA Champions League,3,1,27
-406,2014-10-18,FC Barcelona,Eibar,74,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,27
-405,2014-10-14,Hong Kong,Argentina,84,0-7,Solo run,Left foot,10,FRN,International friendly,0,7,27
-404,2014-10-14,Hong Kong,Argentina,66,0-5,,Left foot,10,FRN,International friendly,0,7,27
-403,2014-10-04,Rayo Vallecano,FC Barcelona,35,0-1,Field goal,Left foot,10,PRM,La Liga,0,2,27
-402,2014-09-30,Paris Saint-Germain,FC Barcelona,11,1-1,,Left foot,10,EUR,UEFA Champions League,3,2,27
-401,2014-09-27,FC Barcelona,Granada,82,6-0,Field goal,Right foot,10,PRM,La Liga,6,0,27
-400,2014-09-27,FC Barcelona,Granada,62,4-0,Field goal,Head,10,PRM,La Liga,6,0,27
-399,2014-09-21,Levante,FC Barcelona,77,0-5,Field goal,Right foot,10,PRM,La Liga,0,5,27
-398,2014-08-24,FC Barcelona,Elche,63,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,27
-397,2014-08-24,FC Barcelona,Elche,42,1-0,Field goal,Left foot,10,PRM,La Liga,3,0,27
-396,2014-06-25,Nigeria,Argentina,45+1,1-2,Free kick,Left foot,10,WCP,World Cup 2014,2,3,27
-395,2014-06-25,Nigeria,Argentina,3,0-1,Rebound,Left foot,10,WCP,World Cup 2014,2,3,27
-394,2014-06-21,Argentina,Iran,90+1,1-0,,Left foot,10,WCP,World Cup 2014,1,0,26
-393,2014-06-16,Argentina,Bosnia-Herzegovina,65,2-0,Solo run,Left foot,10,WCP,World Cup 2014,2,1,26
-392,2014-06-07,Argentina,Slovenia,75,2-0,Field goal,Left foot,10,FRN,International friendly,2,0,26
-391,2014-05-03,FC Barcelona,Getafe,23,1-0,,Left foot,10,PRM,La Liga,2,2,26
-390,2014-04-27,Villarreal,FC Barcelona,83,2-3,,Right foot,10,PRM,La Liga,2,3,26
-389,2014-04-20,FC Barcelona,Athletic de Bilbao,74,2-1,Free kick,Left foot,10,PRM,La Liga,2,1,26
-388,2014-04-05,FC Barcelona,Real Betis,86,3-1,Rebound,Right foot,10,PRM,La Liga,3,1,26
-387,2014-04-05,FC Barcelona,Real Betis,15,1-0,Penalty,Left foot,10,PRM,La Liga,3,1,26
-386,2014-03-29,Espanyol,FC Barcelona,77,0-1,Penalty,Left foot,10,PRM,La Liga,0,1,26
-385,2014-03-26,FC Barcelona,Celta de Vigo,30,2-0,,Right foot,10,PRM,La Liga,3,0,26
-384,2014-03-23,Real Madrid,FC Barcelona,84,3-4,Penalty,Left foot,10,PRM,La Liga,3,4,26
-383,2014-03-23,Real Madrid,FC Barcelona,65,3-3,Penalty,Left foot,10,PRM,La Liga,3,4,26
-382,2014-03-23,Real Madrid,FC Barcelona,42,2-2,,Left foot,10,PRM,La Liga,3,4,26
-381,2014-03-16,FC Barcelona,Osasuna,88,6-0,,Right foot,10,PRM,La Liga,7,0,26
-380,2014-03-16,FC Barcelona,Osasuna,63,4-0,,Left foot,10,PRM,La Liga,7,0,26
-379,2014-03-16,FC Barcelona,Osasuna,18,1-0,,Left foot,10,PRM,La Liga,7,0,26
-378,2014-03-12,FC Barcelona,Manchester City,67,1-0,,Left foot,10,EUR,UEFA Champions League,2,1,26
-377,2014-03-02,FC Barcelona,UD Almería,24,2-0,Free kick,Left foot,10,PRM,La Liga,4,1,26
-376,2014-02-22,Real Sociedad,FC Barcelona,36,1-1,,Left foot,10,PRM,La Liga,3,1,26
-375,2014-02-18,Manchester City,FC Barcelona,54,0-1,Penalty,Left foot,10,EUR,UEFA Champions League,0,2,26
-374,2014-02-15,FC Barcelona,Rayo Vallecano,68,5-0,,Left foot,10,PRM,La Liga,6,0,26
-373,2014-02-15,FC Barcelona,Rayo Vallecano,36,2-0,,Left foot,10,PRM,La Liga,6,0,26
-372,2014-02-12,Real Sociedad,FC Barcelona,27,0-1,Solo run,Left foot,10,CUP,Copa del Rey,1,1,26
-371,2014-02-09,Sevilla,FC Barcelona,56,1-3,Field goal,Left foot,10,PRM,La Liga,1,4,26
-370,2014-02-09,Sevilla,FC Barcelona,44,1-2,Field goal,Left foot,10,PRM,La Liga,1,4,26
-369,2014-02-01,FC Barcelona,Valencia,54,2-2,Penalty,Left foot,10,PRM,La Liga,2,3,26
-368,2014-01-16,Getafe,FC Barcelona,63,0-2,Field goal,Left foot,10,CUP,Copa del Rey,0,2,26
-367,2014-01-16,Getafe,FC Barcelona,44,0-1,Field goal,Hip,10,CUP,Copa del Rey,0,2,26
-366,2014-01-08,FC Barcelona,Getafe,90+3,4-0,,Left foot,10,CUP,Copa del Rey,4,0,26
-365,2014-01-08,FC Barcelona,Getafe,90,3-0,,Left foot,10,CUP,Copa del Rey,4,0,26
-364,2013-11-06,FC Barcelona,AC Milan,83,3-1,,Left foot,10,EUR,UEFA Champions League,3,1,26
-363,2013-11-06,FC Barcelona,AC Milan,30,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,3,1,26
-362,2013-10-22,AC Milan,FC Barcelona,23,1-1,,Left foot,10,EUR,UEFA Champions League,1,1,26
-361,2013-09-28,UD Almería,FC Barcelona,21,0-1,,Left foot,10,PRM,La Liga,0,2,26
-360,2013-09-24,FC Barcelona,Real Sociedad,8,2-0,,Head,10,PRM,La Liga,4,1,26
-359,2013-09-18,FC Barcelona,Ajax,75,4-0,,Left foot,10,EUR,UEFA Champions League,4,0,26
-358,2013-09-18,FC Barcelona,Ajax,55,2-0,,Left foot,10,EUR,UEFA Champions League,4,0,26
-357,2013-09-18,FC Barcelona,Ajax,22,1-0,Free kick,Left foot,10,EUR,UEFA Champions League,4,0,26
-356,2013-09-14,FC Barcelona,Sevilla,75,2-0,,Left foot,10,PRM,La Liga,3,2,26
-355,2013-09-11,Paraguay,Argentina,52,1-4,Penalty,Left foot,10,WCQ,World Cup 2014 Qualification,2,5,26
-354,2013-09-11,Paraguay,Argentina,12,0-1,Penalty,Left foot,10,WCQ,World Cup 2014 Qualification,2,5,26
-353,2013-09-01,Valencia,FC Barcelona,41,0-3,,Left foot,10,PRM,La Liga,2,3,26
-352,2013-09-01,Valencia,FC Barcelona,39,0-2,,Right foot,10,PRM,La Liga,2,3,26
-351,2013-09-01,Valencia,FC Barcelona,11,0-1,,Left foot,10,PRM,La Liga,2,3,26
-350,2013-08-18,FC Barcelona,Levante,42,5-0,Penalty,Left foot,10,PRM,La Liga,7,0,26
-349,2013-08-18,FC Barcelona,Levante,12,2-0,,Left foot,10,PRM,La Liga,7,0,26
-348,2013-06-15,Guatemala,Argentina,49,0-4,Field goal,Left foot,10,FRN,International friendly,0,4,25
-347,2013-06-15,Guatemala,Argentina,40,0-3,Penalty,Left foot,10,FRN,International friendly,0,4,25
-346,2013-06-15,Guatemala,Argentina,15,0-1,Field goal,Left foot,10,FRN,International friendly,0,4,25
-345,2013-05-05,FC Barcelona,Real Betis,71,4-2,,Left foot,10,PRM,La Liga,4,2,25
-344,2013-05-05,FC Barcelona,Real Betis,60,3-2,Free kick,Left foot,10,PRM,La Liga,4,2,25
-343,2013-04-27,Athletic de Bilbao,FC Barcelona,67,1-1,Solo run,Left foot,10,PRM,La Liga,2,2,25
-342,2013-04-02,Paris Saint-Germain,FC Barcelona,38,0-1,,Left foot,10,EUR,UEFA Champions League,2,2,25
-341,2013-03-30,Celta de Vigo,FC Barcelona,73,1-2,,Left foot,10,PRM,La Liga,2,2,25
-340,2013-03-23,Argentina,Venezuela,44,2-0,Penalty,Left foot,10,WCQ,World Cup 2014 Qualification,3,0,25
-339,2013-03-17,FC Barcelona,Rayo Vallecano,57,3-0,,Left foot,10,PRM,La Liga,3,1,25
-338,2013-03-17,FC Barcelona,Rayo Vallecano,40,2-0,,Left foot,10,PRM,La Liga,3,1,25
-337,2013-03-12,FC Barcelona,AC Milan,39,2-0,,Left foot,10,EUR,UEFA Champions League,4,0,25
-336,2013-03-12,FC Barcelona,AC Milan,5,1-0,,Left foot,10,EUR,UEFA Champions League,4,0,25
-335,2013-03-09,FC Barcelona,Deportivo La Coruña,88,2-0,,Left foot,10,PRM,La Liga,2,0,25
-334,2013-03-02,Real Madrid,FC Barcelona,18,1-1,,Left foot,10,PRM,La Liga,2,1,25
-333,2013-02-23,FC Barcelona,Sevilla,60,2-1,,Left foot,10,PRM,La Liga,2,1,25
-332,2013-02-16,Granada,FC Barcelona,73,1-2,Free kick,Left foot,10,PRM,La Liga,1,2,25
-331,2013-02-16,Granada,FC Barcelona,50,1-1,Rebound,Right foot,10,PRM,La Liga,1,2,25
-330,2013-02-10,FC Barcelona,Getafe,13,2-0,,Left foot,10,PRM,La Liga,6,1,25
-329,2013-02-03,Valencia,FC Barcelona,39,1-1,Penalty,Left foot,10,PRM,La Liga,1,1,25
-328,2013-01-27,FC Barcelona,Osasuna,58,5-1,,Left foot,10,PRM,La Liga,5,1,25
-327,2013-01-27,FC Barcelona,Osasuna,56,4-1,,Left foot,10,PRM,La Liga,5,1,25
-326,2013-01-27,FC Barcelona,Osasuna,28,2-1,Penalty,Left foot,10,PRM,La Liga,5,1,25
-325,2013-01-27,FC Barcelona,Osasuna,11,1-0,,Right foot,10,PRM,La Liga,5,1,25
-324,2013-01-24,Málaga,FC Barcelona,80,2-4,,Head,10,CUP,Copa del Rey,2,4,25
-323,2013-01-19,Real Sociedad,FC Barcelona,7,0-1,,Left foot,10,PRM,La Liga,3,2,25
-322,2013-01-16,FC Barcelona,Málaga,29,1-1,,Left foot,10,CUP,Copa del Rey,2,2,25
-321,2013-01-13,Málaga,FC Barcelona,27,0-1,,Right foot,10,PRM,La Liga,1,3,25
-320,2013-01-06,FC Barcelona,Espanyol,29,4-0,Penalty,Left foot,10,PRM,La Liga,4,0,25
-319,2012-12-22,Real Valladolid,FC Barcelona,59,0-2,,Left foot,10,PRM,La Liga,1,3,25
-318,2012-12-16,FC Barcelona,Atlético Madrid,88,4-1,,Left foot,10,PRM,La Liga,4,1,25
-317,2012-12-16,FC Barcelona,Atlético Madrid,57,3-1,,Left foot,10,PRM,La Liga,4,1,25
-316,2012-12-12,Córdoba,FC Barcelona,74,0-2,,Left foot,10,CUP,Copa del Rey,0,2,25
-315,2012-12-12,Córdoba,FC Barcelona,11,0-1,,Left foot,10,CUP,Copa del Rey,0,2,25
-314,2012-12-09,Real Betis,FC Barcelona,25,0-2,,Left foot,10,PRM,La Liga,1,2,25
-313,2012-12-09,Real Betis,FC Barcelona,16,0-1,,Left foot,10,PRM,La Liga,1,2,25
-312,2012-12-01,FC Barcelona,Athletic de Bilbao,70,5-1,,Right foot,10,PRM,La Liga,5,1,25
-311,2012-12-01,FC Barcelona,Athletic de Bilbao,25,2-0,,Left foot,10,PRM,La Liga,5,1,25
-310,2012-11-25,Levante,FC Barcelona,52,0-2,,Left foot,10,PRM,La Liga,0,4,25
-309,2012-11-25,Levante,FC Barcelona,47,0-1,,Left foot,10,PRM,La Liga,0,4,25
-308,2012-11-20,Spartak Moscow,FC Barcelona,39,0-3,,Left foot,10,EUR,UEFA Champions League,0,3,25
-307,2012-11-20,Spartak Moscow,FC Barcelona,27,0-2,Rebound,Right foot,10,EUR,UEFA Champions League,0,3,25
-306,2012-11-17,FC Barcelona,Real Zaragoza,60,3-1,,Left foot,10,PRM,La Liga,3,1,25
-305,2012-11-17,FC Barcelona,Real Zaragoza,16,1-0,,Left foot,10,PRM,La Liga,3,1,25
-304,2012-11-11,Real Mallorca,FC Barcelona,70,2-4,,Left foot,10,PRM,La Liga,2,4,25
-303,2012-11-11,Real Mallorca,FC Barcelona,44,0-2,,Left foot,10,PRM,La Liga,2,4,25
-302,2012-11-07,Celtic,FC Barcelona,90+1,2-1,Rebound,Left foot,10,EUR,UEFA Champions League,2,1,25
-301,2012-10-27,Rayo Vallecano,FC Barcelona,89,0-5,,Right foot,10,PRM,La Liga,0,5,25
-300,2012-10-27,Rayo Vallecano,FC Barcelona,48,0-2,,Left foot,10,PRM,La Liga,0,5,25
-299,2012-10-20,Deportivo La Coruña,FC Barcelona,77,3-5,,Left foot,10,PRM,La Liga,4,5,25
-298,2012-10-20,Deportivo La Coruña,FC Barcelona,43,2-4,,Right foot,10,PRM,La Liga,4,5,25
-297,2012-10-20,Deportivo La Coruña,FC Barcelona,18,0-3,,Left foot,10,PRM,La Liga,4,5,25
-296,2012-10-17,Chile,Argentina,28,0-1,,Left foot,10,WCQ,World Cup 2014 Qualification,1,2,25
-295,2012-10-13,Argentina,Uruguay,80,3-0,Free kick,Left foot,10,WCQ,World Cup 2014 Qualification,3,0,25
-294,2012-10-13,Argentina,Uruguay,65,1-0,,Right foot,10,WCQ,World Cup 2014 Qualification,3,0,25
-293,2012-10-07,FC Barcelona,Real Madrid,61,2-1,Free kick,Left foot,10,PRM,La Liga,2,2,25
-292,2012-10-07,FC Barcelona,Real Madrid,31,1-1,,Left foot,10,PRM,La Liga,2,2,25
-291,2012-09-19,FC Barcelona,Spartak Moscow,80,3-2,,Head,10,EUR,UEFA Champions League,3,2,25
-290,2012-09-19,FC Barcelona,Spartak Moscow,71,2-2,,Left foot,10,EUR,UEFA Champions League,3,2,25
-289,2012-09-15,Getafe,FC Barcelona,78,0-3,,Left foot,10,PRM,La Liga,1,4,25
-288,2012-09-15,Getafe,FC Barcelona,74,0-2,Penalty,Left foot,10,PRM,La Liga,1,4,25
-287,2012-09-08,Argentina,Paraguay,63,3-1,Free kick,Left foot,10,WCQ,World Cup 2014 Qualification,3,1,25
-286,2012-08-29,Real Madrid,FC Barcelona,45,2-1,Free kick,Left foot,10,SUP,Spanish Super Cup,2,1,25
-285,2012-08-26,Osasuna,FC Barcelona,80,1-2,,Left foot,10,PRM,La Liga,1,2,25
-284,2012-08-26,Osasuna,FC Barcelona,76,1-1,,Left foot,10,PRM,La Liga,1,2,25
-283,2012-08-23,FC Barcelona,Real Madrid,70,2-1,Penalty,Left foot,10,SUP,Spanish Super Cup,3,2,25
-282,2012-08-19,FC Barcelona,Real Sociedad,16,3-1,,Left foot,10,PRM,La Liga,5,1,25
-281,2012-08-19,FC Barcelona,Real Sociedad,11,2-1,,Left foot,10,PRM,La Liga,5,1,25
-280,2012-08-15,Germany,Argentina,52,0-2,,Left foot,10,FRN,International friendly,1,3,25
-279,2012-06-09,Argentina,Brazil,85,4-3,Solo run,Left foot,10,FRN,International friendly,4,3,24
-278,2012-06-09,Argentina,Brazil,35,2-1,,Left foot,10,FRN,International friendly,4,3,24
-277,2012-06-09,Argentina,Brazil,31,1-1,,Left foot,10,FRN,International friendly,4,3,24
-276,2012-06-03,Argentina,Ecuador,31,3-0,Field goal,Left foot,10,WCQ,World Cup 2014 Qualification,4,0,24
-275,2012-05-25,Athletic de Bilbao,FC Barcelona,20,0-2,,Right foot,10,CUP,Copa del Rey,0,3,24
-274,2012-05-05,FC Barcelona,Espanyol,79,4-0,Penalty,Left foot,10,PRM,La Liga,4,0,24
-273,2012-05-05,FC Barcelona,Espanyol,74,3-0,,Left foot,10,PRM,La Liga,4,0,24
-272,2012-05-05,FC Barcelona,Espanyol,64,2-0,Penalty,Left foot,10,PRM,La Liga,4,0,24
-271,2012-05-05,FC Barcelona,Espanyol,12,1-0,Free kick,Left foot,10,PRM,La Liga,4,0,24
-270,2012-05-02,FC Barcelona,Málaga,64,4-1,,Left foot,10,PRM,La Liga,4,1,24
-269,2012-05-02,FC Barcelona,Málaga,59,3-1,Penalty,Left foot,10,PRM,La Liga,4,1,24
-268,2012-05-02,FC Barcelona,Málaga,35,2-1,Penalty,Left foot,10,PRM,La Liga,4,1,24
-267,2012-04-29,Rayo Vallecano,FC Barcelona,90,0-7,,Left foot,10,PRM,La Liga,0,7,24
-266,2012-04-29,Rayo Vallecano,FC Barcelona,16,0-1,,Left foot,10,PRM,La Liga,0,7,24
-265,2012-04-14,Levante,FC Barcelona,72,1-2,Penalty,Left foot,10,PRM,La Liga,1,2,24
-264,2012-04-14,Levante,FC Barcelona,64,1-1,Field goal,Left foot,10,PRM,La Liga,1,2,24
-263,2012-04-10,FC Barcelona,Getafe,44,2-0,,Left foot,10,PRM,La Liga,4,0,24
-262,2012-04-07,Real Zaragoza,FC Barcelona,86,1-3,Penalty,Left foot,10,PRM,La Liga,1,4,24
-261,2012-04-07,Real Zaragoza,FC Barcelona,39,1-2,,Left foot,10,PRM,La Liga,1,4,24
-260,2012-04-03,FC Barcelona,AC Milan,41,2-1,Penalty,Left foot,10,EUR,UEFA Champions League,3,1,24
-259,2012-04-03,FC Barcelona,AC Milan,11,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,3,1,24
-258,2012-03-31,FC Barcelona,Athletic de Bilbao,58,2-0,Penalty,Left foot,10,PRM,La Liga,2,0,24
-257,2012-03-24,Real Mallorca,FC Barcelona,25,0-1,Free kick,Left foot,10,PRM,La Liga,0,2,24
-256,2012-03-20,FC Barcelona,Granada,86,5-2,Field goal,Left foot,10,PRM,La Liga,5,3,24
-255,2012-03-20,FC Barcelona,Granada,67,3-2,Field goal,Left foot,10,PRM,La Liga,5,3,24
-254,2012-03-20,FC Barcelona,Granada,17,2-0,Field goal,Left foot,10,PRM,La Liga,5,3,24
-253,2012-03-17,Sevilla,FC Barcelona,25,0-2,,Left foot,10,PRM,La Liga,0,2,24
-252,2012-03-11,Racing Santander,FC Barcelona,56,0-2,Penalty,Left foot,10,PRM,La Liga,0,2,24
-251,2012-03-11,Racing Santander,FC Barcelona,29,0-1,,Left foot,10,PRM,La Liga,0,2,24
-250,2012-03-07,FC Barcelona,Bayer Leverkusen,84,7-0,,Left foot,10,EUR,UEFA Champions League,7,1,24
-249,2012-03-07,FC Barcelona,Bayer Leverkusen,58,5-0,Rebound,Left foot,10,EUR,UEFA Champions League,7,1,24
-248,2012-03-07,FC Barcelona,Bayer Leverkusen,49,3-0,,Right foot,10,EUR,UEFA Champions League,7,1,24
-247,2012-03-07,FC Barcelona,Bayer Leverkusen,42,2-0,,Left foot,10,EUR,UEFA Champions League,7,1,24
-246,2012-03-07,FC Barcelona,Bayer Leverkusen,25,1-0,,Left foot,10,EUR,UEFA Champions League,7,1,24
-245,2012-02-29,Switzerland,Argentina,90+3,1-3,Penalty,Left foot,10,FRN,International friendly,1,3,24
-244,2012-02-29,Switzerland,Argentina,88,1-2,,Left foot,10,FRN,International friendly,1,3,24
-243,2012-02-29,Switzerland,Argentina,20,0-1,,Left foot,10,FRN,International friendly,1,3,24
-242,2012-02-26,Atlético Madrid,FC Barcelona,81,1-2,Free kick,Left foot,10,PRM,La Liga,1,2,24
-241,2012-02-19,FC Barcelona,Valencia,85,4-1,,Left foot,10,PRM,La Liga,5,1,24
-240,2012-02-19,FC Barcelona,Valencia,76,3-1,Rebound,Left foot,10,PRM,La Liga,5,1,24
-239,2012-02-19,FC Barcelona,Valencia,27,2-1,Rebound,Left foot,10,PRM,La Liga,5,1,24
-238,2012-02-19,FC Barcelona,Valencia,22,1-1,,Left foot,10,PRM,La Liga,5,1,24
-237,2012-02-14,Bayer Leverkusen,FC Barcelona,88,1-3,Field goal,Left foot,10,EUR,UEFA Champions League,1,3,24
-236,2012-02-04,FC Barcelona,Real Sociedad,72,2-0,,Left foot,10,PRM,La Liga,2,1,24
-235,2012-01-22,Málaga,FC Barcelona,81,0-4,,Left foot,10,PRM,La Liga,1,4,24
-234,2012-01-22,Málaga,FC Barcelona,51,0-3,,Left foot,10,PRM,La Liga,1,4,24
-233,2012-01-22,Málaga,FC Barcelona,33,0-1,,Head,10,PRM,La Liga,1,4,24
-232,2012-01-15,FC Barcelona,Real Betis,86,4-2,Penalty,Left foot,10,PRM,La Liga,4,2,24
-231,2012-01-15,FC Barcelona,Real Betis,12,2-0,,Left foot,10,PRM,La Liga,4,2,24
-230,2012-01-04,FC Barcelona,Osasuna,90+2,4-0,,Left foot,10,CUP,Copa del Rey,4,0,24
-229,2012-01-04,FC Barcelona,Osasuna,73,3-0,,Head,10,CUP,Copa del Rey,4,0,24
-228,2011-12-18,Santos,FC Barcelona,82,0-4,,Left foot,10,WCT,FIFA Club World Cup,0,4,24
-227,2011-12-18,Santos,FC Barcelona,17,0-1,,Left foot,10,WCT,FIFA Club World Cup,0,4,24
-226,2011-12-03,FC Barcelona,Levante,55,4-0,,Left foot,10,PRM,La Liga,5,0,24
-225,2011-11-29,FC Barcelona,Rayo Vallecano,50,4-0,,Left foot,10,PRM,La Liga,4,0,24
-224,2011-11-23,AC Milan,FC Barcelona,31,1-2,Penalty,Left foot,10,EUR,UEFA Champions League,2,3,24
-223,2011-11-19,FC Barcelona,Real Zaragoza,43,2-0,,Right foot,10,PRM,La Liga,4,0,24
-222,2011-11-15,Colombia,Argentina,60,1-1,Rebound,Left foot,10,WCQ,World Cup 2014 Qualification,1,2,24
-221,2011-11-06,Athletic de Bilbao,FC Barcelona,90+1,2-2,Rebound,Left foot,10,PRM,La Liga,2,2,24
-220,2011-11-01,Viktoria Plzen,FC Barcelona,90+2,0-4,,Left foot,10,EUR,UEFA Champions League,0,4,24
-219,2011-11-01,Viktoria Plzen,FC Barcelona,45,0-2,,Left foot,10,EUR,UEFA Champions League,0,4,24
-218,2011-11-01,Viktoria Plzen,FC Barcelona,24,0-1,Penalty,Left foot,10,EUR,UEFA Champions League,0,4,24
-217,2011-10-29,FC Barcelona,Real Mallorca,30,3-0,,Left foot,10,PRM,La Liga,5,0,24
-216,2011-10-29,FC Barcelona,Real Mallorca,21,2-0,,Right foot,10,PRM,La Liga,5,0,24
-215,2011-10-29,FC Barcelona,Real Mallorca,13,1-0,Penalty,Left foot,10,PRM,La Liga,5,0,24
-214,2011-10-15,FC Barcelona,Racing Santander,68,3-0,,Right foot,10,PRM,La Liga,3,0,24
-213,2011-10-15,FC Barcelona,Racing Santander,11,1-0,,Right foot,10,PRM,La Liga,3,0,24
-212,2011-10-08,Argentina,Chile,26,2-0,Field goal,Left foot,10,WCQ,World Cup 2014 Qualification,4,1,24
-211,2011-09-28,BATE Borisov,FC Barcelona,55,0-4,,Left foot,10,EUR,UEFA Champions League,0,5,24
-210,2011-09-28,BATE Borisov,FC Barcelona,38,0-3,,Head,10,EUR,UEFA Champions League,0,5,24
-209,2011-09-24,FC Barcelona,Atlético Madrid,90+1,5-0,,Left foot,10,PRM,La Liga,5,0,24
-208,2011-09-24,FC Barcelona,Atlético Madrid,78,4-0,,Left foot,10,PRM,La Liga,5,0,24
-207,2011-09-24,FC Barcelona,Atlético Madrid,26,3-0,,Left foot,10,PRM,La Liga,5,0,24
-206,2011-09-17,FC Barcelona,Osasuna,79,8-0,,Left foot,10,PRM,La Liga,8,0,24
-205,2011-09-17,FC Barcelona,Osasuna,41,5-0,,Left foot,10,PRM,La Liga,8,0,24
-204,2011-09-17,FC Barcelona,Osasuna,5,1-0,,Left foot,10,PRM,La Liga,8,0,24
-203,2011-08-29,FC Barcelona,Villarreal,75,5-0,,Left foot,10,PRM,La Liga,5,0,24
-202,2011-08-29,FC Barcelona,Villarreal,52,4-0,,Right foot,10,PRM,La Liga,5,0,24
-201,2011-08-26,FC Barcelona,FC Porto,39,1-0,,Left foot,10,IUP,UEFA European Super Cup,2,0,24
-200,2011-08-17,FC Barcelona,Real Madrid,87,3-2,Field goal,Left foot,10,SUP,Spanish Super Cup,3,2,24
-199,2011-08-17,FC Barcelona,Real Madrid,45,2-1,Field goal,Right foot,10,SUP,Spanish Super Cup,3,2,24
-198,2011-08-14,Real Madrid,FC Barcelona,45,1-2,,Left foot,10,SUP,Spanish Super Cup,2,2,24
-197,2011-06-20,Argentina,Albania,42,2-0,Field goal,Left foot,10,FRN,International friendly,4,0,23
-196,2011-05-28,FC Barcelona,Manchester United,54,2-1,,Left foot,10,EUR,UEFA Champions League,3,1,23
-195,2011-04-27,Real Madrid,FC Barcelona,87,0-2,Solo run,Right foot,10,EUR,UEFA Champions League,0,2,23
-194,2011-04-27,Real Madrid,FC Barcelona,76,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,0,2,23
-193,2011-04-23,FC Barcelona,Osasuna,87,2-0,,Right foot,10,PRM,La Liga,2,0,23
-192,2011-04-16,Real Madrid,FC Barcelona,53,0-1,Penalty,Left foot,10,PRM,La Liga,1,1,23
-191,2011-04-12,Shakhtar Donetsk,FC Barcelona,43,0-1,,Left foot,10,EUR,UEFA Champions League,0,1,23
-190,2011-04-09,FC Barcelona,UD Almería,90+2,3-1,,Left foot,10,PRM,La Liga,3,1,23
-189,2011-04-09,FC Barcelona,UD Almería,53,1-1,Penalty,Left foot,10,PRM,La Liga,3,1,23
-188,2011-03-08,FC Barcelona,Arsenal,71,3-1,Penalty,Left foot,10,EUR,UEFA Champions League,3,1,23
-187,2011-03-08,FC Barcelona,Arsenal,45+3,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,1,23
-186,2011-03-02,Valencia,FC Barcelona,77,0-1,,Left foot,10,PRM,La Liga,0,1,23
-185,2011-02-26,Real Mallorca,FC Barcelona,38,0-1,,Head,10,PRM,La Liga,0,3,23
-184,2011-02-20,FC Barcelona,Athletic de Bilbao,78,2-1,,Right foot,10,PRM,La Liga,2,1,23
-183,2011-02-09,Argentina,Portugal,90,2-1,Penalty,Left foot,10,FRN,International friendly,2,1,23
-182,2011-02-05,FC Barcelona,Atlético Madrid,79,3-0,Rebound,Left foot,10,PRM,La Liga,3,0,23
-181,2011-02-05,FC Barcelona,Atlético Madrid,28,2-0,,Left foot,10,PRM,La Liga,3,0,23
-180,2011-02-05,FC Barcelona,Atlético Madrid,17,1-0,,Left foot,10,PRM,La Liga,3,0,23
-179,2011-01-29,Hercules Alicante,FC Barcelona,89,0-3,,Left foot,10,PRM,La Liga,0,3,23
-178,2011-01-29,Hercules Alicante,FC Barcelona,87,0-2,,Left foot,10,PRM,La Liga,0,3,23
-177,2011-01-26,FC Barcelona,UD Almería,16,3-0,,Left foot,10,CUP,Copa del Rey,5,0,23
-176,2011-01-26,FC Barcelona,UD Almería,9,1-0,,Left foot,10,CUP,Copa del Rey,5,0,23
-175,2011-01-22,FC Barcelona,Racing Santander,33,2-0,Penalty,Left foot,10,PRM,La Liga,3,0,23
-174,2011-01-19,Real Betis,FC Barcelona,38,2-1,,Left foot,10,CUP,Copa del Rey,3,1,23
-173,2011-01-12,FC Barcelona,Real Betis,73,3-0,,Left foot,10,CUP,Copa del Rey,5,0,23
-172,2011-01-12,FC Barcelona,Real Betis,62,2-0,Rebound,Left foot,10,CUP,Copa del Rey,5,0,23
-171,2011-01-12,FC Barcelona,Real Betis,44,1-0,,Left foot,10,CUP,Copa del Rey,5,0,23
-170,2011-01-08,Deportivo La Coruña,FC Barcelona,52,0-2,Free kick,Left foot,10,PRM,La Liga,0,4,23
-169,2010-12-12,FC Barcelona,Real Sociedad,87,4-0,Solo run,Left foot,10,PRM,La Liga,5,0,23
-168,2010-12-12,FC Barcelona,Real Sociedad,47,3-0,,Left foot,10,PRM,La Liga,5,0,23
-167,2010-12-04,Osasuna,FC Barcelona,83,0-3,Penalty,Left foot,10,PRM,La Liga,0,3,23
-166,2010-12-04,Osasuna,FC Barcelona,65,0-2,,Left foot,10,PRM,La Liga,0,3,23
-165,2010-11-24,Panathinaikos,FC Barcelona,62,0-2,,Left foot,10,EUR,UEFA Champions League,0,3,23
-164,2010-11-20,UD Almería,FC Barcelona,67,0-7,Rebound,Left foot,10,PRM,La Liga,0,8,23
-163,2010-11-20,UD Almería,FC Barcelona,37,0-5,Rebound,Left foot,10,PRM,La Liga,0,8,23
-162,2010-11-20,UD Almería,FC Barcelona,17,0-1,Field goal,Left foot,10,PRM,La Liga,0,8,23
-161,2010-11-17,Argentina,Brazil,90+2,1-0,Solo run,Left foot,10,FRN,International friendly,1,0,23
-160,2010-11-13,FC Barcelona,Villarreal,83,3-1,,Left foot,10,PRM,La Liga,3,1,23
-159,2010-11-13,FC Barcelona,Villarreal,58,2-1,,Right foot,10,PRM,La Liga,3,1,23
-158,2010-11-10,FC Barcelona,AD Ceuta,68,5-1,,Left foot,10,CUP,Copa del Rey,5,1,23
-157,2010-11-07,Getafe,FC Barcelona,23,0-1,,Left foot,10,PRM,La Liga,1,3,23
-156,2010-11-02,FC Copenhagen,FC Barcelona,31,0-1,,Right foot,10,EUR,UEFA Champions League,1,1,23
-155,2010-10-30,FC Barcelona,Sevilla,64,4-0,Solo run,Left foot,10,PRM,La Liga,5,0,23
-154,2010-10-30,FC Barcelona,Sevilla,4,1-0,Rebound,Left foot,10,PRM,La Liga,5,0,23
-153,2010-10-23,Real Zaragoza,FC Barcelona,66,0-2,,Left foot,10,PRM,La Liga,0,2,23
-152,2010-10-23,Real Zaragoza,FC Barcelona,42,0-1,,Left foot,10,PRM,La Liga,0,2,23
-151,2010-10-20,FC Barcelona,FC Copenhagen,90+2,2-0,,Left foot,10,EUR,UEFA Champions League,2,0,23
-150,2010-10-20,FC Barcelona,FC Copenhagen,19,1-0,,Left foot,10,EUR,UEFA Champions League,2,0,23
-149,2010-10-03,FC Barcelona,Real Mallorca,21,1-0,,Left foot,10,PRM,La Liga,1,1,23
-148,2010-09-19,Atlético Madrid,FC Barcelona,13,0-1,,Left foot,10,PRM,La Liga,1,2,23
-147,2010-09-14,FC Barcelona,Panathinaikos,45,3-1,Field goal,Left foot,10,EUR,UEFA Champions League,5,1,23
-146,2010-09-14,FC Barcelona,Panathinaikos,22,1-1,Field goal,Left foot,10,EUR,UEFA Champions League,5,1,23
-145,2010-09-07,Argentina,Spain,10,1-0,Field goal,Left foot,10,FRN,International friendly,4,1,23
-144,2010-08-29,Racing Santander,FC Barcelona,3,0-1,,Right foot,10,PRM,La Liga,0,3,23
-143,2010-08-21,FC Barcelona,Sevilla,90,4-0,,Left foot,10,SUP,Spanish Super Cup,4,0,23
-142,2010-08-21,FC Barcelona,Sevilla,43,3-0,,Right foot,10,SUP,Spanish Super Cup,4,0,23
-141,2010-08-21,FC Barcelona,Sevilla,24,2-0,,Left foot,10,SUP,Spanish Super Cup,4,0,23
-140,2010-05-16,FC Barcelona,Real Valladolid,76,4-0,,Left foot,10,PRM,La Liga,4,0,22
-139,2010-05-16,FC Barcelona,Real Valladolid,62,3-0,,Right foot,10,PRM,La Liga,4,0,22
-138,2010-05-08,Sevilla,FC Barcelona,5,0-1,,Left foot,10,PRM,La Liga,2,3,22
-137,2010-05-04,FC Barcelona,Tenerife,90+3,4-1,,Right foot,10,PRM,La Liga,4,1,22
-136,2010-05-04,FC Barcelona,Tenerife,17,1-0,,Right foot,10,PRM,La Liga,4,1,22
-135,2010-05-01,Villarreal,FC Barcelona,88,1-4,,Left foot,10,PRM,La Liga,1,4,22
-134,2010-05-01,Villarreal,FC Barcelona,19,0-1,,Left foot,10,PRM,La Liga,1,4,22
-133,2010-04-10,Real Madrid,FC Barcelona,33,0-1,,Right foot,10,PRM,La Liga,0,2,22
-132,2010-04-06,FC Barcelona,Arsenal,88,4-1,Rebound,Left foot,10,EUR,UEFA Champions League,4,1,22
-131,2010-04-06,FC Barcelona,Arsenal,42,3-1,,Left foot,10,EUR,UEFA Champions League,4,1,22
-130,2010-04-06,FC Barcelona,Arsenal,37,2-1,,Right foot,10,EUR,UEFA Champions League,4,1,22
-129,2010-04-06,FC Barcelona,Arsenal,21,1-1,,Left foot,10,EUR,UEFA Champions League,4,1,22
-128,2010-04-03,FC Barcelona,Athletic de Bilbao,67,4-0,,Left foot,10,PRM,La Liga,4,1,22
-127,2010-03-21,Real Zaragoza,FC Barcelona,78,0-3,,Left foot,10,PRM,La Liga,2,4,22
-126,2010-03-21,Real Zaragoza,FC Barcelona,66,0-2,Solo run,Left foot,10,PRM,La Liga,2,4,22
-125,2010-03-21,Real Zaragoza,FC Barcelona,5,0-1,,Head,10,PRM,La Liga,2,4,22
-124,2010-03-17,FC Barcelona,VfB Stuttgart,60,3-0,,Left foot,10,EUR,UEFA Champions League,4,0,22
-123,2010-03-17,FC Barcelona,VfB Stuttgart,13,1-0,Solo run,Left foot,10,EUR,UEFA Champions League,4,0,22
-122,2010-03-14,FC Barcelona,Valencia,83,3-0,,Right foot,10,PRM,La Liga,3,0,22
-121,2010-03-14,FC Barcelona,Valencia,81,2-0,,Left foot,10,PRM,La Liga,3,0,22
-120,2010-03-14,FC Barcelona,Valencia,56,1-0,,Left foot,10,PRM,La Liga,3,0,22
-119,2010-03-06,UD Almería,FC Barcelona,66,2-2,,Left foot,10,PRM,La Liga,2,2,22
-118,2010-03-06,UD Almería,FC Barcelona,42,1-1,Free kick,Left foot,10,PRM,La Liga,2,2,22
-117,2010-02-27,FC Barcelona,Málaga,84,2-1,Field goal,Right foot,10,PRM,La Liga,2,1,22
-116,2010-02-06,FC Barcelona,Getafe,7,1-0,,Left foot,10,PRM,La Liga,2,1,22
-115,2010-01-23,Real Valladolid,FC Barcelona,56,0-3,,Left foot,10,PRM,La Liga,0,3,22
-114,2010-01-16,FC Barcelona,Sevilla,90+1,4-0,,Left foot,10,PRM,La Liga,4,0,22
-113,2010-01-16,FC Barcelona,Sevilla,85,3-0,,Left foot,10,PRM,La Liga,4,0,22
-112,2010-01-10,Tenerife,FC Barcelona,75,0-4,,Left foot,10,PRM,La Liga,0,5,22
-111,2010-01-10,Tenerife,FC Barcelona,45,0-3,,Right foot,10,PRM,La Liga,0,5,22
-110,2010-01-10,Tenerife,FC Barcelona,36,0-1,,Left foot,10,PRM,La Liga,0,5,22
-109,2009-12-19,Estudiantes La Plata,FC Barcelona,110,1-2,,Chest,10,WCT,FIFA Club World Cup,1,2,22
-108,2009-12-16,Atlante,FC Barcelona,55,1-2,,Left foot,10,WCT,FIFA Club World Cup,1,3,22
-107,2009-12-09,Dynamo Kyiv,FC Barcelona,86,1-2,Free kick,Left foot,10,EUR,UEFA Champions League,1,2,22
-106,2009-12-05,Deportivo La Coruña,FC Barcelona,80,1-2,,Head,10,PRM,La Liga,1,3,22
-105,2009-12-05,Deportivo La Coruña,FC Barcelona,27,0-1,,Left foot,10,PRM,La Liga,1,3,22
-104,2009-11-14,Spain,Argentina,61,1-1,Penalty,Left foot,10,FRN,International friendly,2,1,22
-103,2009-11-10,FC Barcelona,Cultural Leonesa,64,4-0,,Left foot,10,CUP,Copa del Rey,5,0,22
-102,2009-11-07,FC Barcelona,Real Mallorca,87,4-1,Penalty,Left foot,10,PRM,La Liga,4,2,22
-101,2009-10-25,FC Barcelona,Real Zaragoza,80,5-1,Field goal,Left foot,10,PRM,La Liga,6,1,22
-100,2009-09-29,FC Barcelona,Dynamo Kyiv,26,1-0,,Left foot,10,EUR,UEFA Champions League,2,0,22
-99,2009-09-22,Racing Santander,FC Barcelona,63,0-4,,Left foot,10,PRM,La Liga,1,4,22
-98,2009-09-22,Racing Santander,FC Barcelona,24,0-2,,Left foot,10,PRM,La Liga,1,4,22
-97,2009-09-19,FC Barcelona,Atlético Madrid,90+4,5-2,,Right foot,10,PRM,La Liga,5,2,22
-96,2009-09-19,FC Barcelona,Atlético Madrid,16,2-0,,Left foot,10,PRM,La Liga,5,2,22
-95,2009-09-12,Getafe,FC Barcelona,80,0-2,,Head,10,PRM,La Liga,0,2,22
-94,2009-08-23,FC Barcelona,Athletic de Bilbao,68,2-0,Penalty,Left foot,10,SUP,Spanish Super Cup,3,0,22
-93,2009-08-23,FC Barcelona,Athletic de Bilbao,50,1-0,,Right foot,10,SUP,Spanish Super Cup,3,0,22
-92,2009-05-27,FC Barcelona,Manchester United,70,2-0,,Head,10,EUR,UEFA Champions League,2,0,21
-91,2009-05-13,Athletic de Bilbao,FC Barcelona,55,1-2,,Left foot,10,CUP,Copa del Rey,1,4,21
-90,2009-05-02,Real Madrid,FC Barcelona,75,2-5,,Left foot,10,PRM,La Liga,2,6,21
-89,2009-05-02,Real Madrid,FC Barcelona,36,1-3,,Left foot,10,PRM,La Liga,2,6,21
-88,2009-04-25,Valencia,FC Barcelona,24,0-1,,Left foot,10,PRM,La Liga,2,2,21
-87,2009-04-18,Getafe,FC Barcelona,19,0-1,,Left foot,10,PRM,La Liga,0,1,21
-86,2009-04-08,FC Barcelona,Bayern München,38,3-0,,Right foot,10,EUR,UEFA Champions League,4,0,21
-85,2009-04-08,FC Barcelona,Bayern München,9,1-0,,Left foot,10,EUR,UEFA Champions League,4,0,21
-84,2009-03-28,Argentina,Venezuela,26,1-0,,Left foot,10,WCQ,World Cup 2010 Qualification,4,0,21
-83,2009-03-22,FC Barcelona,Málaga,25,2-0,,Right foot,10,PRM,La Liga,6,0,21
-82,2009-03-11,FC Barcelona,Olympique Lyonnais,40,3-0,,Left foot,10,EUR,UEFA Champions League,5,2,21
-81,2009-03-07,FC Barcelona,Athletic de Bilbao,32,2-0,Penalty,Left foot,10,PRM,La Liga,2,0,21
-80,2009-03-04,Real Mallorca,FC Barcelona,81,1-1,,Left foot,10,CUP,Copa del Rey,1,1,21
-79,2009-03-01,Atlético Madrid,FC Barcelona,30,0-2,,Left foot,10,PRM,La Liga,4,3,21
-78,2009-02-11,France,Argentina,83,0-2,Solo run,Left foot,18,FRN,International friendly,0,2,21
-77,2009-02-01,Racing Santander,FC Barcelona,81,1-2,,Right foot,10,PRM,La Liga,1,2,21
-76,2009-02-01,Racing Santander,FC Barcelona,65,1-1,Rebound,Right foot,10,PRM,La Liga,1,2,21
-75,2009-01-24,FC Barcelona,Numancia,76,4-1,Rebound,Right foot,10,PRM,La Liga,4,1,21
-74,2009-01-24,FC Barcelona,Numancia,49,1-0,,Left foot,10,PRM,La Liga,4,1,21
-73,2009-01-17,FC Barcelona,Deportivo La Coruña,21,1-0,,Left foot,10,PRM,La Liga,5,0,21
-72,2009-01-11,Osasuna,FC Barcelona,85,2-3,,Left foot,10,PRM,La Liga,2,3,21
-71,2009-01-06,Atlético Madrid,FC Barcelona,80,1-3,,Right foot,10,CUP,Copa del Rey,1,3,21
-70,2009-01-06,Atlético Madrid,FC Barcelona,57,0-2,Penalty,Left foot,10,CUP,Copa del Rey,1,3,21
-69,2009-01-06,Atlético Madrid,FC Barcelona,13,0-1,,Left foot,10,CUP,Copa del Rey,1,3,21
-68,2008-12-13,FC Barcelona,Real Madrid,90+1,2-0,,Left foot,10,PRM,La Liga,2,0,21
-67,2008-11-29,Sevilla,FC Barcelona,90+2,0-3,,Left foot,10,PRM,La Liga,0,3,21
-66,2008-11-29,Sevilla,FC Barcelona,78,0-2,,Left foot,10,PRM,La Liga,0,3,21
-65,2008-11-26,Sporting Lisbon,FC Barcelona,49,0-3,,Left foot,10,EUR,UEFA Champions League,2,5,21
-64,2008-11-16,Recreativo Huelva,FC Barcelona,52,0-1,,Left foot,10,PRM,La Liga,0,2,21
-63,2008-11-12,FC Barcelona,Benidorm,87,1-0,Rebound,Left foot,10,CUP,Copa del Rey,1,0,21
-62,2008-11-04,FC Barcelona,FC Basel,62,1-0,,Left foot,10,EUR,UEFA Champions League,1,1,21
-61,2008-11-01,Málaga,FC Barcelona,19,1-2,,Left foot,10,PRM,La Liga,1,4,21
-60,2008-10-22,FC Basel,FC Barcelona,4,0-1,,Left foot,10,EUR,UEFA Champions League,0,5,21
-59,2008-10-11,Argentina,Uruguay,6,1-0,,Head,18,WCQ,World Cup 2010 Qualification,2,1,21
-58,2008-10-04,FC Barcelona,Atlético Madrid,9,3-0,Free kick,Left foot,10,PRM,La Liga,6,1,21
-57,2008-10-01,Shakhtar Donetsk,FC Barcelona,90+4,1-2,,Left foot,10,EUR,UEFA Champions League,1,2,21
-56,2008-10-01,Shakhtar Donetsk,FC Barcelona,87,1-1,Rebound,Right foot,10,EUR,UEFA Champions League,1,2,21
-55,2008-09-27,Espanyol,FC Barcelona,90+7,1-2,Penalty,Left foot,10,PRM,La Liga,1,2,21
-54,2008-09-21,Sporting Gijón,FC Barcelona,89,1-6,Field goal,Head,10,PRM,La Liga,1,6,21
-53,2008-09-21,Sporting Gijón,FC Barcelona,85,1-5,Field goal,Left foot,10,PRM,La Liga,1,6,21
-52,2008-09-13,FC Barcelona,Racing Santander,71,1-0,Penalty,Left foot,10,PRM,La Liga,1,1,21
-51,2008-06-05,Mexico,Argentina,18,0-2,Field goal,Left foot,18,FRN,International friendly,1,4,20
-50,2008-05-04,FC Barcelona,Valencia,6,1-0,Penalty,Left foot,19,PRM,La Liga,6,0,20
-49,2008-02-24,FC Barcelona,Levante,44,2-1,,Left foot,19,PRM,La Liga,5,1,20
-48,2008-02-20,Celtic,FC Barcelona,79,2-3,,Left foot,19,EUR,UEFA Champions League,2,3,20
-47,2008-02-20,Celtic,FC Barcelona,18,1-1,,Left foot,19,EUR,UEFA Champions League,2,3,20
-46,2007-11-27,Olympique Lyonnais,FC Barcelona,58,1-2,Penalty,Left foot,19,EUR,UEFA Champions League,2,2,20
-45,2007-11-24,FC Barcelona,Recreativo Huelva,82,3-0,Penalty,Left foot,19,PRM,La Liga,3,0,20
-44,2007-11-21,Colombia,Argentina,36,0-1,Solo run,Left foot,18,WCQ,World Cup 2010 Qualification,2,1,20
-43,2007-11-07,FC Barcelona,Glasgow Rangers,43,2-0,Rebound,Left foot,19,EUR,UEFA Champions League,2,0,20
-42,2007-10-28,FC Barcelona,UD Almería,81,2-0,Penalty,Left foot,19,PRM,La Liga,2,0,20
-41,2007-10-17,Venezuela,Argentina,43,0-2,Field goal,Left foot,18,WCQ,World Cup 2010 Qualification,0,2,20
-40,2007-10-07,FC Barcelona,Atlético Madrid,19,2-0,,Left foot,19,PRM,La Liga,3,0,20
-39,2007-10-02,VfB Stuttgart,FC Barcelona,67,0-2,,Right foot,19,EUR,UEFA Champions League,0,2,20
-38,2007-09-29,Levante,FC Barcelona,51,0-4,,Left foot,19,PRM,La Liga,1,4,20
-37,2007-09-26,FC Barcelona,Real Zaragoza,11,2-1,,Left foot,19,PRM,La Liga,4,1,20
-36,2007-09-26,FC Barcelona,Real Zaragoza,5,1-0,,Left foot,19,PRM,La Liga,4,1,20
-35,2007-09-22,FC Barcelona,Sevilla,80,2-0,Penalty,Left foot,19,PRM,La Liga,2,1,20
-34,2007-09-22,FC Barcelona,Sevilla,74,1-0,,Left foot,19,PRM,La Liga,2,1,20
-33,2007-09-19,FC Barcelona,Olympique Lyonnais,83,2-0,,Left foot,19,EUR,UEFA Champions League,3,0,20
-32,2007-07-12,Mexico,Argentina,61,0-2,,Left foot,18,CPA,Copa América 2007,0,3,20
-31,2007-07-09,Argentina,Peru,61,2-0,,Left foot,18,CPA,Copa América 2007,4,0,20
-30,2007-06-17,Gimnàstic,FC Barcelona,51,0-4,,Left foot,19,PRM,La Liga,1,5,19
-29,2007-06-17,Gimnàstic,FC Barcelona,35,0-2,,Left foot,19,PRM,La Liga,1,5,19
-28,2007-06-09,FC Barcelona,Espanyol,57,2-1,,Right foot,19,PRM,La Liga,2,2,19
-27,2007-06-09,FC Barcelona,Espanyol,43,1-1,,Hand,19,PRM,La Liga,2,2,19
-26,2007-06-05,Argentina,Algeria,73,4-2,,Left foot,18,FRN,International friendly,4,3,19
-25,2007-06-05,Argentina,Algeria,54,2-2,Penalty,Left foot,18,FRN,International friendly,4,3,19
-24,2007-05-20,Atlético Madrid,FC Barcelona,80,0-5,,Left foot,19,PRM,La Liga,0,6,19
-23,2007-05-20,Atlético Madrid,FC Barcelona,39,0-1,,Left foot,19,PRM,La Liga,0,6,19
-22,2007-04-18,FC Barcelona,Getafe,45,3-0,,Left foot,19,CUP,Copa del Rey,5,2,19
-21,2007-04-18,FC Barcelona,Getafe,29,2-0,Solo run,Right foot,19,CUP,Copa del Rey,5,2,19
-20,2007-03-31,FC Barcelona,Deportivo La Coruña,45,1-0,,Left foot,19,PRM,La Liga,2,1,19
-19,2007-03-17,Recreativo Huelva,FC Barcelona,86,0-4,,Left foot,19,PRM,La Liga,0,4,19
-18,2007-03-10,FC Barcelona,Real Madrid,90,3-3,,Left foot,19,PRM,La Liga,3,3,19
-17,2007-03-10,FC Barcelona,Real Madrid,28,2-2,Rebound,Left foot,19,PRM,La Liga,3,3,19
-16,2007-03-10,FC Barcelona,Real Madrid,11,1-1,,Left foot,19,PRM,La Liga,3,3,19
-15,2006-10-15,FC Barcelona,Sevilla,81,3-1,,Right foot,19,PRM,La Liga,3,1,19
-14,2006-09-27,Werder Bremen,FC Barcelona,89,1-1,,Left foot,19,EUR,UEFA Champions League,1,1,19
-13,2006-09-09,FC Barcelona,Osasuna,37,3-0,,Left foot,19,PRM,La Liga,3,0,19
-12,2006-08-28,Celta de Vigo,FC Barcelona,60,1-2,,Left foot,19,PRM,La Liga,2,3,19
-11,2006-06-16,Argentina,Serbia and Montenegro,88,6-0,,Right foot,19,WCP,World Cup 2006,6,0,18
-10,2006-03-01,Croatia,Argentina,6,1-2,,Left foot,19,FRN,International friendly,3,2,18
-9,2006-02-18,FC Barcelona,Real Betis,85,5-1,Rebound,Left foot,19,PRM,La Liga,5,1,18
-8,2006-02-01,FC Barcelona,Real Zaragoza,42,1-0,Field goal,Head,30,CUP,Copa del Rey,2,1,18
-7,2006-01-29,Real Mallorca,FC Barcelona,81,0-3,Field goal,Left foot,30,PRM,La Liga,0,3,18
-6,2006-01-29,Real Mallorca,FC Barcelona,75,0-2,Field goal,Right foot,30,PRM,La Liga,0,3,18
-5,2006-01-22,FC Barcelona,Alavés,81,2-0,Rebound,Left foot,30,PRM,La Liga,2,0,18
-4,2006-01-15,FC Barcelona,Athletic de Bilbao,51,2-1,Rebound,Left foot,30,PRM,La Liga,2,1,18
-3,2005-11-27,FC Barcelona,Racing Santander,52,2-0,Field goal,Left foot,30,PRM,La Liga,4,1,18
-2,2005-11-02,FC Barcelona,Panathinaikos,34,3-0,Field goal,Left foot,30,EUR,UEFA Champions League,5,0,18
-1,2005-05-01,FC Barcelona,Albacete,90,2-0,,Left foot,30,PRM,La Liga,2,0,17
+#_of_Goal,Date,Home team,Away team,Minute,Partial_Score,What,How,Jersey,Competition_abb,Competition_name,Goals_H,Goals_A,Result,Leo_age
+803,2023-03-28,Argentina,Curaçao,37,5-0,Field goal,Left foot,10,FRN,International friendly,7,0,Home,35
+802,2023-03-28,Argentina,Curaçao,33,3-0,Field goal,Left foot,10,FRN,International friendly,7,0,Home,35
+801,2023-03-28,Argentina,Curaçao,20,1-0,Field goal,Right foot,10,FRN,International friendly,7,0,Home,35
+800,2023-03-24,Argentina,Panama,89,2-0,Free kick,Left foot,10,FRN,International friendly,2,0,Home,35
+799,2023-03-04,Paris Saint-Germain,FC Nantes,12,1-0,Field goal,Left foot,30,PRM,Ligue 1,4,2,Home,35
+798,2023-02-26,Olympique Marseille,Paris Saint-Germain,29,0-2,Field goal,Right foot,30,PRM,Ligue 1,0,3,Away,35
+797,2023-02-19,Paris Saint-Germain,Lille OSC,90+4,4-3,Free kick,Left foot,30,PRM,Ligue 1,4,3,Home,35
+796,2023-02-04,Paris Saint-Germain,Toulouse FC,58,2-1,Field goal,Left foot,30,PRM,Ligue 1,2,1,Home,35
+795,2023-02-01,Montpellier Hérault SC,Paris Saint-Germain,72,0-2,Field goal,Left foot,30,PRM,Ligue 1,1,3,Away,35
+794,2023-01-11,Paris Saint-Germain,Angers SCO,72,2-0,Field goal,Right foot,30,PRM,Ligue 1,2,0,Home,35
+793,2022-12-18,Argentina,France,23,1-0,Penalty,Left foot,10,WCP,World Cup 2022,3,3,Draw,35
+792,2022-12-18,Argentina,France,109,3-2,Rebound,Right foot,10,WCP,World Cup 2022,3,3,Draw,35
+791,2022-12-13,Argentina,Croatia,34,1-0,Penalty,Left foot,10,WCP,World Cup 2022,3,0,Home,35
+790,2022-12-09,Netherlands,Argentina,73,0-2,Penalty,Left foot,10,WCP,World Cup 2022,2,2,Draw,35
+789,2022-12-03,Argentina,Australia,35,1-0,Field goal,Left foot,10,WCP,World Cup 2022,2,1,Home,35
+788,2022-11-26,Argentina,Mexico,64,1-0,Field goal,Left foot,10,WCP,World Cup 2022,2,0,Home,35
+787,2022-11-22,Argentina,Saudi Arabia,10,1-0,Penalty,Left foot,10,WCP,World Cup 2022,1,2,Away,35
+786,2022-11-16,United Arab Emirates,Argentina,44,0-4,Field goal,Right foot,10,FRN,International friendly,0,5,Away,35
+785,2022-10-29,Paris Saint-Germain,ES Troyes AC,55,2-2,Field goal,Left foot,30,PRM,Ligue 1,4,3,Home,35
+784,2022-10-25,Paris Saint-Germain,Maccabi Haifa,44,4-1,Field goal,Left foot,30,EUR,UEFA Champions League,7,2,Home,35
+783,2022-10-25,Paris Saint-Germain,Maccabi Haifa,19,1-0,Field goal,Left foot,30,EUR,UEFA Champions League,7,2,Home,35
+782,2022-10-21,AC Ajaccio,Paris Saint-Germain,78,0-2,Field goal,Left foot,30,PRM,Ligue 1,0,3,Away,35
+781,2022-10-05,Benfica,Paris Saint-Germain,22,0-1,Field goal,Left foot,30,EUR,UEFA Champions League,1,1,Draw,35
+780,2022-10-01,Paris Saint-Germain,OGC Nice,29,1-0,Free kick,Left foot,30,PRM,Ligue 1,2,1,Home,35
+779,2022-09-27,Argentina,Jamaica,89,3-0,Free kick,Left foot,10,FRN,International friendly,3,0,Home,35
+778,2022-09-27,Argentina,Jamaica,87,2-0,Field goal,Left foot,10,FRN,International friendly,3,0,Home,35
+777,2022-09-23,Argentina,Honduras,69,3-0,Field goal,Left foot,10,FRN,International friendly,3,0,Home,35
+776,2022-09-23,Argentina,Honduras,45+2,2-0,Penalty,Left foot,10,FRN,International friendly,3,0,Home,35
+775,2022-09-18,Olympique Lyonnais,Paris Saint-Germain,5,0-1,Field goal,Left foot,30,PRM,Ligue 1,0,1,Away,35
+774,2022-09-14,Maccabi Haifa,Paris Saint-Germain,37,1-1,Rebound,Left foot,30,EUR,UEFA Champions League,1,3,Away,35
+773,2022-08-21,Lille OSC,Paris Saint-Germain,28,0-2,Field goal,Right foot,30,PRM,Ligue 1,1,7,Away,35
+772,2022-08-06,Clermont Foot 63,Paris Saint-Germain,86,0-5,Field goal,Left foot,30,PRM,Ligue 1,0,5,Away,35
+771,2022-08-06,Clermont Foot 63,Paris Saint-Germain,80,0-4,Field goal,Left foot,30,PRM,Ligue 1,0,5,Away,35
+770,2022-07-31,Paris Saint-Germain,FC Nantes,22,1-0,Field goal,Right foot,30,SUP,Trophée des Champions,4,0,Home,35
+769,2022-06-05,Argentina,Estonia,76,5-0,Rebound,Left foot,10,FRN,International friendly,5,0,Home,34
+768,2022-06-05,Argentina,Estonia,71,4-0,Field goal,Right foot,10,FRN,International friendly,5,0,Home,34
+767,2022-06-05,Argentina,Estonia,47,3-0,Field goal,Left foot,10,FRN,International friendly,5,0,Home,34
+766,2022-06-05,Argentina,Estonia,45,2-0,Field goal,Left foot,10,FRN,International friendly,5,0,Home,34
+765,2022-06-05,Argentina,Estonia,8,1-0,Penalty,Left foot,10,FRN,International friendly,5,0,Home,34
+764,2022-05-14,Montpellier Hérault SC,Paris Saint-Germain,20,0-2,Field goal,Left foot,30,PRM,Ligue 1,0,4,Away,34
+763,2022-05-14,Montpellier Hérault SC,Paris Saint-Germain,6,0-1,Field goal,Left foot,30,PRM,Ligue 1,0,4,Away,34
+762,2022-04-23,Paris Saint-Germain,RC Lens,68,1-0,Field goal,Left foot,30,PRM,Ligue 1,1,1,Draw,34
+761,2022-04-03,Paris Saint-Germain,FC Lorient,73,4-1,Field goal,Left foot,30,PRM,Ligue 1,5,1,Home,34
+760,2022-03-26,Argentina,Venezuela,82,3-0,Field goal,Right foot,10,WCQ,World Cup 2022 Qualification,3,0,Home,34
+759,2022-02-06,Lille OSC,Paris Saint-Germain,38,1-3,Field goal,Left foot,30,PRM,Ligue 1,1,5,Away,34
+758,2021-12-07,Paris Saint-Germain,Club Brugge,76,4-1,Penalty,Left foot,30,EUR,UEFA Champions League,4,1,Home,34
+757,2021-12-07,Paris Saint-Germain,Club Brugge,38,3-0,Field goal,Left foot,30,EUR,UEFA Champions League,4,1,Home,34
+756,2021-11-20,Paris Saint-Germain,FC Nantes,87,3-1,Field goal,Left foot,30,PRM,Ligue 1,3,1,Home,34
+755,2021-10-19,Paris Saint-Germain,RB Leipzig,74,3-2,Penalty,Left foot,30,EUR,UEFA Champions League,3,2,Home,34
+754,2021-10-19,Paris Saint-Germain,RB Leipzig,67,2-2,Rebound,Left foot,30,EUR,UEFA Champions League,3,2,Home,34
+753,2021-10-10,Argentina,Uruguay,38,1-0,Field goal,Left foot,10,WCQ,World Cup 2022 Qualification,3,0,Home,34
+752,2021-09-28,Paris Saint-Germain,Manchester City,74,2-0,Field goal,Left foot,30,EUR,UEFA Champions League,2,0,Home,34
+751,2021-09-09,Argentina,Bolivia,88,3-0,Rebound,Left foot,10,WCQ,World Cup 2022 Qualification,3,0,Home,34
+750,2021-09-09,Argentina,Bolivia,64,2-0,Field goal,Right foot,10,WCQ,World Cup 2022 Qualification,3,0,Home,34
+749,2021-09-09,Argentina,Bolivia,14,1-0,Field goal,Left foot,10,WCQ,World Cup 2022 Qualification,3,0,Home,34
+748,2021-07-03,Argentina,Ecuador,90+3,3-0,Free kick,Left foot,10,CPA,Copa América 2021,3,0,Home,34
+747,2021-06-28,Bolivia,Argentina,42,0-3,Field goal,Left foot,10,CPA,Copa América 2021,1,4,Away,34
+746,2021-06-28,Bolivia,Argentina,33,0-2,Penalty,Left foot,10,CPA,Copa América 2021,1,4,Away,34
+745,2021-06-14,Argentina,Chile,33,1-0,Free kick,Left foot,10,CPA,Copa América 2021,1,1,Draw,33
+744,2021-06-04,Argentina,Chile,23,1-0,Penalty,Left foot,10,WCQ,World Cup 2022 Qualification,1,1,Draw,33
+743,2021-05-16,FC Barcelona,Celta de Vigo,28,1-0,Field goal,Head,10,PRM,La Liga,1,2,Away,33
+742,2021-05-11,Levante,FC Barcelona,25,0-1,Field goal,Left foot,10,PRM,La Liga,3,3,Draw,33
+741,2021-05-02,Valencia,FC Barcelona,69,1-3,Free kick,Left foot,10,PRM,La Liga,2,3,Away,33
+740,2021-05-02,Valencia,FC Barcelona,57,1-1,Rebound,Left foot,10,PRM,La Liga,2,3,Away,33
+739,2021-04-29,FC Barcelona,Granada,23,1-0,Field goal,Left foot,10,PRM,La Liga,1,2,Away,33
+738,2021-04-22,FC Barcelona,Getafe,33,3-1,Rebound,Left foot,10,PRM,La Liga,5,2,Home,33
+737,2021-04-22,FC Barcelona,Getafe,8,1-0,Field goal,Left foot,10,PRM,La Liga,5,2,Home,33
+736,2021-04-17,Athletic de Bilbao,FC Barcelona,72,0-4,Field goal,Left foot,10,CUP,Copa del Rey,0,4,Away,33
+735,2021-04-17,Athletic de Bilbao,FC Barcelona,68,0-3,Field goal,Left foot,10,CUP,Copa del Rey,0,4,Away,33
+734,2021-03-21,Real Sociedad,FC Barcelona,89,1-6,Field goal,Left foot,10,PRM,La Liga,1,6,Away,33
+733,2021-03-21,Real Sociedad,FC Barcelona,57,0-4,Field goal,Left foot,10,PRM,La Liga,1,6,Away,33
+732,2021-03-15,FC Barcelona,Huesca,90,4-1,Field goal,Left foot,10,PRM,La Liga,4,1,Home,33
+731,2021-03-15,FC Barcelona,Huesca,13,1-0,Field goal,Left foot,10,PRM,La Liga,4,1,Home,33
+730,2021-03-10,Paris Saint-Germain,FC Barcelona,37,1-1,Field goal,Left foot,10,EUR,UEFA Champions League,1,1,Draw,33
+729,2021-02-27,Sevilla,FC Barcelona,85,0-2,Rebound,Right foot,10,PRM,La Liga,0,2,Away,33
+728,2021-02-24,FC Barcelona,Elche,68,2-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,33
+727,2021-02-24,FC Barcelona,Elche,48,1-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,33
+726,2021-02-21,FC Barcelona,Cádiz,32,1-0,Penalty,Left foot,10,PRM,La Liga,1,1,Draw,33
+725,2021-02-16,FC Barcelona,Paris Saint-Germain,28,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,1,4,Away,33
+724,2021-02-13,FC Barcelona,Alavés,75,4-1,Field goal,Left foot,10,PRM,La Liga,5,1,Home,33
+723,2021-02-13,FC Barcelona,Alavés,45+1,2-0,Field goal,Left foot,10,PRM,La Liga,5,1,Home,33
+722,2021-02-07,Real Betis,FC Barcelona,60,1-1,Field goal,Left foot,10,PRM,La Liga,2,3,Away,33
+721,2021-01-31,FC Barcelona,Athletic de Bilbao,20,1-0,Free kick,Left foot,10,PRM,La Liga,2,1,Home,33
+720,2021-01-27,Rayo Vallecano,FC Barcelona,70,1-1,Field goal,Left foot,10,CUP,Copa del Rey,1,2,Away,33
+719,2021-01-09,Granada,FC Barcelona,42,0-3,Free kick,Left foot,10,PRM,La Liga,0,4,Away,33
+718,2021-01-09,Granada,FC Barcelona,35,0-2,Field goal,Left foot,10,PRM,La Liga,0,4,Away,33
+717,2021-01-06,Athletic de Bilbao,FC Barcelona,62,1-3,Field goal,Left foot,10,PRM,La Liga,2,3,Away,33
+716,2021-01-06,Athletic de Bilbao,FC Barcelona,38,1-2,Field goal,Left foot,10,PRM,La Liga,2,3,Away,33
+715,2020-12-22,Real Valladolid,FC Barcelona,65,0-3,Field goal,Left foot,10,PRM,La Liga,0,3,Away,33
+714,2020-12-19,FC Barcelona,Valencia,45+4,1-1,Field goal,Head,10,PRM,La Liga,2,2,Draw,33
+713,2020-12-13,FC Barcelona,Levante,76,1-0,Field goal,Left foot,10,PRM,La Liga,1,0,Home,33
+712,2020-11-29,FC Barcelona,Osasuna,73,4-0,Field goal,Left foot,10,PRM,La Liga,4,0,Home,33
+711,2020-11-07,FC Barcelona,Real Betis,82,4-2,Field goal,Left foot,10,PRM,La Liga,5,2,Home,33
+710,2020-11-07,FC Barcelona,Real Betis,61,3-1,Penalty,Left foot,10,PRM,La Liga,5,2,Home,33
+709,2020-11-04,FC Barcelona,Dynamo Kyiv,5,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,2,1,Home,33
+708,2020-10-28,Juventus,FC Barcelona,90+1,0-2,Penalty,Left foot,10,EUR,UEFA Champions League,0,2,Away,33
+707,2020-10-20,FC Barcelona,Ferencváros,27,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,5,1,Home,33
+706,2020-10-09,Argentina,Ecuador,13,1-0,Penalty,Left foot,10,WCQ,World Cup 2022 Qualification,1,0,Home,33
+705,2020-09-27,FC Barcelona,Villarreal,35,3-0,Penalty,Left foot,10,PRM,La Liga,4,0,Home,33
+704,2020-08-08,FC Barcelona,Napoli,23,2-0,Rebound,Left foot,10,EUR,UEFA Champions League,3,1,Home,33
+703,2020-07-19,Alavés,FC Barcelona,75,0-5,Field goal,Left foot,10,PRM,La Liga,0,5,Away,33
+702,2020-07-19,Alavés,FC Barcelona,34,0-2,Field goal,Left foot,10,PRM,La Liga,0,5,Away,33
+701,2020-07-16,FC Barcelona,Osasuna,62,1-1,Free kick,Left foot,10,PRM,La Liga,1,2,Away,33
+700,2020-06-30,FC Barcelona,Atlético Madrid,50,2-1,Penalty,Left foot,10,PRM,La Liga,2,2,Draw,33
+699,2020-06-16,FC Barcelona,Leganés,69,2-0,Penalty,Left foot,10,PRM,La Liga,2,0,Home,32
+698,2020-06-13,Real Mallorca,FC Barcelona,90+3,0-4,Field goal,Right foot,10,PRM,La Liga,0,4,Away,32
+697,2020-03-07,FC Barcelona,Real Sociedad,81,1-0,Penalty,Left foot,10,PRM,La Liga,1,0,Home,32
+696,2020-02-22,FC Barcelona,Eibar,87,4-0,Rebound,Left foot,10,PRM,La Liga,5,0,Home,32
+695,2020-02-22,FC Barcelona,Eibar,40,3-0,Rebound,Left foot,10,PRM,La Liga,5,0,Home,32
+694,2020-02-22,FC Barcelona,Eibar,37,2-0,Field goal,Left foot,10,PRM,La Liga,5,0,Home,32
+693,2020-02-22,FC Barcelona,Eibar,14,1-0,Field goal,Left foot,10,PRM,La Liga,5,0,Home,32
+692,2020-01-30,FC Barcelona,Leganés,89,5-0,Field goal,Left foot,10,CUP,Copa del Rey,5,0,Home,32
+691,2020-01-30,FC Barcelona,Leganés,59,3-0,Field goal,Left foot,10,CUP,Copa del Rey,5,0,Home,32
+690,2020-01-19,FC Barcelona,Granada,76,1-0,Field goal,Right foot,10,PRM,La Liga,1,0,Home,32
+689,2020-01-09,FC Barcelona,Atlético Madrid,51,1-1,Field goal,Right foot,10,SUP,Spanish Super Cup,2,3,Away,32
+688,2019-12-21,FC Barcelona,Alavés,69,3-1,Field goal,Left foot,10,PRM,La Liga,4,1,Home,32
+687,2019-12-07,FC Barcelona,Real Mallorca,83,5-2,Field goal,Left foot,10,PRM,La Liga,5,2,Home,32
+686,2019-12-07,FC Barcelona,Real Mallorca,41,3-1,Field goal,Left foot,10,PRM,La Liga,5,2,Home,32
+685,2019-12-07,FC Barcelona,Real Mallorca,17,2-0,Field goal,Left foot,10,PRM,La Liga,5,2,Home,32
+684,2019-12-01,Atlético Madrid,FC Barcelona,86,0-1,Field goal,Left foot,10,PRM,La Liga,0,1,Away,32
+683,2019-11-27,FC Barcelona,Borussia Dortmund,33,2-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,1,Home,32
+682,2019-11-18,Argentina,Uruguay,90+2,2-2,Penalty,Left foot,10,FRN,International friendly,2,2,Draw,32
+681,2019-11-15,Brazil,Argentina,13,0-1,Rebound,Left foot,10,FRN,International friendly,0,1,Away,32
+680,2019-11-09,FC Barcelona,Celta de Vigo,48,3-1,Free kick,Left foot,10,PRM,La Liga,4,1,Home,32
+679,2019-11-09,FC Barcelona,Celta de Vigo,45,2-1,Free kick,Left foot,10,PRM,La Liga,4,1,Home,32
+678,2019-11-09,FC Barcelona,Celta de Vigo,23,1-0,Penalty,Left foot,10,PRM,La Liga,4,1,Home,32
+677,2019-11-02,Levante,FC Barcelona,38,0-1,Penalty,Left foot,10,PRM,La Liga,3,1,Home,32
+676,2019-10-29,FC Barcelona,Real Valladolid,75,4-1,Field goal,Left foot,10,PRM,La Liga,5,1,Home,32
+675,2019-10-29,FC Barcelona,Real Valladolid,34,3-1,Free kick,Left foot,10,PRM,La Liga,5,1,Home,32
+674,2019-10-23,Slavia Prague,FC Barcelona,3,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,1,2,Away,32
+673,2019-10-19,Eibar,FC Barcelona,58,0-2,Field goal,Left foot,10,PRM,La Liga,0,3,Away,32
+672,2019-10-06,FC Barcelona,Sevilla,78,4-0,Free kick,Left foot,10,PRM,La Liga,4,0,Home,32
+671,2019-06-19,Argentina,Paraguay,57,1-1,Penalty,Left foot,10,CPA,Copa América 2019,1,1,Draw,31
+670,2019-06-08,Argentina,Nicaragua,38,2-0,Rebound,Left foot,10,FRN,International friendly,5,1,Home,31
+669,2019-06-08,Argentina,Nicaragua,37,1-0,Field goal,Left foot,10,FRN,International friendly,5,1,Home,31
+668,2019-05-25,FC Barcelona,Valencia,73,1-2,Rebound,Left foot,10,CUP,Copa del Rey,1,2,Away,31
+667,2019-05-19,Eibar,FC Barcelona,32,0-2,Field goal,Left foot,10,PRM,La Liga,2,2,Draw,31
+666,2019-05-19,Eibar,FC Barcelona,31,0-1,Field goal,Left foot,10,PRM,La Liga,2,2,Draw,31
+665,2019-05-01,FC Barcelona,Liverpool,82,3-0,Free kick,Left foot,10,EUR,UEFA Champions League,3,0,Home,31
+664,2019-05-01,FC Barcelona,Liverpool,75,2-0,Rebound,Left foot,10,EUR,UEFA Champions League,3,0,Home,31
+663,2019-04-27,FC Barcelona,Levante,62,1-0,Field goal,Left foot,10,PRM,La Liga,1,0,Home,31
+662,2019-04-16,FC Barcelona,Manchester United,20,2-0,Field goal,Right foot,10,EUR,UEFA Champions League,3,0,Home,31
+661,2019-04-16,FC Barcelona,Manchester United,16,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,0,Home,31
+660,2019-04-06,FC Barcelona,Atlético Madrid,87,2-0,Field goal,Left foot,10,PRM,La Liga,2,0,Home,31
+659,2019-04-02,Villarreal,FC Barcelona,90+1,4-3,Free kick,Left foot,10,PRM,La Liga,4,4,Draw,31
+658,2019-03-30,FC Barcelona,Espanyol,89,2-0,Field goal,Left foot,10,PRM,La Liga,2,0,Home,31
+657,2019-03-30,FC Barcelona,Espanyol,71,1-0,Free kick,Left foot,10,PRM,La Liga,2,0,Home,31
+656,2019-03-17,Real Betis,FC Barcelona,85,1-4,Field goal,Left foot,10,PRM,La Liga,1,4,Away,31
+655,2019-03-17,Real Betis,FC Barcelona,45+2,0-2,Field goal,Left foot,10,PRM,La Liga,1,4,Away,31
+654,2019-03-17,Real Betis,FC Barcelona,18,0-1,Free kick,Left foot,10,PRM,La Liga,1,4,Away,31
+653,2019-03-13,FC Barcelona,Olympique Lyonnais,78,3-1,Field goal,Right foot,10,EUR,UEFA Champions League,5,1,Home,31
+652,2019-03-13,FC Barcelona,Olympique Lyonnais,18,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,5,1,Home,31
+651,2019-03-09,FC Barcelona,Rayo Vallecano,51,2-1,Penalty,Left foot,10,PRM,La Liga,3,1,Home,31
+650,2019-02-23,Sevilla,FC Barcelona,85,2-3,Field goal,Left foot,10,PRM,La Liga,2,4,Away,31
+649,2019-02-23,Sevilla,FC Barcelona,67,2-2,Field goal,Right foot,10,PRM,La Liga,2,4,Away,31
+648,2019-02-23,Sevilla,FC Barcelona,26,1-1,Field goal,Left foot,10,PRM,La Liga,2,4,Away,31
+647,2019-02-16,FC Barcelona,Real Valladolid,43,1-0,Penalty,Left foot,10,PRM,La Liga,1,0,Home,31
+646,2019-02-02,FC Barcelona,Valencia,64,2-2,Field goal,Left foot,10,PRM,La Liga,2,2,Draw,31
+645,2019-02-02,FC Barcelona,Valencia,39,1-2,Penalty,Left foot,10,PRM,La Liga,2,2,Draw,31
+644,2019-01-30,FC Barcelona,Sevilla,90+2,6-1,Field goal,Left foot,10,CUP,Copa del Rey,6,1,Home,31
+643,2019-01-27,Girona,FC Barcelona,68,0-2,Field goal,Left foot,10,PRM,La Liga,0,2,Away,31
+642,2019-01-20,FC Barcelona,Leganés,90+2,3-1,Field goal,Right foot,10,PRM,La Liga,3,1,Home,31
+641,2019-01-17,FC Barcelona,Levante,54,3-0,Field goal,Left foot,10,CUP,Copa del Rey,3,0,Home,31
+640,2019-01-13,FC Barcelona,Eibar,53,2-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,31
+639,2019-01-06,Getafe,FC Barcelona,20,0-1,Field goal,Left foot,10,PRM,La Liga,1,2,Away,31
+638,2018-12-22,FC Barcelona,Celta de Vigo,45,2-0,Field goal,Left foot,10,PRM,La Liga,2,0,Home,31
+637,2018-12-16,Levante,FC Barcelona,60,0-4,Field goal,Left foot,10,PRM,La Liga,0,5,Away,31
+636,2018-12-16,Levante,FC Barcelona,47,0-3,Field goal,Left foot,10,PRM,La Liga,0,5,Away,31
+635,2018-12-16,Levante,FC Barcelona,43,0-2,Field goal,Right foot,10,PRM,La Liga,0,5,Away,31
+634,2018-12-08,Espanyol,FC Barcelona,65,0-4,Free kick,Left foot,10,PRM,La Liga,0,4,Away,31
+633,2018-12-08,Espanyol,FC Barcelona,18,0-1,Free kick,Left foot,10,PRM,La Liga,0,4,Away,31
+632,2018-11-28,PSV Eindhoven,FC Barcelona,61,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,1,2,Away,31
+631,2018-11-11,FC Barcelona,Real Betis,90+2,3-4,Field goal,Left foot,10,PRM,La Liga,3,4,Away,31
+630,2018-11-11,FC Barcelona,Real Betis,68,1-2,Penalty,Left foot,10,PRM,La Liga,3,4,Away,31
+629,2018-10-20,FC Barcelona,Sevilla,12,2-0,Field goal,Left foot,10,PRM,La Liga,4,2,Home,31
+628,2018-10-07,Valencia,FC Barcelona,23,1-1,Field goal,Left foot,10,PRM,La Liga,1,1,Draw,31
+627,2018-10-03,Tottenham Hotspur F.C.,FC Barcelona,90,2-4,Field goal,Left foot,10,EUR,UEFA Champions League,2,4,Away,31
+626,2018-10-03,Tottenham Hotspur F.C.,FC Barcelona,56,1-3,Field goal,Left foot,10,EUR,UEFA Champions League,2,4,Away,31
+625,2018-09-23,FC Barcelona,Girona,19,1-0,Field goal,Left foot,10,PRM,La Liga,2,2,Draw,31
+624,2018-09-18,FC Barcelona,PSV Eindhoven,87,4-0,Field goal,Right foot,10,EUR,UEFA Champions League,4,0,Home,31
+623,2018-09-18,FC Barcelona,PSV Eindhoven,77,3-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,Home,31
+622,2018-09-18,FC Barcelona,PSV Eindhoven,32,1-0,Free kick,Left foot,10,EUR,UEFA Champions League,4,0,Home,31
+621,2018-09-02,FC Barcelona,Huesca,61,6-2,Field goal,Left foot,10,PRM,La Liga,8,2,Home,31
+620,2018-09-02,FC Barcelona,Huesca,16,1-1,Field goal,Right foot,10,PRM,La Liga,8,2,Home,31
+619,2018-08-18,FC Barcelona,Alavés,90+2,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,31
+618,2018-08-18,FC Barcelona,Alavés,64,1-0,Free kick,Left foot,10,PRM,La Liga,3,0,Home,31
+617,2018-06-26,Nigeria,Argentina,14,0-1,Field goal,Right foot,10,WCP,World Cup 2018,1,2,Away,31
+616,2018-05-29,Argentina,Haiti,66,3-0,Field goal,Left foot,10,FRN,International friendly,4,0,Home,30
+615,2018-05-29,Argentina,Haiti,58,2-0,Rebound,Right foot,10,FRN,International friendly,4,0,Home,30
+614,2018-05-29,Argentina,Haiti,17,1-0,Penalty,Left foot,10,FRN,International friendly,4,0,Home,30
+613,2018-05-09,FC Barcelona,Villarreal,45,3-0,Field goal,Left foot,10,PRM,La Liga,5,1,Home,30
+612,2018-05-06,FC Barcelona,Real Madrid,52,2-1,Field goal,Left foot,10,PRM,La Liga,2,2,Draw,30
+611,2018-04-29,Deportivo La Coruña,FC Barcelona,85,2-4,Field goal,Left foot,10,PRM,La Liga,2,4,Away,30
+610,2018-04-29,Deportivo La Coruña,FC Barcelona,82,2-3,Field goal,Right foot,10,PRM,La Liga,2,4,Away,30
+609,2018-04-29,Deportivo La Coruña,FC Barcelona,38,0-2,Field goal,Left foot,10,PRM,La Liga,2,4,Away,30
+608,2018-04-21,Sevilla,FC Barcelona,31,0-2,Field goal,Left foot,10,CUP,Copa del Rey,0,5,Away,30
+607,2018-04-07,FC Barcelona,Leganés,87,3-1,Field goal,Left foot,10,PRM,La Liga,3,1,Home,30
+606,2018-04-07,FC Barcelona,Leganés,32,2-0,Field goal,Left foot,10,PRM,La Liga,3,1,Home,30
+605,2018-04-07,FC Barcelona,Leganés,27,1-0,Free kick,Left foot,10,PRM,La Liga,3,1,Home,30
+604,2018-03-31,Sevilla,FC Barcelona,89,2-2,Field goal,Left foot,10,PRM,La Liga,2,2,Draw,30
+603,2018-03-18,FC Barcelona,Athletic de Bilbao,30,2-0,Field goal,Left foot,10,PRM,La Liga,2,0,Home,30
+602,2018-03-14,FC Barcelona,Chelsea,63,3-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,0,Home,30
+601,2018-03-14,FC Barcelona,Chelsea,3,1-0,Field goal,Right foot,10,EUR,UEFA Champions League,3,0,Home,30
+600,2018-03-04,FC Barcelona,Atlético Madrid,26,1-0,Free kick,Left foot,10,PRM,La Liga,1,0,Home,30
+599,2018-03-01,Las Palmas,FC Barcelona,21,0-1,Free kick,Left foot,10,PRM,La Liga,1,1,Draw,30
+598,2018-02-24,FC Barcelona,Girona,36,3-1,Free kick,Left foot,10,PRM,La Liga,6,1,Home,30
+597,2018-02-24,FC Barcelona,Girona,30,2-1,Field goal,Left foot,10,PRM,La Liga,6,1,Home,30
+596,2018-02-20,Chelsea,FC Barcelona,75,1-1,Field goal,Left foot,10,EUR,UEFA Champions League,1,1,Draw,30
+595,2018-01-28,FC Barcelona,Alavés,84,2-1,Free kick,Left foot,10,PRM,La Liga,2,1,Home,30
+594,2018-01-25,FC Barcelona,Espanyol,25,2-0,Field goal,Left foot,10,CUP,Copa del Rey,2,0,Home,30
+593,2018-01-21,Real Betis,FC Barcelona,80,0-4,Solo run,Left foot,10,PRM,La Liga,0,5,Away,30
+592,2018-01-21,Real Betis,FC Barcelona,64,0-2,Field goal,Left foot,10,PRM,La Liga,0,5,Away,30
+591,2018-01-14,Real Sociedad,FC Barcelona,85,2-4,Free kick,Left foot,10,PRM,La Liga,2,4,Away,30
+590,2018-01-11,FC Barcelona,Celta de Vigo,15,2-0,Field goal,Left foot,10,CUP,Copa del Rey,5,0,Home,30
+589,2018-01-11,FC Barcelona,Celta de Vigo,13,1-0,Field goal,Left foot,10,CUP,Copa del Rey,5,0,Home,30
+588,2018-01-07,FC Barcelona,Levante,12,1-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,30
+587,2017-12-23,Real Madrid,FC Barcelona,64,0-2,Penalty,Left foot,10,PRM,La Liga,0,3,Away,30
+586,2017-12-10,Villarreal,FC Barcelona,83,0-2,Field goal,Left foot,10,PRM,La Liga,0,2,Away,30
+585,2017-12-02,FC Barcelona,Celta de Vigo,22,1-1,Field goal,Left foot,10,PRM,La Liga,2,2,Draw,30
+584,2017-10-28,Athletic de Bilbao,FC Barcelona,36,0-1,Field goal,Left foot,10,PRM,La Liga,0,2,Away,30
+583,2017-10-18,FC Barcelona,Olympiacos,61,2-0,Free kick,Left foot,10,EUR,UEFA Champions League,3,1,Home,30
+582,2017-10-10,Ecuador,Argentina,63,1-3,Field goal,Left foot,10,WCQ,World Cup 2018 Qualification,1,3,Away,30
+581,2017-10-10,Ecuador,Argentina,20,1-2,Field goal,Left foot,10,WCQ,World Cup 2018 Qualification,1,3,Away,30
+580,2017-10-10,Ecuador,Argentina,12,1-1,Field goal,Left foot,10,WCQ,World Cup 2018 Qualification,1,3,Away,30
+579,2017-10-01,FC Barcelona,Las Palmas,77,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,30
+578,2017-10-01,FC Barcelona,Las Palmas,71,2-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,30
+577,2017-09-19,FC Barcelona,Eibar,87,6-1,Field goal,Left foot,10,PRM,La Liga,6,1,Home,30
+576,2017-09-19,FC Barcelona,Eibar,62,5-1,Field goal,Left foot,10,PRM,La Liga,6,1,Home,30
+575,2017-09-19,FC Barcelona,Eibar,59,4-1,Field goal,Left foot,10,PRM,La Liga,6,1,Home,30
+574,2017-09-19,FC Barcelona,Eibar,20,1-0,Penalty,Left foot,10,PRM,La Liga,6,1,Home,30
+573,2017-09-12,FC Barcelona,Juventus,69,3-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,0,Home,30
+572,2017-09-12,FC Barcelona,Juventus,45,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,0,Home,30
+571,2017-09-09,FC Barcelona,Espanyol,67,3-0,Field goal,Left foot,10,PRM,La Liga,5,0,Home,30
+570,2017-09-09,FC Barcelona,Espanyol,35,2-0,Field goal,Right foot,10,PRM,La Liga,5,0,Home,30
+569,2017-09-09,FC Barcelona,Espanyol,26,1-0,Field goal,Left foot,10,PRM,La Liga,5,0,Home,30
+568,2017-08-26,Alavés,FC Barcelona,66,0-2,Field goal,Left foot,10,PRM,La Liga,0,2,Away,30
+567,2017-08-26,Alavés,FC Barcelona,55,0-1,Field goal,Left foot,10,PRM,La Liga,0,2,Away,30
+566,2017-08-13,FC Barcelona,Real Madrid,76,1-1,Penalty,Left foot,10,SUP,Spanish Super Cup,1,3,Away,30
+565,2017-05-27,FC Barcelona,Alavés,30,1-0,Field goal,Left foot,10,CUP,Copa del Rey,3,1,Home,29
+564,2017-05-21,FC Barcelona,Eibar,90+2,4-2,Solo run,Right foot,10,PRM,La Liga,4,2,Home,29
+563,2017-05-21,FC Barcelona,Eibar,76,3-2,Penalty,Left foot,10,PRM,La Liga,4,2,Home,29
+562,2017-05-06,FC Barcelona,Villarreal,82,4-1,Penalty,Left foot,10,PRM,La Liga,4,1,Home,29
+561,2017-05-06,FC Barcelona,Villarreal,45,2-1,Field goal,Left foot,10,PRM,La Liga,4,1,Home,29
+560,2017-04-26,FC Barcelona,Osasuna,61,4-1,Field goal,Left foot,10,PRM,La Liga,7,1,Home,29
+559,2017-04-26,FC Barcelona,Osasuna,12,1-0,Field goal,Left foot,10,PRM,La Liga,7,1,Home,29
+558,2017-04-23,Real Madrid,FC Barcelona,90+2,2-3,Field goal,Left foot,10,PRM,La Liga,2,3,Away,29
+557,2017-04-23,Real Madrid,FC Barcelona,33,1-1,Field goal,Left foot,10,PRM,La Liga,2,3,Away,29
+556,2017-04-15,FC Barcelona,Real Sociedad,37,2-0,Rebound,Left foot,10,PRM,La Liga,3,2,Home,29
+555,2017-04-15,FC Barcelona,Real Sociedad,17,1-0,Field goal,Left foot,10,PRM,La Liga,3,2,Home,29
+554,2017-04-05,FC Barcelona,Sevilla,33,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,29
+553,2017-04-05,FC Barcelona,Sevilla,28,2-0,Field goal,Right foot,10,PRM,La Liga,3,0,Home,29
+552,2017-03-23,Argentina,Chile,16,1-0,Penalty,Left foot,10,WCQ,World Cup 2018 Qualification,1,0,Home,29
+551,2017-03-19,FC Barcelona,Valencia,53,3-2,Field goal,Right foot,10,PRM,La Liga,4,2,Home,29
+550,2017-03-19,FC Barcelona,Valencia,45,2-1,Penalty,Left foot,10,PRM,La Liga,4,2,Home,29
+549,2017-03-08,FC Barcelona,Paris Saint-Germain,50,3-0,Penalty,Left foot,10,EUR,UEFA Champions League,6,1,Home,29
+548,2017-03-04,FC Barcelona,Celta de Vigo,64,5-0,Solo run,Left foot,10,PRM,La Liga,5,0,Home,29
+547,2017-03-04,FC Barcelona,Celta de Vigo,24,1-0,Solo run,Left foot,10,PRM,La Liga,5,0,Home,29
+546,2017-03-01,FC Barcelona,Sporting Gijón,9,1-0,Field goal,Head,10,PRM,La Liga,6,1,Home,29
+545,2017-02-26,Atlético Madrid,FC Barcelona,87,1-2,Rebound,Left foot,10,PRM,La Liga,1,2,Away,29
+544,2017-02-19,FC Barcelona,Leganés,89,2-1,Penalty,Left foot,10,PRM,La Liga,2,1,Home,29
+543,2017-02-19,FC Barcelona,Leganés,4,1-0,Field goal,Right foot,10,PRM,La Liga,2,1,Home,29
+542,2017-02-11,Alavés,FC Barcelona,59,0-3,Field goal,Left foot,10,PRM,La Liga,0,6,Away,29
+541,2017-02-04,FC Barcelona,Athletic de Bilbao,40,2-0,Free kick,Left foot,10,PRM,La Liga,3,0,Home,29
+540,2017-02-01,Atlético Madrid,FC Barcelona,33,0-2,Field goal,Left foot,10,CUP,Copa del Rey,1,2,Away,29
+539,2017-01-26,FC Barcelona,Real Sociedad,55,2-0,Penalty,Left foot,10,CUP,Copa del Rey,5,2,Home,29
+538,2017-01-22,Eibar,FC Barcelona,50,0-2,Field goal,Left foot,10,PRM,La Liga,0,4,Away,29
+537,2017-01-14,FC Barcelona,Las Palmas,52,2-0,Rebound,Right foot,10,PRM,La Liga,5,0,Home,29
+536,2017-01-11,FC Barcelona,Athletic de Bilbao,78,3-1,Free kick,Left foot,10,CUP,Copa del Rey,3,1,Home,29
+535,2017-01-08,Villarreal,FC Barcelona,90,1-1,Free kick,Left foot,10,PRM,La Liga,1,1,Draw,29
+534,2017-01-05,Athletic de Bilbao,FC Barcelona,52,2-1,Free kick,Left foot,10,CUP,Copa del Rey,2,1,Home,29
+533,2016-12-18,FC Barcelona,Espanyol,90,4-1,Field goal,Left foot,10,PRM,La Liga,4,1,Home,29
+532,2016-12-10,Osasuna,FC Barcelona,90+2,0-3,Solo run,Left foot,10,PRM,La Liga,0,3,Away,29
+531,2016-12-10,Osasuna,FC Barcelona,72,0-2,Field goal,Left foot,10,PRM,La Liga,0,3,Away,29
+530,2016-12-06,FC Barcelona,Borussia Mönchengladbach,16,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,Home,29
+529,2016-11-27,Real Sociedad,FC Barcelona,59,1-1,Field goal,Left foot,10,PRM,La Liga,1,1,Draw,29
+528,2016-11-23,Celtic,FC Barcelona,55,0-2,Penalty,Left foot,10,EUR,UEFA Champions League,0,2,Away,29
+527,2016-11-23,Celtic,FC Barcelona,24,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,0,2,Away,29
+526,2016-11-15,Argentina,Colombia,10,1-0,Free kick,Left foot,10,WCQ,World Cup 2018 Qualification,3,0,Home,29
+525,2016-11-06,Sevilla,FC Barcelona,43,1-1,Field goal,Left foot,10,PRM,La Liga,1,2,Away,29
+524,2016-11-01,Manchester City,FC Barcelona,21,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,3,1,Home,29
+523,2016-10-22,Valencia,FC Barcelona,90+4,2-3,Penalty,Left foot,10,PRM,La Liga,2,3,Away,29
+522,2016-10-22,Valencia,FC Barcelona,22,0-1,Field goal,Left foot,10,PRM,La Liga,2,3,Away,29
+521,2016-10-19,FC Barcelona,Manchester City,69,3-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,Home,29
+520,2016-10-19,FC Barcelona,Manchester City,61,2-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,Home,29
+519,2016-10-19,FC Barcelona,Manchester City,17,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,4,0,Home,29
+518,2016-10-15,FC Barcelona,Deportivo La Coruña,58,4-0,Field goal,Left foot,10,PRM,La Liga,4,0,Home,29
+517,2016-09-17,Leganés,FC Barcelona,55,0-4,Penalty,Left foot,10,PRM,La Liga,1,5,Away,29
+516,2016-09-17,Leganés,FC Barcelona,15,0-1,Field goal,Left foot,10,PRM,La Liga,1,5,Away,29
+515,2016-09-13,FC Barcelona,Celtic,60,5-0,Field goal,Left foot,10,EUR,UEFA Champions League,7,0,Home,29
+514,2016-09-13,FC Barcelona,Celtic,27,2-0,Field goal,Left foot,10,EUR,UEFA Champions League,7,0,Home,29
+513,2016-09-13,FC Barcelona,Celtic,3,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,7,0,Home,29
+512,2016-09-01,Argentina,Uruguay,43,1-0,Field goal,Left foot,10,WCQ,World Cup 2018 Qualification,1,0,Home,29
+511,2016-08-20,FC Barcelona,Real Betis,57,5-1,Field goal,Left foot,10,PRM,La Liga,6,2,Home,29
+510,2016-08-20,FC Barcelona,Real Betis,37,2-1,Field goal,Left foot,10,PRM,La Liga,6,2,Home,29
+509,2016-08-17,FC Barcelona,Sevilla,55,3-0,Field goal,Head,10,SUP,Spanish Super Cup,3,0,Home,29
+508,2016-06-21,United States,Argentina,32,0-2,Free kick,Left foot,10,CPA,Copa América Centenario,0,4,Away,28
+507,2016-06-18,Argentina,Venezuela,60,3-0,Field goal,Left foot,10,CPA,Copa América Centenario,4,1,Home,28
+506,2016-06-10,Argentina,Panama,87,4-0,Field goal,Left foot,10,CPA,Copa América Centenario,5,0,Home,28
+505,2016-06-10,Argentina,Panama,78,3-0,Free kick,Left foot,10,CPA,Copa América Centenario,5,0,Home,28
+504,2016-06-10,Argentina,Panama,68,2-0,Field goal,Left foot,10,CPA,Copa América Centenario,5,0,Home,28
+503,2016-05-08,FC Barcelona,Espanyol,8,1-0,Free kick,Left foot,10,PRM,La Liga,5,0,Home,28
+502,2016-04-23,FC Barcelona,Sporting Gijón,12,1-0,Rebound,Head,10,PRM,La Liga,6,0,Home,28
+501,2016-04-20,Deportivo La Coruña,FC Barcelona,73,0-6,Field goal,Left foot,10,PRM,La Liga,0,8,Away,28
+500,2016-04-17,FC Barcelona,Valencia,63,1-2,Field goal,Right foot,10,PRM,La Liga,1,2,Away,28
+499,2016-03-29,Argentina,Bolivia,30,2-0,Penalty,Left foot,10,WCQ,World Cup 2018 Qualification,2,0,Home,28
+498,2016-03-16,FC Barcelona,Arsenal,88,3-1,Field goal,Left foot,10,EUR,UEFA Champions League,3,1,Home,28
+497,2016-03-12,FC Barcelona,Getafe,40,4-0,Field goal,Left foot,10,PRM,La Liga,6,0,Home,28
+496,2016-03-06,Eibar,FC Barcelona,76,0-3,Penalty,Left foot,10,PRM,La Liga,0,4,Away,28
+495,2016-03-06,Eibar,FC Barcelona,41,0-2,Field goal,Left foot,10,PRM,La Liga,0,4,Away,28
+494,2016-03-03,Rayo Vallecano,FC Barcelona,72,1-4,Field goal,Left foot,10,PRM,La Liga,1,5,Away,28
+493,2016-03-03,Rayo Vallecano,FC Barcelona,54,0-3,Rebound,Left foot,10,PRM,La Liga,1,5,Away,28
+492,2016-03-03,Rayo Vallecano,FC Barcelona,23,0-2,Field goal,Left foot,10,PRM,La Liga,1,5,Away,28
+491,2016-02-28,FC Barcelona,Sevilla,31,1-1,Free kick,Left foot,10,PRM,La Liga,2,1,Home,28
+490,2016-02-23,Arsenal,FC Barcelona,83,0-2,Penalty,Left foot,10,EUR,UEFA Champions League,0,2,Away,28
+489,2016-02-23,Arsenal,FC Barcelona,71,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,0,2,Away,28
+488,2016-02-17,Sporting Gijón,FC Barcelona,31,1-2,Field goal,Left foot,10,PRM,La Liga,1,3,Away,28
+487,2016-02-17,Sporting Gijón,FC Barcelona,25,0-1,Field goal,Left foot,10,PRM,La Liga,1,3,Away,28
+486,2016-02-14,FC Barcelona,Celta de Vigo,28,1-0,Free kick,Left foot,10,PRM,La Liga,6,1,Home,28
+485,2016-02-03,FC Barcelona,Valencia,74,5-0,Field goal,Left foot,10,CUP,Copa del Rey,7,0,Home,28
+484,2016-02-03,FC Barcelona,Valencia,58,4-0,Field goal,Left foot,10,CUP,Copa del Rey,7,0,Home,28
+483,2016-02-03,FC Barcelona,Valencia,29,3-0,Field goal,Left foot,10,CUP,Copa del Rey,7,0,Home,28
+482,2016-01-30,FC Barcelona,Atlético Madrid,30,1-1,Field goal,Left foot,10,PRM,La Liga,2,1,Home,28
+481,2016-01-23,Málaga,FC Barcelona,51,1-2,Field goal,Left foot,10,PRM,La Liga,1,2,Away,28
+480,2016-01-17,FC Barcelona,Athletic de Bilbao,7,1-0,Penalty,Left foot,10,PRM,La Liga,6,0,Home,28
+479,2016-01-09,FC Barcelona,Granada,58,3-0,Rebound,Left foot,10,PRM,La Liga,4,0,Home,28
+478,2016-01-09,FC Barcelona,Granada,14,2-0,Field goal,Left foot,10,PRM,La Liga,4,0,Home,28
+477,2016-01-09,FC Barcelona,Granada,8,1-0,Field goal,Left foot,10,PRM,La Liga,4,0,Home,28
+476,2016-01-06,FC Barcelona,Espanyol,44,2-1,Free kick,Left foot,10,CUP,Copa del Rey,4,1,Home,28
+475,2016-01-06,FC Barcelona,Espanyol,13,1-1,Field goal,Left foot,10,CUP,Copa del Rey,4,1,Home,28
+474,2015-12-30,FC Barcelona,Real Betis,33,2-0,Field goal,Right foot,10,PRM,La Liga,4,0,Home,28
+473,2015-12-20,CA River Plate,FC Barcelona,36,0-1,Field goal,Left foot,10,WCT,FIFA Club World Cup,0,3,Away,28
+472,2015-12-12,FC Barcelona,Deportivo La Coruña,39,1-0,Free kick,Left foot,10,PRM,La Liga,2,2,Draw,28
+471,2015-12-09,Bayer Leverkusen,FC Barcelona,20,0-1,Field goal,Right foot,10,EUR,UEFA Champions League,1,1,Draw,28
+470,2015-11-28,FC Barcelona,Real Sociedad,90+1,4-0,Field goal,Left foot,10,PRM,La Liga,4,0,Home,28
+469,2015-11-24,FC Barcelona,AS Roma,59,5-0,Rebound,Left foot,10,EUR,UEFA Champions League,6,1,Home,28
+468,2015-11-24,FC Barcelona,AS Roma,18,2-0,Field goal,Left foot,10,EUR,UEFA Champions League,6,1,Home,28
+467,2015-09-20,FC Barcelona,Levante,90,4-1,Solo run,Left foot,10,PRM,La Liga,4,1,Home,28
+466,2015-09-20,FC Barcelona,Levante,61,3-0,Penalty,Left foot,10,PRM,La Liga,4,1,Home,28
+465,2015-09-12,Atlético Madrid,FC Barcelona,77,1-2,Field goal,Left foot,10,PRM,La Liga,1,2,Away,28
+464,2015-09-08,Argentina,Mexico,88,2-2,Field goal,Left foot,10,FRN,International friendly,2,2,Draw,28
+463,2015-09-04,Argentina,Bolivia,74,6-0,Field goal,Left foot,10,FRN,International friendly,7,0,Home,28
+462,2015-09-04,Argentina,Bolivia,66,5-0,Field goal,Head,10,FRN,International friendly,7,0,Home,28
+461,2015-08-17,FC Barcelona,Athletic de Bilbao,43,1-0,Field goal,Left foot,10,SUP,Spanish Super Cup,1,1,Draw,28
+460,2015-08-11,FC Barcelona,Sevilla,15,2-1,Free kick,Left foot,10,IUP,UEFA European Super Cup,5,4,Home,28
+459,2015-08-11,FC Barcelona,Sevilla,7,1-1,Free kick,Left foot,10,IUP,UEFA European Super Cup,5,4,Home,28
+458,2015-06-13,Argentina,Paraguay,35,2-0,Penalty,Left foot,10,CPA,Copa América 2015,2,2,Draw,27
+457,2015-05-30,Athletic de Bilbao,FC Barcelona,74,0-3,,Left foot,10,CUP,Copa del Rey,1,3,Away,27
+456,2015-05-30,Athletic de Bilbao,FC Barcelona,20,0-1,Solo run,Left foot,10,CUP,Copa del Rey,1,3,Away,27
+455,2015-05-23,FC Barcelona,Deportivo La Coruña,59,2-0,,Right foot,10,PRM,La Liga,2,2,Draw,27
+454,2015-05-23,FC Barcelona,Deportivo La Coruña,5,1-0,,Head,10,PRM,La Liga,2,2,Draw,27
+453,2015-05-17,Atlético Madrid,FC Barcelona,65,0-1,,Left foot,10,PRM,La Liga,0,1,Away,27
+452,2015-05-06,FC Barcelona,Bayern München,80,2-0,,Right foot,10,EUR,UEFA Champions League,3,0,Home,27
+451,2015-05-06,FC Barcelona,Bayern München,77,1-0,,Left foot,10,EUR,UEFA Champions League,3,0,Home,27
+450,2015-05-02,Córdoba,FC Barcelona,80,0-6,Rebound,Left foot,10,PRM,La Liga,0,8,Away,27
+449,2015-05-02,Córdoba,FC Barcelona,46,0-3,,Head,10,PRM,La Liga,0,8,Away,27
+448,2015-04-28,FC Barcelona,Getafe,47,6-0,Field goal,Left foot,10,PRM,La Liga,6,0,Home,27
+447,2015-04-28,FC Barcelona,Getafe,9,1-0,Penalty,Left foot,10,PRM,La Liga,6,0,Home,27
+446,2015-04-25,Espanyol,FC Barcelona,25,0-2,,Left foot,10,PRM,La Liga,0,2,Away,27
+445,2015-04-18,FC Barcelona,Valencia,90+4,2-0,Rebound,Left foot,10,PRM,La Liga,2,0,Home,27
+444,2015-04-11,Sevilla,FC Barcelona,14,0-1,,Left foot,10,PRM,La Liga,2,2,Draw,27
+443,2015-04-08,FC Barcelona,UD Almería,33,1-0,Solo run,Left foot,10,PRM,La Liga,4,0,Home,27
+442,2015-03-14,Eibar,FC Barcelona,55,0-2,,Head,10,PRM,La Liga,0,2,Away,27
+441,2015-03-14,Eibar,FC Barcelona,31,0-1,Penalty,Left foot,10,PRM,La Liga,0,2,Away,27
+440,2015-03-08,FC Barcelona,Rayo Vallecano,68,5-0,,Left foot,10,PRM,La Liga,6,1,Home,27
+439,2015-03-08,FC Barcelona,Rayo Vallecano,63,4-0,Rebound,Left foot,10,PRM,La Liga,6,1,Home,27
+438,2015-03-08,FC Barcelona,Rayo Vallecano,56,3-0,Penalty,Left foot,10,PRM,La Liga,6,1,Home,27
+437,2015-02-28,Granada,FC Barcelona,70,1-3,,Right foot,10,PRM,La Liga,1,3,Away,27
+436,2015-02-15,FC Barcelona,Levante,65,4-0,Penalty,Left foot,10,PRM,La Liga,5,0,Home,27
+435,2015-02-15,FC Barcelona,Levante,59,3-0,Field goal,Right foot,10,PRM,La Liga,5,0,Home,27
+434,2015-02-15,FC Barcelona,Levante,38,2-0,Field goal,Right foot,10,PRM,La Liga,5,0,Home,27
+433,2015-02-11,FC Barcelona,Villarreal,41,1-0,,Left foot,10,CUP,Copa del Rey,3,1,Home,27
+432,2015-02-08,Athletic de Bilbao,FC Barcelona,15,0-1,Free kick,Left foot,10,PRM,La Liga,2,5,Away,27
+431,2015-02-01,FC Barcelona,Villarreal,55,3-2,Field goal,Right foot,10,PRM,La Liga,3,2,Home,27
+430,2015-01-24,Elche,FC Barcelona,88,0-5,Field goal,Left foot,10,PRM,La Liga,0,6,Away,27
+429,2015-01-24,Elche,FC Barcelona,55,0-2,Penalty,Left foot,10,PRM,La Liga,0,6,Away,27
+428,2015-01-21,FC Barcelona,Atlético Madrid,85,1-0,Rebound,Left foot,10,CUP,Copa del Rey,1,0,Home,27
+427,2015-01-18,Deportivo La Coruña,FC Barcelona,62,0-3,Field goal,Left foot,10,PRM,La Liga,0,4,Away,27
+426,2015-01-18,Deportivo La Coruña,FC Barcelona,33,0-2,Field goal,Left foot,10,PRM,La Liga,0,4,Away,27
+425,2015-01-18,Deportivo La Coruña,FC Barcelona,10,0-1,Field goal,Head,10,PRM,La Liga,0,4,Away,27
+424,2015-01-11,FC Barcelona,Atlético Madrid,87,3-1,Field goal,Left foot,10,PRM,La Liga,3,1,Home,27
+423,2015-01-08,FC Barcelona,Elche,45,3-0,Penalty,Left foot,10,CUP,Copa del Rey,5,0,Home,27
+422,2014-12-20,FC Barcelona,Córdoba,90+1,5-0,Field goal,Right foot,10,PRM,La Liga,5,0,Home,27
+421,2014-12-20,FC Barcelona,Córdoba,82,4-0,Field goal,Right foot,10,PRM,La Liga,5,0,Home,27
+420,2014-12-10,FC Barcelona,Paris Saint-Germain,19,1-1,,Right foot,10,EUR,UEFA Champions League,3,1,Home,27
+419,2014-12-07,FC Barcelona,Espanyol,81,5-1,Field goal,Right foot,10,PRM,La Liga,5,1,Home,27
+418,2014-12-07,FC Barcelona,Espanyol,50,2-1,Field goal,Right foot,10,PRM,La Liga,5,1,Home,27
+417,2014-12-07,FC Barcelona,Espanyol,45,1-1,Field goal,Left foot,10,PRM,La Liga,5,1,Home,27
+416,2014-11-25,APOEL FC,FC Barcelona,87,0-4,,Right foot,10,EUR,UEFA Champions League,0,4,Away,27
+415,2014-11-25,APOEL FC,FC Barcelona,58,0-3,,Right foot,10,EUR,UEFA Champions League,0,4,Away,27
+414,2014-11-25,APOEL FC,FC Barcelona,38,0-2,,Right foot,10,EUR,UEFA Champions League,0,4,Away,27
+413,2014-11-22,FC Barcelona,Sevilla,78,5-1,Field goal,Left foot,10,PRM,La Liga,5,1,Home,27
+412,2014-11-22,FC Barcelona,Sevilla,72,4-1,Field goal,Right foot,10,PRM,La Liga,5,1,Home,27
+411,2014-11-22,FC Barcelona,Sevilla,21,1-0,Free kick,Left foot,10,PRM,La Liga,5,1,Home,27
+410,2014-11-12,Argentina,Croatia,57,2-1,Penalty,Left foot,10,FRN,International friendly,2,1,Home,27
+409,2014-11-05,Ajax,FC Barcelona,76,0-2,,Left foot,10,EUR,UEFA Champions League,0,2,Away,27
+408,2014-11-05,Ajax,FC Barcelona,36,0-1,,Head,10,EUR,UEFA Champions League,0,2,Away,27
+407,2014-10-21,FC Barcelona,Ajax,24,2-0,,Left foot,10,EUR,UEFA Champions League,3,1,Home,27
+406,2014-10-18,FC Barcelona,Eibar,74,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,27
+405,2014-10-14,Hong Kong,Argentina,84,0-7,Solo run,Left foot,10,FRN,International friendly,0,7,Away,27
+404,2014-10-14,Hong Kong,Argentina,66,0-5,,Left foot,10,FRN,International friendly,0,7,Away,27
+403,2014-10-04,Rayo Vallecano,FC Barcelona,35,0-1,Field goal,Left foot,10,PRM,La Liga,0,2,Away,27
+402,2014-09-30,Paris Saint-Germain,FC Barcelona,11,1-1,,Left foot,10,EUR,UEFA Champions League,3,2,Home,27
+401,2014-09-27,FC Barcelona,Granada,82,6-0,Field goal,Right foot,10,PRM,La Liga,6,0,Home,27
+400,2014-09-27,FC Barcelona,Granada,62,4-0,Field goal,Head,10,PRM,La Liga,6,0,Home,27
+399,2014-09-21,Levante,FC Barcelona,77,0-5,Field goal,Right foot,10,PRM,La Liga,0,5,Away,27
+398,2014-08-24,FC Barcelona,Elche,63,3-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,27
+397,2014-08-24,FC Barcelona,Elche,42,1-0,Field goal,Left foot,10,PRM,La Liga,3,0,Home,27
+396,2014-06-25,Nigeria,Argentina,45+1,1-2,Free kick,Left foot,10,WCP,World Cup 2014,2,3,Away,27
+395,2014-06-25,Nigeria,Argentina,3,0-1,Rebound,Left foot,10,WCP,World Cup 2014,2,3,Away,27
+394,2014-06-21,Argentina,Iran,90+1,1-0,,Left foot,10,WCP,World Cup 2014,1,0,Home,26
+393,2014-06-16,Argentina,Bosnia-Herzegovina,65,2-0,Solo run,Left foot,10,WCP,World Cup 2014,2,1,Home,26
+392,2014-06-07,Argentina,Slovenia,75,2-0,Field goal,Left foot,10,FRN,International friendly,2,0,Home,26
+391,2014-05-03,FC Barcelona,Getafe,23,1-0,,Left foot,10,PRM,La Liga,2,2,Draw,26
+390,2014-04-27,Villarreal,FC Barcelona,83,2-3,,Right foot,10,PRM,La Liga,2,3,Away,26
+389,2014-04-20,FC Barcelona,Athletic de Bilbao,74,2-1,Free kick,Left foot,10,PRM,La Liga,2,1,Home,26
+388,2014-04-05,FC Barcelona,Real Betis,86,3-1,Rebound,Right foot,10,PRM,La Liga,3,1,Home,26
+387,2014-04-05,FC Barcelona,Real Betis,15,1-0,Penalty,Left foot,10,PRM,La Liga,3,1,Home,26
+386,2014-03-29,Espanyol,FC Barcelona,77,0-1,Penalty,Left foot,10,PRM,La Liga,0,1,Away,26
+385,2014-03-26,FC Barcelona,Celta de Vigo,30,2-0,,Right foot,10,PRM,La Liga,3,0,Home,26
+384,2014-03-23,Real Madrid,FC Barcelona,84,3-4,Penalty,Left foot,10,PRM,La Liga,3,4,Away,26
+383,2014-03-23,Real Madrid,FC Barcelona,65,3-3,Penalty,Left foot,10,PRM,La Liga,3,4,Away,26
+382,2014-03-23,Real Madrid,FC Barcelona,42,2-2,,Left foot,10,PRM,La Liga,3,4,Away,26
+381,2014-03-16,FC Barcelona,Osasuna,88,6-0,,Right foot,10,PRM,La Liga,7,0,Home,26
+380,2014-03-16,FC Barcelona,Osasuna,63,4-0,,Left foot,10,PRM,La Liga,7,0,Home,26
+379,2014-03-16,FC Barcelona,Osasuna,18,1-0,,Left foot,10,PRM,La Liga,7,0,Home,26
+378,2014-03-12,FC Barcelona,Manchester City,67,1-0,,Left foot,10,EUR,UEFA Champions League,2,1,Home,26
+377,2014-03-02,FC Barcelona,UD Almería,24,2-0,Free kick,Left foot,10,PRM,La Liga,4,1,Home,26
+376,2014-02-22,Real Sociedad,FC Barcelona,36,1-1,,Left foot,10,PRM,La Liga,3,1,Home,26
+375,2014-02-18,Manchester City,FC Barcelona,54,0-1,Penalty,Left foot,10,EUR,UEFA Champions League,0,2,Away,26
+374,2014-02-15,FC Barcelona,Rayo Vallecano,68,5-0,,Left foot,10,PRM,La Liga,6,0,Home,26
+373,2014-02-15,FC Barcelona,Rayo Vallecano,36,2-0,,Left foot,10,PRM,La Liga,6,0,Home,26
+372,2014-02-12,Real Sociedad,FC Barcelona,27,0-1,Solo run,Left foot,10,CUP,Copa del Rey,1,1,Draw,26
+371,2014-02-09,Sevilla,FC Barcelona,56,1-3,Field goal,Left foot,10,PRM,La Liga,1,4,Away,26
+370,2014-02-09,Sevilla,FC Barcelona,44,1-2,Field goal,Left foot,10,PRM,La Liga,1,4,Away,26
+369,2014-02-01,FC Barcelona,Valencia,54,2-2,Penalty,Left foot,10,PRM,La Liga,2,3,Away,26
+368,2014-01-16,Getafe,FC Barcelona,63,0-2,Field goal,Left foot,10,CUP,Copa del Rey,0,2,Away,26
+367,2014-01-16,Getafe,FC Barcelona,44,0-1,Field goal,Hip,10,CUP,Copa del Rey,0,2,Away,26
+366,2014-01-08,FC Barcelona,Getafe,90+3,4-0,,Left foot,10,CUP,Copa del Rey,4,0,Home,26
+365,2014-01-08,FC Barcelona,Getafe,90,3-0,,Left foot,10,CUP,Copa del Rey,4,0,Home,26
+364,2013-11-06,FC Barcelona,AC Milan,83,3-1,,Left foot,10,EUR,UEFA Champions League,3,1,Home,26
+363,2013-11-06,FC Barcelona,AC Milan,30,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,3,1,Home,26
+362,2013-10-22,AC Milan,FC Barcelona,23,1-1,,Left foot,10,EUR,UEFA Champions League,1,1,Draw,26
+361,2013-09-28,UD Almería,FC Barcelona,21,0-1,,Left foot,10,PRM,La Liga,0,2,Away,26
+360,2013-09-24,FC Barcelona,Real Sociedad,8,2-0,,Head,10,PRM,La Liga,4,1,Home,26
+359,2013-09-18,FC Barcelona,Ajax,75,4-0,,Left foot,10,EUR,UEFA Champions League,4,0,Home,26
+358,2013-09-18,FC Barcelona,Ajax,55,2-0,,Left foot,10,EUR,UEFA Champions League,4,0,Home,26
+357,2013-09-18,FC Barcelona,Ajax,22,1-0,Free kick,Left foot,10,EUR,UEFA Champions League,4,0,Home,26
+356,2013-09-14,FC Barcelona,Sevilla,75,2-0,,Left foot,10,PRM,La Liga,3,2,Home,26
+355,2013-09-11,Paraguay,Argentina,52,1-4,Penalty,Left foot,10,WCQ,World Cup 2014 Qualification,2,5,Away,26
+354,2013-09-11,Paraguay,Argentina,12,0-1,Penalty,Left foot,10,WCQ,World Cup 2014 Qualification,2,5,Away,26
+353,2013-09-01,Valencia,FC Barcelona,41,0-3,,Left foot,10,PRM,La Liga,2,3,Away,26
+352,2013-09-01,Valencia,FC Barcelona,39,0-2,,Right foot,10,PRM,La Liga,2,3,Away,26
+351,2013-09-01,Valencia,FC Barcelona,11,0-1,,Left foot,10,PRM,La Liga,2,3,Away,26
+350,2013-08-18,FC Barcelona,Levante,42,5-0,Penalty,Left foot,10,PRM,La Liga,7,0,Home,26
+349,2013-08-18,FC Barcelona,Levante,12,2-0,,Left foot,10,PRM,La Liga,7,0,Home,26
+348,2013-06-15,Guatemala,Argentina,49,0-4,Field goal,Left foot,10,FRN,International friendly,0,4,Away,25
+347,2013-06-15,Guatemala,Argentina,40,0-3,Penalty,Left foot,10,FRN,International friendly,0,4,Away,25
+346,2013-06-15,Guatemala,Argentina,15,0-1,Field goal,Left foot,10,FRN,International friendly,0,4,Away,25
+345,2013-05-05,FC Barcelona,Real Betis,71,4-2,,Left foot,10,PRM,La Liga,4,2,Home,25
+344,2013-05-05,FC Barcelona,Real Betis,60,3-2,Free kick,Left foot,10,PRM,La Liga,4,2,Home,25
+343,2013-04-27,Athletic de Bilbao,FC Barcelona,67,1-1,Solo run,Left foot,10,PRM,La Liga,2,2,Draw,25
+342,2013-04-02,Paris Saint-Germain,FC Barcelona,38,0-1,,Left foot,10,EUR,UEFA Champions League,2,2,Draw,25
+341,2013-03-30,Celta de Vigo,FC Barcelona,73,1-2,,Left foot,10,PRM,La Liga,2,2,Draw,25
+340,2013-03-23,Argentina,Venezuela,44,2-0,Penalty,Left foot,10,WCQ,World Cup 2014 Qualification,3,0,Home,25
+339,2013-03-17,FC Barcelona,Rayo Vallecano,57,3-0,,Left foot,10,PRM,La Liga,3,1,Home,25
+338,2013-03-17,FC Barcelona,Rayo Vallecano,40,2-0,,Left foot,10,PRM,La Liga,3,1,Home,25
+337,2013-03-12,FC Barcelona,AC Milan,39,2-0,,Left foot,10,EUR,UEFA Champions League,4,0,Home,25
+336,2013-03-12,FC Barcelona,AC Milan,5,1-0,,Left foot,10,EUR,UEFA Champions League,4,0,Home,25
+335,2013-03-09,FC Barcelona,Deportivo La Coruña,88,2-0,,Left foot,10,PRM,La Liga,2,0,Home,25
+334,2013-03-02,Real Madrid,FC Barcelona,18,1-1,,Left foot,10,PRM,La Liga,2,1,Home,25
+333,2013-02-23,FC Barcelona,Sevilla,60,2-1,,Left foot,10,PRM,La Liga,2,1,Home,25
+332,2013-02-16,Granada,FC Barcelona,73,1-2,Free kick,Left foot,10,PRM,La Liga,1,2,Away,25
+331,2013-02-16,Granada,FC Barcelona,50,1-1,Rebound,Right foot,10,PRM,La Liga,1,2,Away,25
+330,2013-02-10,FC Barcelona,Getafe,13,2-0,,Left foot,10,PRM,La Liga,6,1,Home,25
+329,2013-02-03,Valencia,FC Barcelona,39,1-1,Penalty,Left foot,10,PRM,La Liga,1,1,Draw,25
+328,2013-01-27,FC Barcelona,Osasuna,58,5-1,,Left foot,10,PRM,La Liga,5,1,Home,25
+327,2013-01-27,FC Barcelona,Osasuna,56,4-1,,Left foot,10,PRM,La Liga,5,1,Home,25
+326,2013-01-27,FC Barcelona,Osasuna,28,2-1,Penalty,Left foot,10,PRM,La Liga,5,1,Home,25
+325,2013-01-27,FC Barcelona,Osasuna,11,1-0,,Right foot,10,PRM,La Liga,5,1,Home,25
+324,2013-01-24,Málaga,FC Barcelona,80,2-4,,Head,10,CUP,Copa del Rey,2,4,Away,25
+323,2013-01-19,Real Sociedad,FC Barcelona,7,0-1,,Left foot,10,PRM,La Liga,3,2,Home,25
+322,2013-01-16,FC Barcelona,Málaga,29,1-1,,Left foot,10,CUP,Copa del Rey,2,2,Draw,25
+321,2013-01-13,Málaga,FC Barcelona,27,0-1,,Right foot,10,PRM,La Liga,1,3,Away,25
+320,2013-01-06,FC Barcelona,Espanyol,29,4-0,Penalty,Left foot,10,PRM,La Liga,4,0,Home,25
+319,2012-12-22,Real Valladolid,FC Barcelona,59,0-2,,Left foot,10,PRM,La Liga,1,3,Away,25
+318,2012-12-16,FC Barcelona,Atlético Madrid,88,4-1,,Left foot,10,PRM,La Liga,4,1,Home,25
+317,2012-12-16,FC Barcelona,Atlético Madrid,57,3-1,,Left foot,10,PRM,La Liga,4,1,Home,25
+316,2012-12-12,Córdoba,FC Barcelona,74,0-2,,Left foot,10,CUP,Copa del Rey,0,2,Away,25
+315,2012-12-12,Córdoba,FC Barcelona,11,0-1,,Left foot,10,CUP,Copa del Rey,0,2,Away,25
+314,2012-12-09,Real Betis,FC Barcelona,25,0-2,,Left foot,10,PRM,La Liga,1,2,Away,25
+313,2012-12-09,Real Betis,FC Barcelona,16,0-1,,Left foot,10,PRM,La Liga,1,2,Away,25
+312,2012-12-01,FC Barcelona,Athletic de Bilbao,70,5-1,,Right foot,10,PRM,La Liga,5,1,Home,25
+311,2012-12-01,FC Barcelona,Athletic de Bilbao,25,2-0,,Left foot,10,PRM,La Liga,5,1,Home,25
+310,2012-11-25,Levante,FC Barcelona,52,0-2,,Left foot,10,PRM,La Liga,0,4,Away,25
+309,2012-11-25,Levante,FC Barcelona,47,0-1,,Left foot,10,PRM,La Liga,0,4,Away,25
+308,2012-11-20,Spartak Moscow,FC Barcelona,39,0-3,,Left foot,10,EUR,UEFA Champions League,0,3,Away,25
+307,2012-11-20,Spartak Moscow,FC Barcelona,27,0-2,Rebound,Right foot,10,EUR,UEFA Champions League,0,3,Away,25
+306,2012-11-17,FC Barcelona,Real Zaragoza,60,3-1,,Left foot,10,PRM,La Liga,3,1,Home,25
+305,2012-11-17,FC Barcelona,Real Zaragoza,16,1-0,,Left foot,10,PRM,La Liga,3,1,Home,25
+304,2012-11-11,Real Mallorca,FC Barcelona,70,2-4,,Left foot,10,PRM,La Liga,2,4,Away,25
+303,2012-11-11,Real Mallorca,FC Barcelona,44,0-2,,Left foot,10,PRM,La Liga,2,4,Away,25
+302,2012-11-07,Celtic,FC Barcelona,90+1,2-1,Rebound,Left foot,10,EUR,UEFA Champions League,2,1,Home,25
+301,2012-10-27,Rayo Vallecano,FC Barcelona,89,0-5,,Right foot,10,PRM,La Liga,0,5,Away,25
+300,2012-10-27,Rayo Vallecano,FC Barcelona,48,0-2,,Left foot,10,PRM,La Liga,0,5,Away,25
+299,2012-10-20,Deportivo La Coruña,FC Barcelona,77,3-5,,Left foot,10,PRM,La Liga,4,5,Away,25
+298,2012-10-20,Deportivo La Coruña,FC Barcelona,43,2-4,,Right foot,10,PRM,La Liga,4,5,Away,25
+297,2012-10-20,Deportivo La Coruña,FC Barcelona,18,0-3,,Left foot,10,PRM,La Liga,4,5,Away,25
+296,2012-10-17,Chile,Argentina,28,0-1,,Left foot,10,WCQ,World Cup 2014 Qualification,1,2,Away,25
+295,2012-10-13,Argentina,Uruguay,80,3-0,Free kick,Left foot,10,WCQ,World Cup 2014 Qualification,3,0,Home,25
+294,2012-10-13,Argentina,Uruguay,65,1-0,,Right foot,10,WCQ,World Cup 2014 Qualification,3,0,Home,25
+293,2012-10-07,FC Barcelona,Real Madrid,61,2-1,Free kick,Left foot,10,PRM,La Liga,2,2,Draw,25
+292,2012-10-07,FC Barcelona,Real Madrid,31,1-1,,Left foot,10,PRM,La Liga,2,2,Draw,25
+291,2012-09-19,FC Barcelona,Spartak Moscow,80,3-2,,Head,10,EUR,UEFA Champions League,3,2,Home,25
+290,2012-09-19,FC Barcelona,Spartak Moscow,71,2-2,,Left foot,10,EUR,UEFA Champions League,3,2,Home,25
+289,2012-09-15,Getafe,FC Barcelona,78,0-3,,Left foot,10,PRM,La Liga,1,4,Away,25
+288,2012-09-15,Getafe,FC Barcelona,74,0-2,Penalty,Left foot,10,PRM,La Liga,1,4,Away,25
+287,2012-09-08,Argentina,Paraguay,63,3-1,Free kick,Left foot,10,WCQ,World Cup 2014 Qualification,3,1,Home,25
+286,2012-08-29,Real Madrid,FC Barcelona,45,2-1,Free kick,Left foot,10,SUP,Spanish Super Cup,2,1,Home,25
+285,2012-08-26,Osasuna,FC Barcelona,80,1-2,,Left foot,10,PRM,La Liga,1,2,Away,25
+284,2012-08-26,Osasuna,FC Barcelona,76,1-1,,Left foot,10,PRM,La Liga,1,2,Away,25
+283,2012-08-23,FC Barcelona,Real Madrid,70,2-1,Penalty,Left foot,10,SUP,Spanish Super Cup,3,2,Home,25
+282,2012-08-19,FC Barcelona,Real Sociedad,16,3-1,,Left foot,10,PRM,La Liga,5,1,Home,25
+281,2012-08-19,FC Barcelona,Real Sociedad,11,2-1,,Left foot,10,PRM,La Liga,5,1,Home,25
+280,2012-08-15,Germany,Argentina,52,0-2,,Left foot,10,FRN,International friendly,1,3,Away,25
+279,2012-06-09,Argentina,Brazil,85,4-3,Solo run,Left foot,10,FRN,International friendly,4,3,Home,24
+278,2012-06-09,Argentina,Brazil,35,2-1,,Left foot,10,FRN,International friendly,4,3,Home,24
+277,2012-06-09,Argentina,Brazil,31,1-1,,Left foot,10,FRN,International friendly,4,3,Home,24
+276,2012-06-03,Argentina,Ecuador,31,3-0,Field goal,Left foot,10,WCQ,World Cup 2014 Qualification,4,0,Home,24
+275,2012-05-25,Athletic de Bilbao,FC Barcelona,20,0-2,,Right foot,10,CUP,Copa del Rey,0,3,Away,24
+274,2012-05-05,FC Barcelona,Espanyol,79,4-0,Penalty,Left foot,10,PRM,La Liga,4,0,Home,24
+273,2012-05-05,FC Barcelona,Espanyol,74,3-0,,Left foot,10,PRM,La Liga,4,0,Home,24
+272,2012-05-05,FC Barcelona,Espanyol,64,2-0,Penalty,Left foot,10,PRM,La Liga,4,0,Home,24
+271,2012-05-05,FC Barcelona,Espanyol,12,1-0,Free kick,Left foot,10,PRM,La Liga,4,0,Home,24
+270,2012-05-02,FC Barcelona,Málaga,64,4-1,,Left foot,10,PRM,La Liga,4,1,Home,24
+269,2012-05-02,FC Barcelona,Málaga,59,3-1,Penalty,Left foot,10,PRM,La Liga,4,1,Home,24
+268,2012-05-02,FC Barcelona,Málaga,35,2-1,Penalty,Left foot,10,PRM,La Liga,4,1,Home,24
+267,2012-04-29,Rayo Vallecano,FC Barcelona,90,0-7,,Left foot,10,PRM,La Liga,0,7,Away,24
+266,2012-04-29,Rayo Vallecano,FC Barcelona,16,0-1,,Left foot,10,PRM,La Liga,0,7,Away,24
+265,2012-04-14,Levante,FC Barcelona,72,1-2,Penalty,Left foot,10,PRM,La Liga,1,2,Away,24
+264,2012-04-14,Levante,FC Barcelona,64,1-1,Field goal,Left foot,10,PRM,La Liga,1,2,Away,24
+263,2012-04-10,FC Barcelona,Getafe,44,2-0,,Left foot,10,PRM,La Liga,4,0,Home,24
+262,2012-04-07,Real Zaragoza,FC Barcelona,86,1-3,Penalty,Left foot,10,PRM,La Liga,1,4,Away,24
+261,2012-04-07,Real Zaragoza,FC Barcelona,39,1-2,,Left foot,10,PRM,La Liga,1,4,Away,24
+260,2012-04-03,FC Barcelona,AC Milan,41,2-1,Penalty,Left foot,10,EUR,UEFA Champions League,3,1,Home,24
+259,2012-04-03,FC Barcelona,AC Milan,11,1-0,Penalty,Left foot,10,EUR,UEFA Champions League,3,1,Home,24
+258,2012-03-31,FC Barcelona,Athletic de Bilbao,58,2-0,Penalty,Left foot,10,PRM,La Liga,2,0,Home,24
+257,2012-03-24,Real Mallorca,FC Barcelona,25,0-1,Free kick,Left foot,10,PRM,La Liga,0,2,Away,24
+256,2012-03-20,FC Barcelona,Granada,86,5-2,Field goal,Left foot,10,PRM,La Liga,5,3,Home,24
+255,2012-03-20,FC Barcelona,Granada,67,3-2,Field goal,Left foot,10,PRM,La Liga,5,3,Home,24
+254,2012-03-20,FC Barcelona,Granada,17,2-0,Field goal,Left foot,10,PRM,La Liga,5,3,Home,24
+253,2012-03-17,Sevilla,FC Barcelona,25,0-2,,Left foot,10,PRM,La Liga,0,2,Away,24
+252,2012-03-11,Racing Santander,FC Barcelona,56,0-2,Penalty,Left foot,10,PRM,La Liga,0,2,Away,24
+251,2012-03-11,Racing Santander,FC Barcelona,29,0-1,,Left foot,10,PRM,La Liga,0,2,Away,24
+250,2012-03-07,FC Barcelona,Bayer Leverkusen,84,7-0,,Left foot,10,EUR,UEFA Champions League,7,1,Home,24
+249,2012-03-07,FC Barcelona,Bayer Leverkusen,58,5-0,Rebound,Left foot,10,EUR,UEFA Champions League,7,1,Home,24
+248,2012-03-07,FC Barcelona,Bayer Leverkusen,49,3-0,,Right foot,10,EUR,UEFA Champions League,7,1,Home,24
+247,2012-03-07,FC Barcelona,Bayer Leverkusen,42,2-0,,Left foot,10,EUR,UEFA Champions League,7,1,Home,24
+246,2012-03-07,FC Barcelona,Bayer Leverkusen,25,1-0,,Left foot,10,EUR,UEFA Champions League,7,1,Home,24
+245,2012-02-29,Switzerland,Argentina,90+3,1-3,Penalty,Left foot,10,FRN,International friendly,1,3,Away,24
+244,2012-02-29,Switzerland,Argentina,88,1-2,,Left foot,10,FRN,International friendly,1,3,Away,24
+243,2012-02-29,Switzerland,Argentina,20,0-1,,Left foot,10,FRN,International friendly,1,3,Away,24
+242,2012-02-26,Atlético Madrid,FC Barcelona,81,1-2,Free kick,Left foot,10,PRM,La Liga,1,2,Away,24
+241,2012-02-19,FC Barcelona,Valencia,85,4-1,,Left foot,10,PRM,La Liga,5,1,Home,24
+240,2012-02-19,FC Barcelona,Valencia,76,3-1,Rebound,Left foot,10,PRM,La Liga,5,1,Home,24
+239,2012-02-19,FC Barcelona,Valencia,27,2-1,Rebound,Left foot,10,PRM,La Liga,5,1,Home,24
+238,2012-02-19,FC Barcelona,Valencia,22,1-1,,Left foot,10,PRM,La Liga,5,1,Home,24
+237,2012-02-14,Bayer Leverkusen,FC Barcelona,88,1-3,Field goal,Left foot,10,EUR,UEFA Champions League,1,3,Away,24
+236,2012-02-04,FC Barcelona,Real Sociedad,72,2-0,,Left foot,10,PRM,La Liga,2,1,Home,24
+235,2012-01-22,Málaga,FC Barcelona,81,0-4,,Left foot,10,PRM,La Liga,1,4,Away,24
+234,2012-01-22,Málaga,FC Barcelona,51,0-3,,Left foot,10,PRM,La Liga,1,4,Away,24
+233,2012-01-22,Málaga,FC Barcelona,33,0-1,,Head,10,PRM,La Liga,1,4,Away,24
+232,2012-01-15,FC Barcelona,Real Betis,86,4-2,Penalty,Left foot,10,PRM,La Liga,4,2,Home,24
+231,2012-01-15,FC Barcelona,Real Betis,12,2-0,,Left foot,10,PRM,La Liga,4,2,Home,24
+230,2012-01-04,FC Barcelona,Osasuna,90+2,4-0,,Left foot,10,CUP,Copa del Rey,4,0,Home,24
+229,2012-01-04,FC Barcelona,Osasuna,73,3-0,,Head,10,CUP,Copa del Rey,4,0,Home,24
+228,2011-12-18,Santos,FC Barcelona,82,0-4,,Left foot,10,WCT,FIFA Club World Cup,0,4,Away,24
+227,2011-12-18,Santos,FC Barcelona,17,0-1,,Left foot,10,WCT,FIFA Club World Cup,0,4,Away,24
+226,2011-12-03,FC Barcelona,Levante,55,4-0,,Left foot,10,PRM,La Liga,5,0,Home,24
+225,2011-11-29,FC Barcelona,Rayo Vallecano,50,4-0,,Left foot,10,PRM,La Liga,4,0,Home,24
+224,2011-11-23,AC Milan,FC Barcelona,31,1-2,Penalty,Left foot,10,EUR,UEFA Champions League,2,3,Away,24
+223,2011-11-19,FC Barcelona,Real Zaragoza,43,2-0,,Right foot,10,PRM,La Liga,4,0,Home,24
+222,2011-11-15,Colombia,Argentina,60,1-1,Rebound,Left foot,10,WCQ,World Cup 2014 Qualification,1,2,Away,24
+221,2011-11-06,Athletic de Bilbao,FC Barcelona,90+1,2-2,Rebound,Left foot,10,PRM,La Liga,2,2,Draw,24
+220,2011-11-01,Viktoria Plzen,FC Barcelona,90+2,0-4,,Left foot,10,EUR,UEFA Champions League,0,4,Away,24
+219,2011-11-01,Viktoria Plzen,FC Barcelona,45,0-2,,Left foot,10,EUR,UEFA Champions League,0,4,Away,24
+218,2011-11-01,Viktoria Plzen,FC Barcelona,24,0-1,Penalty,Left foot,10,EUR,UEFA Champions League,0,4,Away,24
+217,2011-10-29,FC Barcelona,Real Mallorca,30,3-0,,Left foot,10,PRM,La Liga,5,0,Home,24
+216,2011-10-29,FC Barcelona,Real Mallorca,21,2-0,,Right foot,10,PRM,La Liga,5,0,Home,24
+215,2011-10-29,FC Barcelona,Real Mallorca,13,1-0,Penalty,Left foot,10,PRM,La Liga,5,0,Home,24
+214,2011-10-15,FC Barcelona,Racing Santander,68,3-0,,Right foot,10,PRM,La Liga,3,0,Home,24
+213,2011-10-15,FC Barcelona,Racing Santander,11,1-0,,Right foot,10,PRM,La Liga,3,0,Home,24
+212,2011-10-08,Argentina,Chile,26,2-0,Field goal,Left foot,10,WCQ,World Cup 2014 Qualification,4,1,Home,24
+211,2011-09-28,BATE Borisov,FC Barcelona,55,0-4,,Left foot,10,EUR,UEFA Champions League,0,5,Away,24
+210,2011-09-28,BATE Borisov,FC Barcelona,38,0-3,,Head,10,EUR,UEFA Champions League,0,5,Away,24
+209,2011-09-24,FC Barcelona,Atlético Madrid,90+1,5-0,,Left foot,10,PRM,La Liga,5,0,Home,24
+208,2011-09-24,FC Barcelona,Atlético Madrid,78,4-0,,Left foot,10,PRM,La Liga,5,0,Home,24
+207,2011-09-24,FC Barcelona,Atlético Madrid,26,3-0,,Left foot,10,PRM,La Liga,5,0,Home,24
+206,2011-09-17,FC Barcelona,Osasuna,79,8-0,,Left foot,10,PRM,La Liga,8,0,Home,24
+205,2011-09-17,FC Barcelona,Osasuna,41,5-0,,Left foot,10,PRM,La Liga,8,0,Home,24
+204,2011-09-17,FC Barcelona,Osasuna,5,1-0,,Left foot,10,PRM,La Liga,8,0,Home,24
+203,2011-08-29,FC Barcelona,Villarreal,75,5-0,,Left foot,10,PRM,La Liga,5,0,Home,24
+202,2011-08-29,FC Barcelona,Villarreal,52,4-0,,Right foot,10,PRM,La Liga,5,0,Home,24
+201,2011-08-26,FC Barcelona,FC Porto,39,1-0,,Left foot,10,IUP,UEFA European Super Cup,2,0,Home,24
+200,2011-08-17,FC Barcelona,Real Madrid,87,3-2,Field goal,Left foot,10,SUP,Spanish Super Cup,3,2,Home,24
+199,2011-08-17,FC Barcelona,Real Madrid,45,2-1,Field goal,Right foot,10,SUP,Spanish Super Cup,3,2,Home,24
+198,2011-08-14,Real Madrid,FC Barcelona,45,1-2,,Left foot,10,SUP,Spanish Super Cup,2,2,Draw,24
+197,2011-06-20,Argentina,Albania,42,2-0,Field goal,Left foot,10,FRN,International friendly,4,0,Home,23
+196,2011-05-28,FC Barcelona,Manchester United,54,2-1,,Left foot,10,EUR,UEFA Champions League,3,1,Home,23
+195,2011-04-27,Real Madrid,FC Barcelona,87,0-2,Solo run,Right foot,10,EUR,UEFA Champions League,0,2,Away,23
+194,2011-04-27,Real Madrid,FC Barcelona,76,0-1,Field goal,Left foot,10,EUR,UEFA Champions League,0,2,Away,23
+193,2011-04-23,FC Barcelona,Osasuna,87,2-0,,Right foot,10,PRM,La Liga,2,0,Home,23
+192,2011-04-16,Real Madrid,FC Barcelona,53,0-1,Penalty,Left foot,10,PRM,La Liga,1,1,Draw,23
+191,2011-04-12,Shakhtar Donetsk,FC Barcelona,43,0-1,,Left foot,10,EUR,UEFA Champions League,0,1,Away,23
+190,2011-04-09,FC Barcelona,UD Almería,90+2,3-1,,Left foot,10,PRM,La Liga,3,1,Home,23
+189,2011-04-09,FC Barcelona,UD Almería,53,1-1,Penalty,Left foot,10,PRM,La Liga,3,1,Home,23
+188,2011-03-08,FC Barcelona,Arsenal,71,3-1,Penalty,Left foot,10,EUR,UEFA Champions League,3,1,Home,23
+187,2011-03-08,FC Barcelona,Arsenal,45+3,1-0,Field goal,Left foot,10,EUR,UEFA Champions League,3,1,Home,23
+186,2011-03-02,Valencia,FC Barcelona,77,0-1,,Left foot,10,PRM,La Liga,0,1,Away,23
+185,2011-02-26,Real Mallorca,FC Barcelona,38,0-1,,Head,10,PRM,La Liga,0,3,Away,23
+184,2011-02-20,FC Barcelona,Athletic de Bilbao,78,2-1,,Right foot,10,PRM,La Liga,2,1,Home,23
+183,2011-02-09,Argentina,Portugal,90,2-1,Penalty,Left foot,10,FRN,International friendly,2,1,Home,23
+182,2011-02-05,FC Barcelona,Atlético Madrid,79,3-0,Rebound,Left foot,10,PRM,La Liga,3,0,Home,23
+181,2011-02-05,FC Barcelona,Atlético Madrid,28,2-0,,Left foot,10,PRM,La Liga,3,0,Home,23
+180,2011-02-05,FC Barcelona,Atlético Madrid,17,1-0,,Left foot,10,PRM,La Liga,3,0,Home,23
+179,2011-01-29,Hercules Alicante,FC Barcelona,89,0-3,,Left foot,10,PRM,La Liga,0,3,Away,23
+178,2011-01-29,Hercules Alicante,FC Barcelona,87,0-2,,Left foot,10,PRM,La Liga,0,3,Away,23
+177,2011-01-26,FC Barcelona,UD Almería,16,3-0,,Left foot,10,CUP,Copa del Rey,5,0,Home,23
+176,2011-01-26,FC Barcelona,UD Almería,9,1-0,,Left foot,10,CUP,Copa del Rey,5,0,Home,23
+175,2011-01-22,FC Barcelona,Racing Santander,33,2-0,Penalty,Left foot,10,PRM,La Liga,3,0,Home,23
+174,2011-01-19,Real Betis,FC Barcelona,38,2-1,,Left foot,10,CUP,Copa del Rey,3,1,Home,23
+173,2011-01-12,FC Barcelona,Real Betis,73,3-0,,Left foot,10,CUP,Copa del Rey,5,0,Home,23
+172,2011-01-12,FC Barcelona,Real Betis,62,2-0,Rebound,Left foot,10,CUP,Copa del Rey,5,0,Home,23
+171,2011-01-12,FC Barcelona,Real Betis,44,1-0,,Left foot,10,CUP,Copa del Rey,5,0,Home,23
+170,2011-01-08,Deportivo La Coruña,FC Barcelona,52,0-2,Free kick,Left foot,10,PRM,La Liga,0,4,Away,23
+169,2010-12-12,FC Barcelona,Real Sociedad,87,4-0,Solo run,Left foot,10,PRM,La Liga,5,0,Home,23
+168,2010-12-12,FC Barcelona,Real Sociedad,47,3-0,,Left foot,10,PRM,La Liga,5,0,Home,23
+167,2010-12-04,Osasuna,FC Barcelona,83,0-3,Penalty,Left foot,10,PRM,La Liga,0,3,Away,23
+166,2010-12-04,Osasuna,FC Barcelona,65,0-2,,Left foot,10,PRM,La Liga,0,3,Away,23
+165,2010-11-24,Panathinaikos,FC Barcelona,62,0-2,,Left foot,10,EUR,UEFA Champions League,0,3,Away,23
+164,2010-11-20,UD Almería,FC Barcelona,67,0-7,Rebound,Left foot,10,PRM,La Liga,0,8,Away,23
+163,2010-11-20,UD Almería,FC Barcelona,37,0-5,Rebound,Left foot,10,PRM,La Liga,0,8,Away,23
+162,2010-11-20,UD Almería,FC Barcelona,17,0-1,Field goal,Left foot,10,PRM,La Liga,0,8,Away,23
+161,2010-11-17,Argentina,Brazil,90+2,1-0,Solo run,Left foot,10,FRN,International friendly,1,0,Home,23
+160,2010-11-13,FC Barcelona,Villarreal,83,3-1,,Left foot,10,PRM,La Liga,3,1,Home,23
+159,2010-11-13,FC Barcelona,Villarreal,58,2-1,,Right foot,10,PRM,La Liga,3,1,Home,23
+158,2010-11-10,FC Barcelona,AD Ceuta,68,5-1,,Left foot,10,CUP,Copa del Rey,5,1,Home,23
+157,2010-11-07,Getafe,FC Barcelona,23,0-1,,Left foot,10,PRM,La Liga,1,3,Away,23
+156,2010-11-02,FC Copenhagen,FC Barcelona,31,0-1,,Right foot,10,EUR,UEFA Champions League,1,1,Draw,23
+155,2010-10-30,FC Barcelona,Sevilla,64,4-0,Solo run,Left foot,10,PRM,La Liga,5,0,Home,23
+154,2010-10-30,FC Barcelona,Sevilla,4,1-0,Rebound,Left foot,10,PRM,La Liga,5,0,Home,23
+153,2010-10-23,Real Zaragoza,FC Barcelona,66,0-2,,Left foot,10,PRM,La Liga,0,2,Away,23
+152,2010-10-23,Real Zaragoza,FC Barcelona,42,0-1,,Left foot,10,PRM,La Liga,0,2,Away,23
+151,2010-10-20,FC Barcelona,FC Copenhagen,90+2,2-0,,Left foot,10,EUR,UEFA Champions League,2,0,Home,23
+150,2010-10-20,FC Barcelona,FC Copenhagen,19,1-0,,Left foot,10,EUR,UEFA Champions League,2,0,Home,23
+149,2010-10-03,FC Barcelona,Real Mallorca,21,1-0,,Left foot,10,PRM,La Liga,1,1,Draw,23
+148,2010-09-19,Atlético Madrid,FC Barcelona,13,0-1,,Left foot,10,PRM,La Liga,1,2,Away,23
+147,2010-09-14,FC Barcelona,Panathinaikos,45,3-1,Field goal,Left foot,10,EUR,UEFA Champions League,5,1,Home,23
+146,2010-09-14,FC Barcelona,Panathinaikos,22,1-1,Field goal,Left foot,10,EUR,UEFA Champions League,5,1,Home,23
+145,2010-09-07,Argentina,Spain,10,1-0,Field goal,Left foot,10,FRN,International friendly,4,1,Home,23
+144,2010-08-29,Racing Santander,FC Barcelona,3,0-1,,Right foot,10,PRM,La Liga,0,3,Away,23
+143,2010-08-21,FC Barcelona,Sevilla,90,4-0,,Left foot,10,SUP,Spanish Super Cup,4,0,Home,23
+142,2010-08-21,FC Barcelona,Sevilla,43,3-0,,Right foot,10,SUP,Spanish Super Cup,4,0,Home,23
+141,2010-08-21,FC Barcelona,Sevilla,24,2-0,,Left foot,10,SUP,Spanish Super Cup,4,0,Home,23
+140,2010-05-16,FC Barcelona,Real Valladolid,76,4-0,,Left foot,10,PRM,La Liga,4,0,Home,22
+139,2010-05-16,FC Barcelona,Real Valladolid,62,3-0,,Right foot,10,PRM,La Liga,4,0,Home,22
+138,2010-05-08,Sevilla,FC Barcelona,5,0-1,,Left foot,10,PRM,La Liga,2,3,Away,22
+137,2010-05-04,FC Barcelona,Tenerife,90+3,4-1,,Right foot,10,PRM,La Liga,4,1,Home,22
+136,2010-05-04,FC Barcelona,Tenerife,17,1-0,,Right foot,10,PRM,La Liga,4,1,Home,22
+135,2010-05-01,Villarreal,FC Barcelona,88,1-4,,Left foot,10,PRM,La Liga,1,4,Away,22
+134,2010-05-01,Villarreal,FC Barcelona,19,0-1,,Left foot,10,PRM,La Liga,1,4,Away,22
+133,2010-04-10,Real Madrid,FC Barcelona,33,0-1,,Right foot,10,PRM,La Liga,0,2,Away,22
+132,2010-04-06,FC Barcelona,Arsenal,88,4-1,Rebound,Left foot,10,EUR,UEFA Champions League,4,1,Home,22
+131,2010-04-06,FC Barcelona,Arsenal,42,3-1,,Left foot,10,EUR,UEFA Champions League,4,1,Home,22
+130,2010-04-06,FC Barcelona,Arsenal,37,2-1,,Right foot,10,EUR,UEFA Champions League,4,1,Home,22
+129,2010-04-06,FC Barcelona,Arsenal,21,1-1,,Left foot,10,EUR,UEFA Champions League,4,1,Home,22
+128,2010-04-03,FC Barcelona,Athletic de Bilbao,67,4-0,,Left foot,10,PRM,La Liga,4,1,Home,22
+127,2010-03-21,Real Zaragoza,FC Barcelona,78,0-3,,Left foot,10,PRM,La Liga,2,4,Away,22
+126,2010-03-21,Real Zaragoza,FC Barcelona,66,0-2,Solo run,Left foot,10,PRM,La Liga,2,4,Away,22
+125,2010-03-21,Real Zaragoza,FC Barcelona,5,0-1,,Head,10,PRM,La Liga,2,4,Away,22
+124,2010-03-17,FC Barcelona,VfB Stuttgart,60,3-0,,Left foot,10,EUR,UEFA Champions League,4,0,Home,22
+123,2010-03-17,FC Barcelona,VfB Stuttgart,13,1-0,Solo run,Left foot,10,EUR,UEFA Champions League,4,0,Home,22
+122,2010-03-14,FC Barcelona,Valencia,83,3-0,,Right foot,10,PRM,La Liga,3,0,Home,22
+121,2010-03-14,FC Barcelona,Valencia,81,2-0,,Left foot,10,PRM,La Liga,3,0,Home,22
+120,2010-03-14,FC Barcelona,Valencia,56,1-0,,Left foot,10,PRM,La Liga,3,0,Home,22
+119,2010-03-06,UD Almería,FC Barcelona,66,2-2,,Left foot,10,PRM,La Liga,2,2,Draw,22
+118,2010-03-06,UD Almería,FC Barcelona,42,1-1,Free kick,Left foot,10,PRM,La Liga,2,2,Draw,22
+117,2010-02-27,FC Barcelona,Málaga,84,2-1,Field goal,Right foot,10,PRM,La Liga,2,1,Home,22
+116,2010-02-06,FC Barcelona,Getafe,7,1-0,,Left foot,10,PRM,La Liga,2,1,Home,22
+115,2010-01-23,Real Valladolid,FC Barcelona,56,0-3,,Left foot,10,PRM,La Liga,0,3,Away,22
+114,2010-01-16,FC Barcelona,Sevilla,90+1,4-0,,Left foot,10,PRM,La Liga,4,0,Home,22
+113,2010-01-16,FC Barcelona,Sevilla,85,3-0,,Left foot,10,PRM,La Liga,4,0,Home,22
+112,2010-01-10,Tenerife,FC Barcelona,75,0-4,,Left foot,10,PRM,La Liga,0,5,Away,22
+111,2010-01-10,Tenerife,FC Barcelona,45,0-3,,Right foot,10,PRM,La Liga,0,5,Away,22
+110,2010-01-10,Tenerife,FC Barcelona,36,0-1,,Left foot,10,PRM,La Liga,0,5,Away,22
+109,2009-12-19,Estudiantes La Plata,FC Barcelona,110,1-2,,Chest,10,WCT,FIFA Club World Cup,1,2,Away,22
+108,2009-12-16,Atlante,FC Barcelona,55,1-2,,Left foot,10,WCT,FIFA Club World Cup,1,3,Away,22
+107,2009-12-09,Dynamo Kyiv,FC Barcelona,86,1-2,Free kick,Left foot,10,EUR,UEFA Champions League,1,2,Away,22
+106,2009-12-05,Deportivo La Coruña,FC Barcelona,80,1-2,,Head,10,PRM,La Liga,1,3,Away,22
+105,2009-12-05,Deportivo La Coruña,FC Barcelona,27,0-1,,Left foot,10,PRM,La Liga,1,3,Away,22
+104,2009-11-14,Spain,Argentina,61,1-1,Penalty,Left foot,10,FRN,International friendly,2,1,Home,22
+103,2009-11-10,FC Barcelona,Cultural Leonesa,64,4-0,,Left foot,10,CUP,Copa del Rey,5,0,Home,22
+102,2009-11-07,FC Barcelona,Real Mallorca,87,4-1,Penalty,Left foot,10,PRM,La Liga,4,2,Home,22
+101,2009-10-25,FC Barcelona,Real Zaragoza,80,5-1,Field goal,Left foot,10,PRM,La Liga,6,1,Home,22
+100,2009-09-29,FC Barcelona,Dynamo Kyiv,26,1-0,,Left foot,10,EUR,UEFA Champions League,2,0,Home,22
+99,2009-09-22,Racing Santander,FC Barcelona,63,0-4,,Left foot,10,PRM,La Liga,1,4,Away,22
+98,2009-09-22,Racing Santander,FC Barcelona,24,0-2,,Left foot,10,PRM,La Liga,1,4,Away,22
+97,2009-09-19,FC Barcelona,Atlético Madrid,90+4,5-2,,Right foot,10,PRM,La Liga,5,2,Home,22
+96,2009-09-19,FC Barcelona,Atlético Madrid,16,2-0,,Left foot,10,PRM,La Liga,5,2,Home,22
+95,2009-09-12,Getafe,FC Barcelona,80,0-2,,Head,10,PRM,La Liga,0,2,Away,22
+94,2009-08-23,FC Barcelona,Athletic de Bilbao,68,2-0,Penalty,Left foot,10,SUP,Spanish Super Cup,3,0,Home,22
+93,2009-08-23,FC Barcelona,Athletic de Bilbao,50,1-0,,Right foot,10,SUP,Spanish Super Cup,3,0,Home,22
+92,2009-05-27,FC Barcelona,Manchester United,70,2-0,,Head,10,EUR,UEFA Champions League,2,0,Home,21
+91,2009-05-13,Athletic de Bilbao,FC Barcelona,55,1-2,,Left foot,10,CUP,Copa del Rey,1,4,Away,21
+90,2009-05-02,Real Madrid,FC Barcelona,75,2-5,,Left foot,10,PRM,La Liga,2,6,Away,21
+89,2009-05-02,Real Madrid,FC Barcelona,36,1-3,,Left foot,10,PRM,La Liga,2,6,Away,21
+88,2009-04-25,Valencia,FC Barcelona,24,0-1,,Left foot,10,PRM,La Liga,2,2,Draw,21
+87,2009-04-18,Getafe,FC Barcelona,19,0-1,,Left foot,10,PRM,La Liga,0,1,Away,21
+86,2009-04-08,FC Barcelona,Bayern München,38,3-0,,Right foot,10,EUR,UEFA Champions League,4,0,Home,21
+85,2009-04-08,FC Barcelona,Bayern München,9,1-0,,Left foot,10,EUR,UEFA Champions League,4,0,Home,21
+84,2009-03-28,Argentina,Venezuela,26,1-0,,Left foot,10,WCQ,World Cup 2010 Qualification,4,0,Home,21
+83,2009-03-22,FC Barcelona,Málaga,25,2-0,,Right foot,10,PRM,La Liga,6,0,Home,21
+82,2009-03-11,FC Barcelona,Olympique Lyonnais,40,3-0,,Left foot,10,EUR,UEFA Champions League,5,2,Home,21
+81,2009-03-07,FC Barcelona,Athletic de Bilbao,32,2-0,Penalty,Left foot,10,PRM,La Liga,2,0,Home,21
+80,2009-03-04,Real Mallorca,FC Barcelona,81,1-1,,Left foot,10,CUP,Copa del Rey,1,1,Draw,21
+79,2009-03-01,Atlético Madrid,FC Barcelona,30,0-2,,Left foot,10,PRM,La Liga,4,3,Home,21
+78,2009-02-11,France,Argentina,83,0-2,Solo run,Left foot,18,FRN,International friendly,0,2,Away,21
+77,2009-02-01,Racing Santander,FC Barcelona,81,1-2,,Right foot,10,PRM,La Liga,1,2,Away,21
+76,2009-02-01,Racing Santander,FC Barcelona,65,1-1,Rebound,Right foot,10,PRM,La Liga,1,2,Away,21
+75,2009-01-24,FC Barcelona,Numancia,76,4-1,Rebound,Right foot,10,PRM,La Liga,4,1,Home,21
+74,2009-01-24,FC Barcelona,Numancia,49,1-0,,Left foot,10,PRM,La Liga,4,1,Home,21
+73,2009-01-17,FC Barcelona,Deportivo La Coruña,21,1-0,,Left foot,10,PRM,La Liga,5,0,Home,21
+72,2009-01-11,Osasuna,FC Barcelona,85,2-3,,Left foot,10,PRM,La Liga,2,3,Away,21
+71,2009-01-06,Atlético Madrid,FC Barcelona,80,1-3,,Right foot,10,CUP,Copa del Rey,1,3,Away,21
+70,2009-01-06,Atlético Madrid,FC Barcelona,57,0-2,Penalty,Left foot,10,CUP,Copa del Rey,1,3,Away,21
+69,2009-01-06,Atlético Madrid,FC Barcelona,13,0-1,,Left foot,10,CUP,Copa del Rey,1,3,Away,21
+68,2008-12-13,FC Barcelona,Real Madrid,90+1,2-0,,Left foot,10,PRM,La Liga,2,0,Home,21
+67,2008-11-29,Sevilla,FC Barcelona,90+2,0-3,,Left foot,10,PRM,La Liga,0,3,Away,21
+66,2008-11-29,Sevilla,FC Barcelona,78,0-2,,Left foot,10,PRM,La Liga,0,3,Away,21
+65,2008-11-26,Sporting Lisbon,FC Barcelona,49,0-3,,Left foot,10,EUR,UEFA Champions League,2,5,Away,21
+64,2008-11-16,Recreativo Huelva,FC Barcelona,52,0-1,,Left foot,10,PRM,La Liga,0,2,Away,21
+63,2008-11-12,FC Barcelona,Benidorm,87,1-0,Rebound,Left foot,10,CUP,Copa del Rey,1,0,Home,21
+62,2008-11-04,FC Barcelona,FC Basel,62,1-0,,Left foot,10,EUR,UEFA Champions League,1,1,Draw,21
+61,2008-11-01,Málaga,FC Barcelona,19,1-2,,Left foot,10,PRM,La Liga,1,4,Away,21
+60,2008-10-22,FC Basel,FC Barcelona,4,0-1,,Left foot,10,EUR,UEFA Champions League,0,5,Away,21
+59,2008-10-11,Argentina,Uruguay,6,1-0,,Head,18,WCQ,World Cup 2010 Qualification,2,1,Home,21
+58,2008-10-04,FC Barcelona,Atlético Madrid,9,3-0,Free kick,Left foot,10,PRM,La Liga,6,1,Home,21
+57,2008-10-01,Shakhtar Donetsk,FC Barcelona,90+4,1-2,,Left foot,10,EUR,UEFA Champions League,1,2,Away,21
+56,2008-10-01,Shakhtar Donetsk,FC Barcelona,87,1-1,Rebound,Right foot,10,EUR,UEFA Champions League,1,2,Away,21
+55,2008-09-27,Espanyol,FC Barcelona,90+7,1-2,Penalty,Left foot,10,PRM,La Liga,1,2,Away,21
+54,2008-09-21,Sporting Gijón,FC Barcelona,89,1-6,Field goal,Head,10,PRM,La Liga,1,6,Away,21
+53,2008-09-21,Sporting Gijón,FC Barcelona,85,1-5,Field goal,Left foot,10,PRM,La Liga,1,6,Away,21
+52,2008-09-13,FC Barcelona,Racing Santander,71,1-0,Penalty,Left foot,10,PRM,La Liga,1,1,Draw,21
+51,2008-06-05,Mexico,Argentina,18,0-2,Field goal,Left foot,18,FRN,International friendly,1,4,Away,20
+50,2008-05-04,FC Barcelona,Valencia,6,1-0,Penalty,Left foot,19,PRM,La Liga,6,0,Home,20
+49,2008-02-24,FC Barcelona,Levante,44,2-1,,Left foot,19,PRM,La Liga,5,1,Home,20
+48,2008-02-20,Celtic,FC Barcelona,79,2-3,,Left foot,19,EUR,UEFA Champions League,2,3,Away,20
+47,2008-02-20,Celtic,FC Barcelona,18,1-1,,Left foot,19,EUR,UEFA Champions League,2,3,Away,20
+46,2007-11-27,Olympique Lyonnais,FC Barcelona,58,1-2,Penalty,Left foot,19,EUR,UEFA Champions League,2,2,Draw,20
+45,2007-11-24,FC Barcelona,Recreativo Huelva,82,3-0,Penalty,Left foot,19,PRM,La Liga,3,0,Home,20
+44,2007-11-21,Colombia,Argentina,36,0-1,Solo run,Left foot,18,WCQ,World Cup 2010 Qualification,2,1,Home,20
+43,2007-11-07,FC Barcelona,Glasgow Rangers,43,2-0,Rebound,Left foot,19,EUR,UEFA Champions League,2,0,Home,20
+42,2007-10-28,FC Barcelona,UD Almería,81,2-0,Penalty,Left foot,19,PRM,La Liga,2,0,Home,20
+41,2007-10-17,Venezuela,Argentina,43,0-2,Field goal,Left foot,18,WCQ,World Cup 2010 Qualification,0,2,Away,20
+40,2007-10-07,FC Barcelona,Atlético Madrid,19,2-0,,Left foot,19,PRM,La Liga,3,0,Home,20
+39,2007-10-02,VfB Stuttgart,FC Barcelona,67,0-2,,Right foot,19,EUR,UEFA Champions League,0,2,Away,20
+38,2007-09-29,Levante,FC Barcelona,51,0-4,,Left foot,19,PRM,La Liga,1,4,Away,20
+37,2007-09-26,FC Barcelona,Real Zaragoza,11,2-1,,Left foot,19,PRM,La Liga,4,1,Home,20
+36,2007-09-26,FC Barcelona,Real Zaragoza,5,1-0,,Left foot,19,PRM,La Liga,4,1,Home,20
+35,2007-09-22,FC Barcelona,Sevilla,80,2-0,Penalty,Left foot,19,PRM,La Liga,2,1,Home,20
+34,2007-09-22,FC Barcelona,Sevilla,74,1-0,,Left foot,19,PRM,La Liga,2,1,Home,20
+33,2007-09-19,FC Barcelona,Olympique Lyonnais,83,2-0,,Left foot,19,EUR,UEFA Champions League,3,0,Home,20
+32,2007-07-12,Mexico,Argentina,61,0-2,,Left foot,18,CPA,Copa América 2007,0,3,Away,20
+31,2007-07-09,Argentina,Peru,61,2-0,,Left foot,18,CPA,Copa América 2007,4,0,Home,20
+30,2007-06-17,Gimnàstic,FC Barcelona,51,0-4,,Left foot,19,PRM,La Liga,1,5,Away,19
+29,2007-06-17,Gimnàstic,FC Barcelona,35,0-2,,Left foot,19,PRM,La Liga,1,5,Away,19
+28,2007-06-09,FC Barcelona,Espanyol,57,2-1,,Right foot,19,PRM,La Liga,2,2,Draw,19
+27,2007-06-09,FC Barcelona,Espanyol,43,1-1,,Hand,19,PRM,La Liga,2,2,Draw,19
+26,2007-06-05,Argentina,Algeria,73,4-2,,Left foot,18,FRN,International friendly,4,3,Home,19
+25,2007-06-05,Argentina,Algeria,54,2-2,Penalty,Left foot,18,FRN,International friendly,4,3,Home,19
+24,2007-05-20,Atlético Madrid,FC Barcelona,80,0-5,,Left foot,19,PRM,La Liga,0,6,Away,19
+23,2007-05-20,Atlético Madrid,FC Barcelona,39,0-1,,Left foot,19,PRM,La Liga,0,6,Away,19
+22,2007-04-18,FC Barcelona,Getafe,45,3-0,,Left foot,19,CUP,Copa del Rey,5,2,Home,19
+21,2007-04-18,FC Barcelona,Getafe,29,2-0,Solo run,Right foot,19,CUP,Copa del Rey,5,2,Home,19
+20,2007-03-31,FC Barcelona,Deportivo La Coruña,45,1-0,,Left foot,19,PRM,La Liga,2,1,Home,19
+19,2007-03-17,Recreativo Huelva,FC Barcelona,86,0-4,,Left foot,19,PRM,La Liga,0,4,Away,19
+18,2007-03-10,FC Barcelona,Real Madrid,90,3-3,,Left foot,19,PRM,La Liga,3,3,Draw,19
+17,2007-03-10,FC Barcelona,Real Madrid,28,2-2,Rebound,Left foot,19,PRM,La Liga,3,3,Draw,19
+16,2007-03-10,FC Barcelona,Real Madrid,11,1-1,,Left foot,19,PRM,La Liga,3,3,Draw,19
+15,2006-10-15,FC Barcelona,Sevilla,81,3-1,,Right foot,19,PRM,La Liga,3,1,Home,19
+14,2006-09-27,Werder Bremen,FC Barcelona,89,1-1,,Left foot,19,EUR,UEFA Champions League,1,1,Draw,19
+13,2006-09-09,FC Barcelona,Osasuna,37,3-0,,Left foot,19,PRM,La Liga,3,0,Home,19
+12,2006-08-28,Celta de Vigo,FC Barcelona,60,1-2,,Left foot,19,PRM,La Liga,2,3,Away,19
+11,2006-06-16,Argentina,Serbia and Montenegro,88,6-0,,Right foot,19,WCP,World Cup 2006,6,0,Home,18
+10,2006-03-01,Croatia,Argentina,6,1-2,,Left foot,19,FRN,International friendly,3,2,Home,18
+9,2006-02-18,FC Barcelona,Real Betis,85,5-1,Rebound,Left foot,19,PRM,La Liga,5,1,Home,18
+8,2006-02-01,FC Barcelona,Real Zaragoza,42,1-0,Field goal,Head,30,CUP,Copa del Rey,2,1,Home,18
+7,2006-01-29,Real Mallorca,FC Barcelona,81,0-3,Field goal,Left foot,30,PRM,La Liga,0,3,Away,18
+6,2006-01-29,Real Mallorca,FC Barcelona,75,0-2,Field goal,Right foot,30,PRM,La Liga,0,3,Away,18
+5,2006-01-22,FC Barcelona,Alavés,81,2-0,Rebound,Left foot,30,PRM,La Liga,2,0,Home,18
+4,2006-01-15,FC Barcelona,Athletic de Bilbao,51,2-1,Rebound,Left foot,30,PRM,La Liga,2,1,Home,18
+3,2005-11-27,FC Barcelona,Racing Santander,52,2-0,Field goal,Left foot,30,PRM,La Liga,4,1,Home,18
+2,2005-11-02,FC Barcelona,Panathinaikos,34,3-0,Field goal,Left foot,30,EUR,UEFA Champions League,5,0,Home,18
+1,2005-05-01,FC Barcelona,Albacete,90,2-0,,Left foot,30,PRM,La Liga,2,0,Home,17
