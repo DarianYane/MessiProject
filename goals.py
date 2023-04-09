@@ -8,6 +8,9 @@ from datetime import datetime
 # Cumpleaños de Leo
 leo_birthday = datetime(1987, 6, 24)
 
+# Salida del Barcelona
+barcelona_exit = datetime(2021, 5, 30)
+
 """ # Obtenemos la tabla de ejemplo de una página web
 url = 'http://messi.starplayerstats.com/en/goals/0/0/all/0/0/0/t/all/all/0/0/1'
 # Para obtener la primera tabla
@@ -70,6 +73,26 @@ def update_csv():
     # Calcular la edad de Leo en cada gol
     from dateutil.relativedelta import relativedelta
     df["Leo_age"] = df['Date'].apply(lambda goal: relativedelta(goal.date(), leo_birthday.date()).years)
+    
+    # Identificar en qué equipo estaba jugando Leo cuando marcó el gol
+    df['Leo_team'] = df.apply(lambda goal: 'Argentina' if goal['Home team'] == 'Argentina' else 'Argentina' if goal['Away team'] == 'Argentina' else 'FC Barcelona' if goal['Date'] < barcelona_exit else 'Paris Saint-Germain', axis=1)
+    
+    # Identificar a qué equipo le anotó el gol
+    df['Scored_team'] = df.apply(lambda goal: goal['Away team'] if goal['Home team'] == goal['Leo_team'] else goal['Home team'], axis=1)
+    
+    # Identificar si estaba jugando de local o visitante
+    df['Home/Away'] = df.apply(lambda goal: 'Home' if goal['Home team'] == goal['Leo_team'] else 'Away', axis=1)
+    
+    # Identificar si Leo ganó, empató o perdió
+    df['Leo_result'] = df.apply(lambda goal: 'Tied' if goal['Result'] == 'Draw' else 'Won' if goal['Result'] == goal['Home/Away'] else 'Lost', axis=1)
+    
+    # Dividir los goles del resultado parcial en 2 columnas
+    df[['Partial_Score_H', 'Partial_Score_A']] = df['Partial_Score'].str.split('-', expand=True)
+    # Convertir los "result" en int
+    df["Partial_Score_H"] = df["Partial_Score_H"].astype("int")
+    df["Partial_Score_A"] = df["Partial_Score_A"].astype("int")
+    # Eliminar la columna "column_name"
+    df = df.drop('Partial_Score', axis=1)
     
     #Guardar el DataFrame en un archivo CSV utilizando la función df.to_csv(), y en un archivo XLSX utilizando la función df.to_excel().
     df.to_csv("messi_goals.csv", index=False)
