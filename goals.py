@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Para actualizar el archivo CSV diariamente, puede utilizar el módulo schedule de Python para programar la ejecución del script cada día.
+# Para actualizar el archivo CSV diariamente se utiliza el módulo schedule de Python para programar la ejecución del script cada día.
 import schedule
 import time
 
@@ -13,7 +13,8 @@ leo_birthday = datetime(1987, 6, 24)
 barcelona_exit = datetime(2021, 5, 30)
 psg_exit = datetime(2023, 6, 30)
 
-""" # Obtenemos la tabla de ejemplo de una página web
+""" 
+# Obtenemos la tabla de ejemplo de una página web
 url = 'http://messi.starplayerstats.com/en/goals/0/0/all/0/0/0/t/all/all/0/0/1'
 # Para obtener la primera tabla
 goals_table = pd.read_html(url)[0]
@@ -32,7 +33,8 @@ print(df.dtypes)
 print(df.info())
 
 #Guarde el DataFrame en un archivo CSV utilizando la función df.to_csv().
-df.to_csv("messi_goals.csv", index=False) """
+df.to_csv("messi_goals.csv", index=False) 
+"""
 
 
 def update_csv():
@@ -44,7 +46,7 @@ def update_csv():
     # Estableceremos el Dataframe donde guardaremos la tabla
     df = pd.DataFrame(goals_table)
 
-    # Elimino la última columna
+    # Elimino la última columna (son las flechas que me llevan al detalle del partido)
     df = df.drop(columns=["Unnamed: 11"])
 
     # Renombro las columnas
@@ -64,12 +66,12 @@ def update_csv():
         ],
         axis=1,
     )
-    df["#_of_Goal"] = df["#_of_Goal"].astype("string")
-    df["Jersey"] = df["Jersey"].astype("string")
+    df["#_of_Goal"] = df["#_of_Goal"].astype("int")
+    df["Jersey"] = df["Jersey"].astype("int")
     # df["Date"] = df["Date"].astype("datetime64[us]")
     df["Date"] = pd.to_datetime(df["Date"], format="%d-%m-%Y")
 
-    # Dividir "Competition" en 2 columnas: una para la abreviación, y otra para el nombre de la competición. Esto me permite identificar los amistosos por su sigle, y todo lo demás como partidos oficiales
+    # Dividir "Competition" en 2 columnas: una para la abreviación, y otra para el nombre de la competición. Esto me permite identificar los amistosos por su sigla, y todo lo demás como partidos oficiales
     def split_competition(val):
         return val[:3], val[4:]
 
@@ -165,8 +167,5 @@ while True:
     time.sleep(1) """
 """ Este código programará la ejecución del script update_csv() cada día a las 11:00 AM y guardará la tabla actualizada en el archivo CSV "tabla_messi.csv". Para que el script se siga ejecutando en segundo plano, se utiliza un ciclo while junto con la función schedule.run_pending() y time.sleep(1). """
 
-# como exportar un dataframe de pandas como archivo .xls?
-
 update_csv()
 
-# Desde terminal, ejecutar python goals.py
