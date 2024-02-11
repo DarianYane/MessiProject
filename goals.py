@@ -13,31 +13,12 @@ leo_birthday = datetime(1987, 6, 24)
 barcelona_exit = datetime(2021, 5, 30)
 psg_exit = datetime(2023, 6, 30)
 
-""" 
-# Obtenemos la tabla de ejemplo de una página web
-url = 'http://messi.starplayerstats.com/en/goals/0/0/all/0/0/0/t/all/all/0/0/1'
-# Para obtener la primera tabla
-goals_table = pd.read_html(url)[0]
 
-# Estableceremos el Dataframe donde guardaremos la tabla
-df = pd.DataFrame(goals_table)
-
-# Elimino la última columna
-df = df.drop(columns=['Unnamed: 11'])
-
-# Renombro las columnas
-df = df.set_axis(['#_of_Goal', 'Date', 'Competition', 'Home team', 'Result', 'Away', 'Minute', 'Partial_Score', 'What', 'How', 'Jersey'], axis=1)
-
-print(df)
-print(df.dtypes)
-print(df.info())
-
-#Guarde el DataFrame en un archivo CSV utilizando la función df.to_csv().
-df.to_csv("messi_goals.csv", index=False) 
-"""
-
+# Definir df como una variable global
+df = None
 
 def update_csv():
+    global df  # Definir df como una variable global
     # Obtenemos la tabla de ejemplo de una página web
     url = "http://messi.starplayerstats.com/en/goals/0/0/all/0/0/0/t/all/all/0/0/1"
     # Para obtener la primera tabla
@@ -52,12 +33,12 @@ def update_csv():
     # Renombro las columnas
     df = df.set_axis(
         [
-            "#_of_Goal",
+            "N_of_Goal",
             "Date",
             "Competition",
-            "Home team",
+            "Home_team",
             "Result",
-            "Away team",
+            "Away_team",
             "Minute",
             "Partial_Score",
             "What",
@@ -66,7 +47,7 @@ def update_csv():
         ],
         axis=1,
     )
-    df["#_of_Goal"] = df["#_of_Goal"].astype("int")
+    df["N_of_Goal"] = df["N_of_Goal"].astype("int")
     df["Jersey"] = df["Jersey"].astype("int")
     # df["Date"] = df["Date"].astype("datetime64[us]")
     df["Date"] = pd.to_datetime(df["Date"], format="%d-%m-%Y")
@@ -110,9 +91,9 @@ def update_csv():
     # Identificar en qué equipo estaba jugando Leo cuando marcó el gol
     df["Leo_team"] = df.apply(
         lambda goal: "Argentina"
-        if goal["Home team"] == "Argentina"
+        if goal["Home_team"] == "Argentina"
         else "Argentina"
-        if goal["Away team"] == "Argentina"
+        if goal["Away_team"] == "Argentina"
         else "FC Barcelona"
         if goal["Date"] < barcelona_exit
         else "Paris Saint-Germain"
@@ -123,15 +104,15 @@ def update_csv():
 
     # Identificar a qué equipo le anotó el gol
     df["Scored_team"] = df.apply(
-        lambda goal: goal["Away team"]
-        if goal["Home team"] == goal["Leo_team"]
-        else goal["Home team"],
+        lambda goal: goal["Away_team"]
+        if goal["Home_team"] == goal["Leo_team"]
+        else goal["Home_team"],
         axis=1,
     )
 
     # Identificar si estaba jugando de local o visitante
-    df["Home/Away"] = df.apply(
-        lambda goal: "Home" if goal["Home team"] == goal["Leo_team"] else "Away", axis=1
+    df["Home_or_Away"] = df.apply(
+        lambda goal: "Home" if goal["Home_team"] == goal["Leo_team"] else "Away", axis=1
     )
 
     # Identificar si Leo ganó, empató o perdió
@@ -139,7 +120,7 @@ def update_csv():
         lambda goal: "Tied"
         if goal["Result"] == "Draw"
         else "Won"
-        if goal["Result"] == goal["Home/Away"]
+        if goal["Result"] == goal["Home_or_Away"]
         else "Lost",
         axis=1,
     )
@@ -157,6 +138,7 @@ def update_csv():
     # Guardar el DataFrame en un archivo CSV utilizando la función df.to_csv(), y en un archivo XLSX utilizando la función df.to_excel().
     df.to_csv("messi_goals.csv", index=False)
     df.to_excel("messi_goals.xlsx", sheet_name="Goals")
+    return df
 
 
 # Programar la ejecución del script cada día a las 9:00 AM
@@ -167,5 +149,56 @@ while True:
     time.sleep(1) """
 """ Este código programará la ejecución del script update_csv() cada día a las 11:00 AM y guardará la tabla actualizada en el archivo CSV "tabla_messi.csv". Para que el script se siga ejecutando en segundo plano, se utiliza un ciclo while junto con la función schedule.run_pending() y time.sleep(1). """
 
-update_csv()
+# Actualizar df
+df = update_csv()
 
+#######################################################################################################################################
+
+'''
+Código para volcar la inscriptformación anterior en una base de datos
+'''
+
+# Llamar al script create_db.py para crear la db si no existe
+# Módulos para actualizar la base de datos
+import sqlite3
+import os
+import subprocess
+
+def verificar_y_ejecutar_creacion_db():
+    # Verificar si el archivo messi_goals.db ya existe
+    if not os.path.exists('messi_goals.db'):
+        # Si no existe, llamar al script create_db.py
+        subprocess.run(['python', 'create_db.py'])
+        print("Se ha creado la base de datos 'messi_goals.db'.")
+    else:
+        print("La base de datos 'messi_goals.db' ya existe.")
+
+verificar_y_ejecutar_creacion_db()
+
+# Actualizar la base de datos SQLite messi_goals.db con la información que se encuentra en el DataFrame df
+def actualizar_base_de_datos(df, nombre_archivo):
+    # Conexión a la base de datos
+    conexion = sqlite3.connect(nombre_archivo)
+    cursor = conexion.cursor()
+
+    # Insertar datos en la tabla
+    for index, fila in df.iterrows():
+        # Convertir las columnas de tipo Timestamp a formato de cadena de texto en formato ISO
+        fila['Date'] = fila['Date'].isoformat()
+        
+        # Insertar datos
+        cursor.execute('''
+            INSERT INTO goals (N_of_Goal, Date, Home_team, Away_team, Minute, What, How, Jersey, Competition_abb, Competition_name,  
+            Goals_H, Goals_A, Result, Leo_age, Leo_team, 
+            Scored_team, Home_or_Away, Leo_result, Partial_Score_H, Partial_Score_A) 
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        ''', tuple(fila))
+
+    # Guardar cambios y cerrar conexión
+    conexion.commit()
+    conexion.close()
+
+# Llamar a la función para actualizar la base de datos
+nombre_archivo = 'messi_goals.db'
+actualizar_base_de_datos(df, nombre_archivo)
+print(f'Se han actualizado los datos en la base de datos "{nombre_archivo}" correctamente.')
