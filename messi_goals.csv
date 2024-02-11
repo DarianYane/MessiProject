@@ -1,4 +1,4 @@
-#_of_Goal,Date,Home team,Away team,Minute,What,How,Jersey,Competition_abb,Competition_name,Goals_H,Goals_A,Result,Leo_age,Leo_team,Scored_team,Home/Away,Leo_result,Partial_Score_H,Partial_Score_A
+N_of_Goal,Date,Home_team,Away_team,Minute,What,How,Jersey,Competition_abb,Competition_name,Goals_H,Goals_A,Result,Leo_age,Leo_team,Scored_team,Home_or_Away,Leo_result,Partial_Score_H,Partial_Score_A
 821,2023-10-17,Peru,Argentina,42,Field goal,Left foot,10,WCQ,World Cup 2026 Qualification,0,2,Away,36,Argentina,Peru,Away,Won,0,2
 820,2023-10-17,Peru,Argentina,32,Field goal,Left foot,10,WCQ,World Cup 2026 Qualification,0,2,Away,36,Argentina,Peru,Away,Won,0,1
 819,2023-09-07,Argentina,Ecuador,78,Free kick,Left foot,10,WCQ,World Cup 2026 Qualification,1,0,Home,36,Argentina,Ecuador,Home,Won,1,0
