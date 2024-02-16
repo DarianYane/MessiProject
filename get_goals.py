@@ -155,7 +155,7 @@ df = update_csv()
 #######################################################################################################################################
 
 '''
-Código para volcar la inscriptformación anterior en una base de datos
+Código para volcar la información anterior en una base de datos
 '''
 
 # Llamar al script create_db.py para crear la db si no existe
@@ -181,22 +181,41 @@ def actualizar_base_de_datos(df, nombre_archivo):
     conexion = sqlite3.connect(nombre_archivo)
     cursor = conexion.cursor()
 
-    # Insertar datos en la tabla
-    for index, fila in df.iterrows():
-        # Convertir las columnas de tipo Timestamp a formato de cadena de texto en formato ISO
-        fila['Date'] = fila['Date'].isoformat()
-        
-        # Insertar datos
-        cursor.execute('''
-            INSERT INTO goals (N_of_Goal, Date, Home_team, Away_team, Minute, What, How, Jersey, Competition_abb, Competition_name,  
-            Goals_H, Goals_A, Result, Leo_age, Leo_team, 
-            Scored_team, Home_or_Away, Leo_result, Partial_Score_H, Partial_Score_A) 
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-        ''', tuple(fila))
+    try:
+        # Truncar la tabla antes de insertar nuevos datos
+        cursor.execute('''DELETE FROM goals''')
+        conexion.commit()
+        print("Se han eliminado todas las filas existentes en la tabla 'goals'.")
+    except Exception as e:
+        # Si hay algún error, imprimirlo
+        print(f"Error al truncar la tabla 'goals': {e}")
+        conexion.rollback()
+        conexion.close()
+        return
 
-    # Guardar cambios y cerrar conexión
-    conexion.commit()
-    conexion.close()
+    try:
+        # Insertar datos en la tabla
+        for index, fila in df.iterrows():
+            # Convertir las columnas de tipo Timestamp a formato de cadena de texto en formato ISO
+            fila['Date'] = fila['Date'].isoformat()
+
+            # Insertar datos
+            cursor.execute('''
+                INSERT INTO goals (N_of_Goal, Date, Home_team, Away_team, Minute, What, How, Jersey, Competition_abb, Competition_name,  
+                Goals_H, Goals_A, Result, Leo_age, Leo_team, 
+                Scored_team, Home_or_Away, Leo_result, Partial_Score_H, Partial_Score_A) 
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+            ''', tuple(fila))
+        
+        # Guardar cambios y cerrar conexión
+        conexion.commit()
+        print("Se han insertado los nuevos datos en la tabla 'goals'.")
+    except Exception as e:
+        # Si hay algún error durante la inserción, imprimirlo
+        print(f"Error al insertar nuevos datos en la tabla 'goals': {e}")
+        conexion.rollback()
+    finally:
+        conexion.close()
 
 # Llamar a la función para actualizar la base de datos
 nombre_archivo = 'messi_goals.db'
