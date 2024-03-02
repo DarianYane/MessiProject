@@ -52,6 +52,7 @@ def update_csv():
     # df["Date"] = df["Date"].astype("datetime64[us]")
     df["Date"] = pd.to_datetime(df["Date"], format="%d-%m-%Y")
 
+
     # Dividir "Competition" en 2 columnas: una para la abreviación, y otra para el nombre de la competición. Esto me permite identificar los amistosos por su sigla, y todo lo demás como partidos oficiales
     def split_competition(val):
         return val[:3], val[4:]
@@ -62,6 +63,7 @@ def update_csv():
     )
     # Eliminar la columna "column_name"
     df = df.drop("Competition", axis=1)
+
 
     # Dividir los goles del resultado en 2 columnas
     df[["Goals_H", "Goals_A"]] = df["Result"].str.split("-", expand=True)
@@ -81,12 +83,14 @@ def update_csv():
         axis=1,
     )
 
+
     # Calcular la edad de Leo en cada gol
     from dateutil.relativedelta import relativedelta
 
     df["Leo_age"] = df["Date"].apply(
         lambda goal: relativedelta(goal.date(), leo_birthday.date()).years
     )
+
 
     # Identificar en qué equipo estaba jugando Leo cuando marcó el gol
     df["Leo_team"] = df.apply(
@@ -102,6 +106,7 @@ def update_csv():
         axis=1,
     )
 
+
     # Identificar a qué equipo le anotó el gol
     df["Scored_team"] = df.apply(
         lambda goal: goal["Away_team"]
@@ -110,10 +115,12 @@ def update_csv():
         axis=1,
     )
 
+
     # Identificar si estaba jugando de local o visitante
     df["Home_or_Away"] = df.apply(
         lambda goal: "Home" if goal["Home_team"] == goal["Leo_team"] else "Away", axis=1
     )
+
 
     # Identificar si Leo ganó, empató o perdió
     df["Leo_result"] = df.apply(
@@ -125,6 +132,7 @@ def update_csv():
         axis=1,
     )
 
+
     # Dividir los goles del resultado parcial en 2 columnas
     df[["Partial_Score_H", "Partial_Score_A"]] = df["Partial_Score"].str.split(
         "-", expand=True
@@ -134,6 +142,49 @@ def update_csv():
     df["Partial_Score_A"] = df["Partial_Score_A"].astype("int")
     # Eliminar la columna "column_name"
     df = df.drop("Partial_Score", axis=1)
+
+
+    # Agregar una nueva columna "Minute_adjusted" al DataFrame df
+    df['Minute_adjusted'] = df['Minute']
+
+    # Definir una función para ajustar los minutos en caso de tiempo adicional
+    def adjust_minute(minute):
+        if '+' in minute:
+            # Dividir el tiempo adicional en dos partes y sumarlas
+            parts = minute.split('+')
+            adjusted_minute = sum(int(part) for part in parts)
+            return adjusted_minute
+        else:
+            # Mantener el mismo valor si no hay tiempo adicional
+            return int(minute)
+
+    # Aplicar la función adjust_minute a la columna "Minute_adjusted"
+    df['Minute_adjusted'] = df['Minute_adjusted'].apply(adjust_minute)
+
+    # Convertir la columna "Goal_time_period" al tipo de datos texto
+    df['Minute_adjusted'] = df['Minute_adjusted'].astype('int')
+
+
+    # Agregar una nueva columna "Goal_time_period" al DataFrame df
+    df['Goal_time_period'] = df['Minute']
+
+    # Definir una función para determinar el período de tiempo del gol
+    def determine_time_period(minute):
+        if '+' in minute:
+            return 'Additional time'
+        elif int(minute) <= 45:
+            return 'First half'
+        elif int(minute) <= 90:
+            return 'Second half'
+        else:
+            return 'Additional time'
+
+    # Aplicar la función determine_time_period a la columna "Goal_time_period"
+    df['Goal_time_period'] = df['Goal_time_period'].apply(determine_time_period)
+
+    # Convertir la columna "Goal_time_period" al tipo de datos texto
+    df['Goal_time_period'] = df['Goal_time_period'].astype('str')
+
 
     # Guardar el DataFrame en un archivo CSV utilizando la función df.to_csv(), y en un archivo XLSX utilizando la función df.to_excel().
     df.to_csv("messi_goals.csv", index=False)
@@ -155,7 +206,7 @@ df = update_csv()
 #######################################################################################################################################
 
 '''
-Código para volcar la información anterior en una base de datos
+Código para volcar la inscriptformación anterior en una base de datos
 '''
 
 # Llamar al script create_db.py para crear la db si no existe
@@ -203,8 +254,8 @@ def actualizar_base_de_datos(df, nombre_archivo):
             cursor.execute('''
                 INSERT INTO goals (N_of_Goal, Date, Home_team, Away_team, Minute, What, How, Jersey, Competition_abb, Competition_name,  
                 Goals_H, Goals_A, Result, Leo_age, Leo_team, 
-                Scored_team, Home_or_Away, Leo_result, Partial_Score_H, Partial_Score_A) 
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                Scored_team, Home_or_Away, Leo_result, Partial_Score_H, Partial_Score_A, Minute_adjusted, Goal_time_period) 
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
             ''', tuple(fila))
         
         # Guardar cambios y cerrar conexión

@@ -26,7 +26,9 @@ def crear_base_de_datos(nombre_archivo):
                     Home_or_Away TEXT,
                     Leo_result TEXT,
                     Partial_Score_H INTEGER,
-                    Partial_Score_A INTEGER
+                    Partial_Score_A INTEGER,
+                    Minute_adjusted,
+                    Goal_time_period
                     );''')
 
     # Guardar cambios y cerrar conexión
