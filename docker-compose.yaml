@@ -1,0 +1,83 @@
+# Use root/example as user/password credentials
+version: '3.1'
+name: CMT-MONTHLY-STATS-2024
+services:
+
+  db:
+    build:
+      context: .
+      dockerfile: dockerfile-db
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: pgl8677
+
+    ports:
+      - 4800:3306
+
+    volumes:
+      - ./db-script:/usr/db-script
+      - databases_backup:/usr/db-backup
+      - ./data:/var/lib/mysql
+
+  pythonapp:
+    build:
+      context: .
+      dockerfile: dockerfile-app
+
+    depends_on:
+      - db
+
+    volumes:
+      - ./src:/usr/app/src
+      - ./confd:/etc/mysql/conf.d
+      - ./log:/usr/app/log
+      - email_attachments:/usr/app/email_attachments
+      - complaints_reports:/usr/app/complaints_output_reports
+      - joined_report:/usr/app/joined_report
+      - mr_outputs:/usr/app/monthly-report-output
+      - wr_outputs:/usr/app/weekly-report-output
+
+    restart: unless-stopped
+    #command: python3 main.py
+
+volumes:
+  data:
+  log:
+  src:
+  confd:
+  databases_backup:
+    driver: local
+    driver_opts:
+      device: "/Users/siesicn/Virgin\ Media\ O2/Customer\ Monitoring\ Team\ -\ Team\ Folders/CMT\ Analytics\ &\ Insights/04\ -\ KEY\ KPIs\ &\ DASHBOARDS/08\ -\ NEW\ EXEC\ DASHBOARD\ 2023/04\ -\ Database\ Backups"
+      o: bind
+      type: none
+  email_attachments:
+    driver: local
+    driver_opts:
+      device: "/Users/siesicn/OneDrive\ -\ Virgin\ Media\ O2/TEF-UK/24\ -\ Email\ attachment\ automation"
+      o: bind
+      type: none
+  complaints_reports:
+      driver: local
+      driver_opts:
+        device: "/Users/siesicn/Virgin\ Media\ O2/Customer\ Monitoring\ Team\ -\ Team\ Folders/CMT\ Analytics\ &\ Insights/04\ -\ KEY\ KPIs\ &\ DASHBOARDS/08\ -\ NEW\ EXEC\ DASHBOARD\ 2023/01\ -\ Script\ outputs\ weekly/01\ -\ Complaints"
+        o: bind
+        type: none
+  joined_report:
+      driver: local
+      driver_opts:
+        device: "/Users/siesicn/Virgin\ Media\ O2/Customer\ Monitoring\ Team\ -\ Team\ Folders/CMT\ Operations/Reporting/MOBILE/CEM\ JOINED\ REPORTING"
+        o: bind
+        type: none
+  mr_outputs:
+      driver: local
+      driver_opts:
+        device: "/Users/siesicn/Virgin\ Media\ O2/Customer\ Monitoring\ Team\ -\ Team\ Folders/CMT\ Analytics\ &\ Insights/04\ -\ KEY\ KPIs\ &\ DASHBOARDS/08\ -\ NEW\ EXEC\ DASHBOARD\ 2023/00\ -\ Script\ outputs\ monthly"
+        o: bind
+        type: none
+  wr_outputs:
+      driver: local
+      driver_opts:
+        device: "/Users/siesicn/Virgin\ Media\ O2/Customer\ Monitoring\ Team\ -\ Team\ Folders/CMT\ Analytics\ &\ Insights/04\ -\ KEY\ KPIs\ &\ DASHBOARDS/08\ -\ NEW\ EXEC\ DASHBOARD\ 2023/01\ -\ Script\ outputs\ weekly"
+        o: bind
+        type: none
