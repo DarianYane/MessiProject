@@ -6,6 +6,9 @@ import time
 
 from datetime import datetime
 
+from create_db import *
+
+
 # Cumpleaños de Leo
 leo_birthday = datetime(1987, 6, 24)
 
@@ -14,10 +17,7 @@ barcelona_exit = datetime(2021, 5, 30)
 psg_exit = datetime(2023, 6, 30)
 
 
-# Definir df como una variable global
-df = None
-
-def update_csv():
+def obtener_datos():
     global df  # Definir df como una variable global
     # Obtenemos la tabla de ejemplo de una página web
     url = "http://messi.starplayerstats.com/en/goals/0/0/all/0/0/0/t/all/all/0/0/1"
@@ -187,54 +187,19 @@ def update_csv():
 
 
     # Guardar el DataFrame en un archivo CSV utilizando la función df.to_csv(), y en un archivo XLSX utilizando la función df.to_excel().
-    df.to_csv("messi_goals.csv", index=False)
-    df.to_excel("messi_goals.xlsx", sheet_name="Goals")
+    #df.to_csv("messi_goals.csv", index=False)
+    #df.to_excel("messi_goals.xlsx", sheet_name="Goals")
     return df
 
 
-# Programar la ejecución del script cada día a las 9:00 AM
-""" schedule.every().day.at("11:00").do(update_csv)
-
-while True:
-    schedule.run_pending()
-    time.sleep(1) """
-""" Este código programará la ejecución del script update_csv() cada día a las 11:00 AM y guardará la tabla actualizada en el archivo CSV "tabla_messi.csv". Para que el script se siga ejecutando en segundo plano, se utiliza un ciclo while junto con la función schedule.run_pending() y time.sleep(1). """
-
-# Actualizar df
-df = update_csv()
-
-#######################################################################################################################################
-
-'''
-Código para volcar la inscriptformación anterior en una base de datos
-'''
-
-# Llamar al script create_db.py para crear la db si no existe
-# Módulos para actualizar la base de datos
-import sqlite3
-import os
-import subprocess
-
-def verificar_y_ejecutar_creacion_db():
-    # Verificar si el archivo messi_goals.db ya existe
-    if not os.path.exists('messi_goals.db'):
-        # Si no existe, llamar al script create_db.py
-        subprocess.run(['python', 'create_db.py'])
-        print("Se ha creado la base de datos 'messi_goals.db'.")
-    else:
-        print("La base de datos 'messi_goals.db' ya existe.")
-
-verificar_y_ejecutar_creacion_db()
-
 # Actualizar la base de datos SQLite messi_goals.db con la información que se encuentra en el DataFrame df
-def actualizar_base_de_datos(df, nombre_archivo):
+def actualizar_base_de_datos(df):
     # Conexión a la base de datos
-    conexion = sqlite3.connect(nombre_archivo)
-    cursor = conexion.cursor()
+    conexion, cursor = connect_sql()
 
     try:
         # Truncar la tabla antes de insertar nuevos datos
-        cursor.execute('''DELETE FROM goals''')
+        cursor.execute('''DELETE FROM messi.goals''')
         conexion.commit()
         print("Se han eliminado todas las filas existentes en la tabla 'goals'.")
     except Exception as e:
@@ -250,13 +215,17 @@ def actualizar_base_de_datos(df, nombre_archivo):
             # Convertir las columnas de tipo Timestamp a formato de cadena de texto en formato ISO
             fila['Date'] = fila['Date'].isoformat()
 
-            # Insertar datos
-            cursor.execute('''
-                INSERT INTO goals (N_of_Goal, Date, Home_team, Away_team, Minute, What, How, Jersey, Competition_abb, Competition_name,  
+            #print(f"fila: {fila}\nlen:{len(fila)}")
+
+            sql = '''
+                INSERT INTO messi.goals (N_of_Goal, Date, Home_team, Away_team, Minute, What, How, Jersey, Competition_abb, Competition_name,  
                 Goals_H, Goals_A, Result, Leo_age, Leo_team, 
                 Scored_team, Home_or_Away, Leo_result, Partial_Score_H, Partial_Score_A, Minute_adjusted, Goal_time_period) 
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
-            ''', tuple(fila))
+                VALUES (%d, "%s", "%s", "%s", "%s", "%s", "%s", %d, "%s", "%s", %d, %d, "%s", "%s", "%s", "%s", "%s", "%s", %d, %d, %d, "%s")
+            '''  % tuple(fila)
+
+            # Insertar datos
+            cursor.execute(sql)
         
         # Guardar cambios y cerrar conexión
         conexion.commit()
@@ -268,7 +237,39 @@ def actualizar_base_de_datos(df, nombre_archivo):
     finally:
         conexion.close()
 
-# Llamar a la función para actualizar la base de datos
-nombre_archivo = 'messi_goals.db'
-actualizar_base_de_datos(df, nombre_archivo)
-print(f'Se han actualizado los datos en la base de datos "{nombre_archivo}" correctamente.')
+
+def update():
+    
+    # Actualizar informacion
+    df = obtener_datos()
+
+    # Guardar datos
+    actualizar_base_de_datos(df)
+
+    print("Proceso finalizado")
+
+
+
+def run():
+    # Programar la ejecución del script cada día a las 9:00 AM
+    schedule.every().day.at("11:00").do(update)
+
+    #Crear base de datos si no existe.
+    crear_base_de_datos()
+
+    #Update table
+    update()
+
+    # Este código programará la ejecución del script update_csv() cada día a las 11:00 AM y guardará la tabla actualizada en el archivo CSV "tabla_messi.csv". 
+    # Para que el script se siga ejecutando en segundo plano, se utiliza un ciclo while junto con la función schedule.run_pending() y time.sleep(1)
+    while True:
+        schedule.run_pending()
+        time.sleep(1)
+    
+
+#######################################################################################################################################
+
+
+# ------------------------------------------------------------------------------------------------------------------------------#
+if __name__ == '__main__':
+	run()

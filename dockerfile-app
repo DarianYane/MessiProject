@@ -11,5 +11,5 @@ WORKDIR /usr/app/src
 COPY ./requirements.txt ./
 RUN pip install -r requirements.txt
 
-ENTRYPOINT ["tail"]
-CMD ["-f","/dev/null"]
+# ENTRYPOINT ["tail"]
+# CMD ["-f","/dev/null"]
