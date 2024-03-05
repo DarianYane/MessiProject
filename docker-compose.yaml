@@ -1,0 +1,41 @@
+# Use root/example as user/password credentials
+version: '3.1'
+name: messi-the-goat
+services:
+
+  db:
+    build:
+      context: .
+      dockerfile: dockerfile-db
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: messiGOAT
+
+    ports:
+      - 4810:3306
+
+    volumes:
+      - ./db-script:/usr/db-script
+      - ./backup:/usr/db-backup
+      - ./data:/var/lib/mysql
+
+  pythonapp:
+    build:
+      context: .
+      dockerfile: dockerfile-app
+
+    depends_on:
+      - db
+
+    volumes:
+      - ./src:/usr/app/src
+      - ./confd:/etc/mysql/conf.d
+
+    restart: unless-stopped
+    command: python3 main.py
+
+volumes:
+  data:
+  src:
+  confd:
+  backup:
